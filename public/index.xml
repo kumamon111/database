@@ -2,22 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo XMag</title>
-    <link>/</link>
+    <link>https://kumamon111.github.io/database/</link>
     <description>Recent content on Hugo XMag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kumamon111.github.io/database/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>不動産投資会社リストまとめ</title>
-      <link>/post/2017/06/12/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E4%BC%9A%E7%A4%BE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81/</link>
+      <title>不動産投資会社一覧</title>
+      <link>https://kumamon111.github.io/database/post/2017/06/12/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7/</link>
       <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017/06/12/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E4%BC%9A%E7%A4%BE%E3%83%AA%E3%82%B9%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81/</guid>
+      <guid>https://kumamon111.github.io/database/post/2017/06/12/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7/</guid>
       <description>ファミリーオフィス 株式会社グッドシェアーズ 投資家(シェアハウス) webマーケ◎ 年収700万～ B http://g-shares.com/ 東京不動産投資 投資家(セミナー) 投資に興味が</description>
+    </item>
+    
+    <item>
+      <title>人材紹介会社一覧</title>
+      <link>https://kumamon111.github.io/database/post/2017/06/12/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kumamon111.github.io/database/post/2017/06/12/%E4%BA%BA%E6%9D%90%E7%B4%B9%E4%BB%8B%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7/</guid>
+      <description>パソナキャリア http://h.accesstrade.net/sp/cc?rk=0100ix3r00dg53 type転職エージェント http://h.accesstrade.net/sp/cc?rk=0100hhns00dg53 JAC Recruitment http://h.accesstrade.net/sp/cc?rk=01004u3p00dg53 マスメディアン http://px.a8.net/svt/ejp?a8mat=2NMRH8+7K39MY+3JN0+5ZEMQ クリーデンス https://www.crede.co.jp/ メイテックネクスト http://www.m-next.jp/ キャリコネ転職サービス http://careerconnection.jp/job/ マイナビエージェン</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kumamon111.github.io/database/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kumamon111.github.io/database/post/1/01/01/</guid>
+      <description></description>
     </item>
     
   </channel>

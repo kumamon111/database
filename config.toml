@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://kumamon111.github.io/database/"
 languageCode = "en-us"
 title = "Hugo XMag"
 theme = "hugo-xmag"
