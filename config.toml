@@ -1,7 +1,8 @@
 baseurl = "http://busi-base.tk/"
-languageCode = "jp"
+languageCode = "ja"
 title = "Busi-base"
 theme = "hugo-xmag"
+canonifyurls = true
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
