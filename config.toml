@@ -1,6 +1,6 @@
 baseurl = "https://kumamon111.github.io/database/"
-languageCode = "en-us"
-title = "Hugo XMag"
+languageCode = "jp"
+title = "Busi-base"
 theme = "hugo-xmag"
 googleAnalytics = ""
 disqusShortname = ""

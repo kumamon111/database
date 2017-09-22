@@ -1,6 +1,7 @@
 ---
 title: 不動産投資会社一覧
 date: 2017-06-12
+category: list up
 ---
 
 | 名前                                             | ターゲット                       | HP                                                       |
@@ -114,7 +115,6 @@ date: 2017-06-12
 | 株式会社クローバークリエイションズ               |                                  | http://www.prima-clover.com/company/index.html           |
 | J-REC                                            | 不動産実務検定                   | http://www.j-rec.or.jp/                                  |
 | 株式会社東京エステートバンク                     | コンサルタント                   | http://tokyo-home.jp                                     |
-| youtube                                          |                                  |                                                          |
 | 株式会社ギブコム                                 | 中古マンション投資               | http://www.givecom.co.jp/                                |
 | ダイムラーコーポレーション                       | 居住・投資                       | http://www.daimlar.jp/                                   |
 | 三和エステート                                   | 居住・投資                       | https://www.sanwa-estate.com/                            |
