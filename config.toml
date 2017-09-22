@@ -38,7 +38,7 @@ paginate = 6
     description = "A website built through Hugo and blogdown."
     summary_length = 300
     github_edit = ""
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [kumamon-t]() 2017 |  [Twitter]()"
 
 [params.text]
     back = "&larr; Back to Home"
