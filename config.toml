@@ -1,4 +1,4 @@
-baseurl = "https://kumamon111.github.io/database/"
+baseurl = "http://busi-base.tk/"
 languageCode = "jp"
 title = "Busi-base"
 theme = "hugo-xmag"
