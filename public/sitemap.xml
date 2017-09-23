@@ -23,13 +23,30 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/</loc>
     <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://busi-base.tk/categories/career/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/categories/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/intern/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,6 +58,78 @@
   
   <url>
     <loc>http://busi-base.tk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%81%BF%E3%82%93%E3%81%AA%E7%9F%A5%E3%82%89%E3%81%AA%E3%81%84%E3%81%99%E3%81%94%E3%81%84%E4%BB%95%E4%BA%8B/</loc>
+    <lastmod>2017-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%83%AA%E3%82%B9%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E4%B8%8D%E5%8B%95%E7%94%A3%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E4%B8%AD%E9%80%94/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E5%96%B6%E6%A5%AD%E3%83%9E%E3%83%B3%E7%94%A8/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E5%A4%96%E8%B3%87/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E6%8E%A1%E7%94%A8/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E6%96%B0%E5%8D%92/</loc>
+    <lastmod>2017-06-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -31,13 +31,13 @@ paginate = 6
     name = "Tags"
     url = "/tags/"
     weight = 4
-[
+
 
 [params]
     description = "A website built through Hugo and blogdown."
     summary_length = 300
     github_edit = ""
-    footer = "&copy; [kumamon-t]() 2017 |  [Twitter]()"
+    footer = "&copy; [kumamon-t] 2017 |  [Twitter](https://twitter.com/innovative_usjp)"
 
 [params.text]
     back = "&larr; Back to Home"

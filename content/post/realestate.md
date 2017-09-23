@@ -1,7 +1,8 @@
 ---
 title: 不動産投資会社一覧
 date: 2017-06-12
-category: list up
+categories: [ "リスト" ]
+tags: [ "営業マン用", "リストアップ", "不動産投資" ]
 ---
 
 | 名前                                             | ターゲット                       | HP                                                       |
