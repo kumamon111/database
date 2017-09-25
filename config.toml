@@ -1,6 +1,7 @@
 baseurl = "http://busi-base.tk/"
 languageCode = "ja"
 title = "Busi-base"
+subtitle = "就活・営業に使える情報を発信"
 theme = "hugo-xmag"
 canonifyurls = true
 googleAnalytics = ""

@@ -13,3 +13,5 @@ title: ビジブロ著者プロファイル
 
 <i class="fa fa-address-card-o" aria-hidden="true">Contact:1001beargai@gmail.com,</i>
 <i class="fa fa-twitter" aria-hidden="true">https://twitter.com/innovative_usjp</i> 
+
+> I would appreciate if you donate for cunducting this site <a href="">from here</a> 
