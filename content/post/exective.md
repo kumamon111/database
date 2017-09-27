@@ -6,9 +6,9 @@ tags: [ "ファンド", "外資", "アセットマネジメント", "新卒", "�
 ---
 
 <br/>
-### <a href="http://www.egonzehnder.com/jp/our-services/client-services/executive-search.html">エグゼクティブサーチとは</a>   
+### <div style="text-align: center;"><a href="http://www.egonzehnder.com/jp/our-services/client-services/executive-search.html">エグゼクティブサーチとは</a></div>   
 <br/>
-参照：エゴンゼンダーHP より
+<h6>*参照：エゴンゼンダーHP より</h>
 <br/>
 <br/>
 
