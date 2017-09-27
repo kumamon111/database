@@ -13,13 +13,13 @@ tags: [ "ファンド", "外資", "アセットマネジメント", "新卒", "�
 ### 激レアの外資金融インターンシップ情報を公開
 <br />
 <br />
-<h3>①  Western Asset</h>   <a href="http://www.westernasset.co.jp/ja/index.cfm">採用サイトへ</a>
+①  Western Asset  <a href="http://www.westernasset.co.jp/ja/index.cfm">採用サイトへ</a>
 <br />
 <br />
 <br />
 <br />
 
->- 期間：3month
+>- 期間：3 month
 <br />
 <br />
 <br />
@@ -28,7 +28,6 @@ tags: [ "ファンド", "外資", "アセットマネジメント", "新卒", "�
 <br />
 <br />
 >- 難易度：☆☆
-<br />
 <br />
 <br />
 
