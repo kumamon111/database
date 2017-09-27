@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/post/2017/04/16/%E5%A4%96%E8%B3%87%E7%B3%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89%E4%BC%9A%E7%A4%BE%E4%B8%80%E8%A6%A7/</loc>
+    <lastmod>2017-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/2017/04/16/%E6%A5%AD%E5%8B%99%E3%81%AE99%E3%81%8C%E8%8B%B1%E8%AA%9E%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E4%B8%80%E8%A6%A7/</loc>
     <lastmod>2017-04-16T00:00:00+00:00</lastmod>
   </url>
@@ -53,6 +58,12 @@
   <url>
     <loc>http://busi-base.tk/categories/intern/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/list/</loc>
+    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -98,12 +109,6 @@
   <url>
     <loc>http://busi-base.tk/tags/%E3%83%95%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</loc>
-    <lastmod>2017-06-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
