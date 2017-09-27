@@ -1,7 +1,7 @@
 ---
 title: ファンド新卒・中途採用一覧
 date: 2017-06-15
-categories: [ "Career" ]
+categories: [ "career" ]
 tags: [ "ファンド", "外資", "アセットマネジメント", "新卒", "中途", "採用" ]
 ---
 <h6>

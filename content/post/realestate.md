@@ -1,7 +1,7 @@
 ---
 title: 不動産投資会社一覧
 date: 2017-06-11
-categories: [ "List" ]
+categories: [ "list" ]
 tags: [ "営業マン用", "リストアップ", "不動産投資" ]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 業務の99%が英語のインターン一覧
 date: 2017-04-16
-categories: [ "Intern" ]
+categories: [ "intern" ]
 tags: [ "外資", "インターン", "英語" ]
 ---
 

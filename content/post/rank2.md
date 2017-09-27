@@ -1,7 +1,7 @@
 ---
 title: 企業内の年収格差がない会社ランキング
 date: 2017-04-16
-categories: [ "Ranking" ]
+categories: [ "ranking" ]
 tags: [ "新卒", "中途", "ファーストキャリア" ] 
 ---
 
