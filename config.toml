@@ -4,7 +4,7 @@ title = "Busi-base"
 
 theme = "hugo-xmag"
 canonifyurls = true
-googleAnalytics = ""
+googleAnalytics = "UA-107250739-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
