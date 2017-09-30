@@ -35,8 +35,8 @@ paginate = 6
 
 
 [params]
-    description = "A website built through Hugo and blogdown."
-    subtitle = "就活・営業に使える情報を発信"
+    description = "就活・営業に使える情報を発信"
+
     summary_length = 300
     github_edit = ""
     footer = "&copy; kumamon 2017 |  [Twitter Follow me!](https://twitter.com/innovative_usjp)"
