@@ -6,10 +6,19 @@
     <description>Recent content on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 03 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>知ってるとモテるTwitterからのデータ収集方法</title>
+      <link>http://busi-base.tk/post/2017/09/17/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%A8%E3%83%A2%E3%83%86%E3%82%8Btwitter%E3%81%8B%E3%82%89%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/2017/09/17/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%A8%E3%83%A2%E3%83%86%E3%82%8Btwitter%E3%81%8B%E3%82%89%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E6%96%B9%E6%B3%95/</guid>
+      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。 IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet</description>
+    </item>
     
     <item>
       <title>留学生必見〜留学先で母国語が活かせるバイト〜</title>
@@ -62,16 +71,7 @@
       <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/2017/04/17/%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%B0%E3%83%86%E3%82%A3%E3%83%96%E3%82%B5%E3%83%BC%E3%83%81%E3%82%92%E8%A1%8C%E3%81%86%E5%A4%96%E3%82%B3%E3%83%B3%E4%B8%80%E8%A6%A7/</guid>
-      <description>エグゼクティブサーチとは *参照：エゴンゼンダーHP より 会社名 コーン・フェリー http://www.haygroup.com/jp/careers/index.aspx?id=4827 &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; エゴンゼンダー http://www.egonzehnder.com/jp/ &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; スペンサースチュアート https://candidateregistration.spencerstuart.com/ &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; ハイドリック・ア</description>
-    </item>
-    
-    <item>
-      <title>知ってるとモテるTwitterからのデータ収集方法</title>
-      <link>http://busi-base.tk/post/2017/04/17/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%A8%E3%83%A2%E3%83%86%E3%82%8Btwitter%E3%81%8B%E3%82%89%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E6%96%B9%E6%B3%95/</link>
-      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/2017/04/17/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E3%81%A8%E3%83%A2%E3%83%86%E3%82%8Btwitter%E3%81%8B%E3%82%89%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E5%8F%8E%E9%9B%86%E6%96%B9%E6%B3%95/</guid>
-      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。 IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet</description>
+      <description>エグゼクティブサーチとは 役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。</description>
     </item>
     
     <item>
@@ -117,33 +117,6 @@
       
       <guid>http://busi-base.tk/post/2017/04/16/%E6%A5%AD%E5%8B%99%E3%81%AE99%E3%81%8C%E8%8B%B1%E8%AA%9E%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E4%B8%80%E8%A6%A7/</guid>
       <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」 「……。」 実はそんな英語使ってません。 あっても翻訳と</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://busi-base.tk/post/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/1/01/01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://busi-base.tk/post/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/1/01/01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://busi-base.tk/post/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/1/01/01/</guid>
-      <description></description>
     </item>
     
     <item>
