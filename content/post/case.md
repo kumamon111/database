@@ -22,37 +22,39 @@ tags: [ "IFTTT", "新技術", "スクレイピング", "業務効率化", "モ�
 
 ### 設定方法
 
-<h3>上タブのMy Appletをクリック</h>
+<h4>１上タブのMy Appletをクリック</h>
 <br/>
-<h3>New Appletをクリック</h>
 <br/>
-<h3>Thisをクリック。次にtwitterマークをクリック。</h>
+<h4>２New Appletをクリック</h>
+<br/>
+<br/>
+<h4>３Thisをクリック。次にtwitterマークをクリック。</h>
 <br/>
 <br/>
 <img src="/images/a.png">
 <br/>
 <br/>
-<h3>New Tweet from searchを検索</h>
+><h3>４New Tweet from searchを検索</h>
 <img src="/images/b.png">
 <br/>
 <br/>
-<h3>検索キーワードを入力</h>
+><h3>５検索キーワードを入力</h>
 <img src="/images/c.png">
 <br/>
 <br/>
-<h3>thatをクリック</h>
+><h3>６Thatをクリック</h>
 <img src="/images/d.png">
 <br/>
 <br/>
-<h3>google driveをクリック</h>
+><h3>７Google driveをクリック</h>
 <img src="/images/e.png">
 <br/>
 <br/>
-<h3>add row to spreadsheetをクリック</h>
+><h3>８Add row to spreadsheetをクリック</h>
 <img src="/images/f.png">
 <br/>
 <br/>
-<h3>スプレッドシートに行って完成を確認</h>
+><h3>９スプレッドシートに行って完成を確認</h>
 <img src="/images/g.png">
 
 ### どういう場面で使えるか
