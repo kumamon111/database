@@ -9,53 +9,54 @@ tags: [ "IFTTT", "新技術", "スクレイピング", "業務効率化", "モ�
 
 本日紹介するのは、IFTTTというソフトウェア。
 
->IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Instagram, or Pinterest.
-<h6>IFTTT紹介ページより抜粋</h>
+IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Instagram, or Pinterest.
+
+
+
+<br/>
+
+検索ワードを一つ決めて、それを登録することで、その後勝手にスプレッドシート上で表示することができます。
+
+<img src="/images/g.png">完成後がこちら
 
 
 <br/>
-<p>検索ワードを一つ決めて、それを登録することで、その後勝手にスプレッドシート上で表示することができます。</p>
+<br/>
 
 
-<img src="/images/r.png">完成後がこちら
+>### 設定方法
 
 
-### 設定方法
-
-<h4>１上タブのMy Appletをクリック</h>
+<img src="/images/e.png">
+#### １上タブのMy Appletをクリック
+#### ２ New Appletをクリック
+#### ３ Thisをクリック。次にtwitterマークをクリック。
+<img src="/images/a.png">
 <br/>
 <br/>
-<h4>２New Appletをクリック</h>
-<br/>
-<br/>
-<h4>３Thisをクリック。次にtwitterマークをクリック。</h>
-<br/>
-<br/>
-<img src="/images/u.png">
-<br/>
-<br/>
-<h3>４New Tweet from searchを検索</h>
+#### ４ New Tweet from searchを検索
 <img src="/images/b.png">
 <br/>
 <br/>
-<h3>５検索キーワードを入力</h>
+#### ５ 検索キーワードを入力
 <img src="/images/c.png">
 <br/>
 <br/>
-<h3>６Thatをクリック</h>
-<img src="/images/i.png">
+#### ６ Thatをクリック
+<img src="/images/d.png">
 <br/>
 <br/>
-<h3>７Google driveをクリック</h>
+#### ７ Google driveをクリック
 <img src="/images/e.png">
 <br/>
 <br/>
-<h3>８Add row to spreadsheetをクリック</h>
+#### ８ Add row to spreadsheetをクリック
 <img src="/images/f.png">
 <br/>
 <br/>
-<h3>９スプレッドシートに行って完成を確認</h>
-<img src="/images/r.png">
+#### ９ スプレッドシートに行って完成を確認
+<img src="/images/g.png">
+
 
 ### どういう場面で使えるか
 twitterは今や世界最大の情報量を誇っています。かつ個人が自分の思っている本当のことをトラックできるため、ニュース記事やfacebookなどの他のどのSNSよりも消費者の行動を正確に捉えることができると言えるでしょう。学生のリサーチ、企業のマーケティングでぜひ利用して見てはいかがでしょうか。

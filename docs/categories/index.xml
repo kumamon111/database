@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Career</title>
       <link>http://busi-base.tk/categories/career/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/categories/career/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Intern</title>
       <link>http://busi-base.tk/categories/intern/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/categories/intern/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>List</title>
       <link>http://busi-base.tk/categories/list/</link>
-      <pubDate>Sun, 11 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2010 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/categories/list/</guid>
       <description></description>
@@ -50,9 +50,18 @@
     <item>
       <title>Ranking</title>
       <link>http://busi-base.tk/categories/ranking/</link>
-      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/categories/ranking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sales</title>
+      <link>http://busi-base.tk/categories/sales/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/categories/sales/</guid>
       <description></description>
     </item>
     
