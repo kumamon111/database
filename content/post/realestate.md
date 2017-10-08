@@ -3,6 +3,7 @@ title: 不動産投資会社一覧
 date: 2010-06-11
 categories: [ "list" ]
 tags: [ "営業マン用", "リストアップ", "不動産投資" ]
+description: 
 ---
 
 | 名前                                             | ターゲット                       | HP                                                       |

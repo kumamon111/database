@@ -3,6 +3,7 @@ title: 知ってるとモテるTwitterからのデータ収集方法
 date: 2017-09-17
 categories: [ "業務効率化" ]
 tags: [ "IFTTT", "新技術", "スクレイピング", "業務効率化", "モテる" ]
+description: IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Instagram, or Pinterest.
 ---
 
 ### Twitterの検索ワードを自動的にスプレッドシードに追加
