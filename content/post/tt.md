@@ -35,6 +35,17 @@ description: 営業では花形とも言っていい証券営業、実は日本�
 <br/>
 <br/>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4907783597381002"
+     data-ad-slot="6815644540"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 
 ### 日本株の取引量
 

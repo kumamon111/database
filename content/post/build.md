@@ -47,8 +47,18 @@ IFTTTとはこのブログの中でも紹介していますが（<a href="http:/
     おそらくlinkedinはBusiness要素が強いため仕事の一環として扱っており、それゆえ企業の看板としておろそかな対応にはできないのでしょう。
 <br/>
 
-<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4907783597381002"
+     data-ad-slot="6815644540"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
+<br/>
 
 ### ひとまず有名どころだけ公開
 以下にとりあえず5社ほど掲載しておきました。
