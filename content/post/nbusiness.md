@@ -37,10 +37,17 @@ description: インターンや就活の時期になってまいりましたが�
 | 競合 | 競合が市場や顧客のニーズの変化にどのように対応しているかを知る |
 | 自社 | 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす |
 参照　<a href="https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/">https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/</a>
-<br/>
 
-<br/>
-<br/>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inn feed -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:60px"
+     data-ad-client="ca-pub-4907783597381002"
+     data-ad-slot="3220934333"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 #### ⬜︎ ケースサンプル
 
 では実際のケースを見ていきましょう。日産自動車を取り上げて見たいと思います。
@@ -78,6 +85,9 @@ description: インターンや就活の時期になってまいりましたが�
 >・ＥＶ（電気自動車）量産は莫大な投資が必要なうえ、市場見通しも不明瞭なため、極めてリスクが高い。
 
 <br/>
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=books&f=ifr&linkID=6686d7c288d35cb0e94504116767c06c&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 <br/>
 #### SWOT
 ここまで3Cによる自社・競合・市場の3社を見てきました。ここからは、いよいよ課題の抽出に移ります。ここで使用するのはSWOT分析というフレームワークです。通常、SWOT分析は3Cと並ぶ現状分析のフレームワークですが、3Cでは課題が見えにくいため、SWOT分析でより課題の部分を明らかにしていきます。
@@ -90,6 +100,16 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
 <br/>
 <br/>
 ではここでも実際のケースを見ていきましょう。
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inn feed -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:60px"
+     data-ad-client="ca-pub-4907783597381002"
+     data-ad-slot="3220934333"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 | SWOT |  |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -121,6 +141,8 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
 
 <br/>
 <br/>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=watch&f=ifr&linkID=1dd1f5975395ce8e5859598a41ab6109&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 <br/>
 ### 3 課題が抽出できたら
 課題を抽出できたら、今度はいよいよ新規事業の組み立てです。ここで考えるべき要素は、3つ。

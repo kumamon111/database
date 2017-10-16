@@ -25,6 +25,9 @@ description: 時間のない留学生は必見。自分のスキルを活かし�
 | cafetalk   | https://cafetalk.com/          | 色々           |
 
 
+<div align="center"><iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=amazonstudent&banner=01QYV8X044AGYWYC8H82&f=ifr&linkID=49acaa28cf15d405f00a0866033e0f48&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></div>
+
+
 #### Tutoroo 
 https://www.tutoroo.co/
 
@@ -58,6 +61,9 @@ https://gengo.com/translators/
     翻訳専門の仕事です。テストありのプロ集団なので、案件の単価が非常に高いです。
     しかしそのテストをパスするのが大変難しく、おそらくバイリンガルレベルの翻訳力が必要かと思われます。
 <br/> 
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=primemusic&banner=1B492NNK1PH550VC7Y82&f=ifr&linkID=c79b7a5db97d9418d3f30d15e511c452&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 <br/>
 
 ### 2 電話の通信テスト (Global Telephone Testing)
@@ -101,7 +107,7 @@ https://note.mu/
     FXに関してはそれなりの勉強とメンタル強化でなんとかなるかもですが...どうぞお気をつけて。
     ちなみに以下の動画に耐えられた方は、投資家に必要なメンタルを兼ね備えていると言えます。
 
-https://youtu.be/chG9doLxf0w
+<iframe width="560" height="315" src="https://www.youtube.com/embed/chG9doLxf0w" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
@@ -139,6 +145,8 @@ https://youtu.be/chG9doLxf0w
     ただ、0.1円のコインなんて1円になれば10倍だし、もうそれ以上下がるなんてことはまずない。
     くそやっすいコイン見つけて10年くらい待ったら、億万長者になれるんじゃないでしょうか。
     （ちなみに7年前にビットコインを買ってたら、今頃1兆は軽く超えてます。）
+
+<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_728x90.png?ac=bptqvu5o1v" /></a>
     
 <br/>
 
@@ -163,7 +171,8 @@ https://youtu.be/chG9doLxf0w
     マーケットは、あなたのお金を際限なく奪っていきます。それでもという覚悟ならまずこの本を読んでください。
     もし失敗しても死なないようなメンタルをつけることは必須です。（毎回のなんとかショックで、自殺者が必ず出てます）
 
- <a href="https://www.amazon.co.jp/%E3%82%BE%E3%83%BC%E3%83%B3-%E2%80%94-%E7%9B%B8%E5%A0%B4%E5%BF%83%E7%90%86%E5%AD%A6%E5%85%A5%E9%96%80-%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%80%E3%82%B0%E3%83%A9%E3%82%B9/dp/4939103579">ゾーン — 相場心理学入門</a>
+
+ <a target="_blank"  href="https://www.amazon.co.jp/gp/product/4775972162/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4775972162&linkCode=as2&tag=kumamon10a-22&linkId=f73717cec5347850c2028ad88e7a7c4c"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4775972162&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL160_&tag=kumamon10a-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=kumamon10a-22&l=am2&o=9&a=4775972162" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <br/>
 

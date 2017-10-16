@@ -12,6 +12,8 @@ description: 役員などの経営幹部または特定の専門的なスキル�
     役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。
     欧米諸国と比較すると、日本では2000年代までは、経営幹部の外部からの招聘はあまり盛んとは言えなかったが、2010年代に入ると、 サントリーにローソンから新浪剛史が、 ベネッセに日本マクドナルドから原田泳幸が、 資生堂に日本コカ・コーラから魚谷雅彦が、LIXILにゼネラル・エレクトリックから藤森義明が、社長としてスカウトされるケースが増えたことで、その背後にあるエグゼクティブサーチに対しても注目が集まっている。
 <br/>
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=watch&f=ifr&linkID=1dd1f5975395ce8e5859598a41ab6109&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br/>
 
 

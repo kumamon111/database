@@ -18,6 +18,8 @@ description: 外資金融のインターンが見つからない理由と入社�
 >#### 2 見つけたとしても入社のハードルが高い 
 外資の金融、それこそお化けみたいなキャリアパスを踏んできた奴がゴロゴロいますから、当然ハードルは高いものです。基本的に、学歴・経歴・英語が選考要素ですが、ただポテンシャルをしっかり見てくれる会社もあります。
 <br/>
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=watch&f=ifr&linkID=1dd1f5975395ce8e5859598a41ab6109&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br/>
 
 ### ︎︎　情報を見逃さないために...
@@ -36,6 +38,8 @@ IFTTTとはこのブログの中でも紹介していますが（<a href="http:/
  非公開の場合、基本的に企業に問い合わせることが必要になりますが、外資金融はリクルートを人材会社に任せている場合も多くあるため、HPに連絡先が書いていないこともあります。また、基本的に問い合わせからくる連絡は投資家からの問い合わせ窓口にもなっているので、おそらく返信が来る確率は10%もないでしょう。
 
 <br/>
+
+
 
 #### linkedinからコンタクトしてみよう (https://www.linkedin.com)
     linkedinとは、世界最大級のビジネス用SNSで、日本では有名ではないですが、
@@ -100,6 +104,8 @@ http://www.lincolninternational.com/careers/administrative-professionals/asia/ad
      給与：N/A
      難易度：☆☆☆☆☆
 <br/>
+
+
 
 
 #### 4 Societe General
