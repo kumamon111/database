@@ -15,28 +15,22 @@ description: インターンや就活の時期になってまいりましたが�
 ### 1 まず何から手をつけるべきか
 おそらくテーマは様々あると思います。
 <br/>
->「今より売上を〜万円上げろ」
->「新規サービス企画」
->「プロモーション施策」etc...
+「今より売上を〜万円上げろ」
+「新規サービス企画」
+「プロモーション施策」etc...
 <br/>
 しかし、どんな新規事業にも克服すべき課題があるはずです。まずはそれを明確にしていきましょう。
 <br/>
-<br/>
+
 <br/>
 ### 2 課題抽出の為の現状分析（3C・SWOT分析）
 課題を探るため、まずは現状分析から始めます。これを助けてくれるのが"3C"というフレームワークです。
 
->3C分析の基盤となる3Cのフレームワーク
-3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。
-3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。
-このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
+    3C分析の基盤となる3Cのフレームワーク
+    3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。
+    3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。
+    このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
 
-| 3C |  |
-|------------|----------------------------------------------------------------------------------------------|
-| 市場・顧客 | 市場や顧客のニーズの変化を知る |
-| 競合 | 競合が市場や顧客のニーズの変化にどのように対応しているかを知る |
-| 自社 | 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす |
-参照　<a href="https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/">https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/</a>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- inn feed -->
@@ -47,6 +41,16 @@ description: インターンや就活の時期になってまいりましたが�
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+
+| 3C |  |
+|------------|----------------------------------------------------------------------------------------------|
+| 市場・顧客 | 市場や顧客のニーズの変化を知る |
+| 競合 | 競合が市場や顧客のニーズの変化にどのように対応しているかを知る |
+| 自社 | 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす |
+参照<a href="https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/">カイロスホームページより</a>
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=jewelry&f=ifr&linkID=2013cc44dd6157642fd721bdf26b8034&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 #### ⬜︎ ケースサンプル
 
@@ -72,6 +76,16 @@ description: インターンや就活の時期になってまいりましたが�
 
 >・世界ではハイブランド企業がトップシェアを誇る
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- inn feed -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:60px"
+     data-ad-client="ca-pub-4907783597381002"
+     data-ad-slot="3220934333"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ##### 市場
 
 >・資源国・新興国市場が成長している。
@@ -86,20 +100,20 @@ description: インターンや就活の時期になってまいりましたが�
 
 <br/>
 
+<div align="center">
+
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=books&f=ifr&linkID=6686d7c288d35cb0e94504116767c06c&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+</div>
 
 <br/>
 #### SWOT
 ここまで3Cによる自社・競合・市場の3社を見てきました。ここからは、いよいよ課題の抽出に移ります。ここで使用するのはSWOT分析というフレームワークです。通常、SWOT分析は3Cと並ぶ現状分析のフレームワークですが、3Cでは課題が見えにくいため、SWOT分析でより課題の部分を明らかにしていきます。
 
->SWOTとは？
-SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分けられます。
-外部環境とは、政治動向、規制、経済・景気、社会動向、技術動向、業界環境の変化や顧客ニーズなど、自社の努力で変えられない要因を指します。これら外部環境を分析して、機会（O）と脅威（T）を導き出します。
-内部環境は、自社でコントロールできる要素であり、SWOT分析で具体的に言えば、強み（S）と弱み（W）に当たります。(カイロス<a href="https://blog.kairosmarketing.net/marketing-strategy/swot-analysis-20131127/">HP</a>より)
-
-<br/>
-<br/>
-ではここでも実際のケースを見ていきましょう。
+    SWOTとは？
+    SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分けられます。
+    外部環境とは、政治動向、規制、経済・景気、社会動向、技術動向、業界環境の変化や顧客ニーズなど、自社の努力で変えられない要因を指します。これら外部環境を分析して、機会（O）と脅威（T）を導き出します。
+    内部環境は、自社でコントロールできる要素であり、SWOT分析で具体的に言えば、強み（S）と弱み（W）に当たります。
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- inn feed -->
@@ -110,6 +124,9 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<br/>
+ではここでも実際のケースを見ていきましょう。
 
 | SWOT |  |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -122,6 +139,9 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
 | ・ガソリン価格の高騰および環境意識の向上から、低燃費車の需要が急拡大している。 | ・電気自動車はガソリン車と比べて構造が単純なため参入障壁が低く、異業種から新規参入が予想される。 |
 
 <br/>
+
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=jewelry&f=ifr&linkID=2013cc44dd6157642fd721bdf26b8034&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
 <br/>
 #### ⬜︎　課題の抽出
 次に、どこが課題となる要素なのかを各要素で組み合わせて考えます。
@@ -154,7 +174,20 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
     事業のリスクリターンを数字で表すことができるか
 
 <br/>
-<br/>
+
+<div align="center">
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4799321579&linkId=3c03bd0e5c4109fb309540be34ecc7d8&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4798146951&linkId=157bde7ffbc00509135fbade6a810728&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4862805485&linkId=844845b7a9417ef63e9db5d2150d3e54&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+
+</div>
+
 <br/>
 ### 4 あとはパワーポイントに落とし込む
 パワーポイントのフレームワークとしては、
@@ -172,7 +205,15 @@ SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分け
     ６リスクリターン等のキャッシュフロー分析
 
 <br/>
-<br/>
+
+<div align="center">
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4478061521&linkId=1362af47fd76a9e72a755a5e4f118387&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
+    </iframe>
+
+</div>
+
+
 <br/>
 ### 5 まとめ
 いかがでしたでしょうか。新規事業立案は多くのインターンで見られるので、使えるフレームワークも多いのではないでしょうか。ぜひお役に立てれば幸いです。今後は就活に役立つ企業の分析をじゃんじゃん更新していきたいと考えています。
