@@ -14,7 +14,7 @@ enableEmoji = true
 paginate = 6
 
 [permalinks]
-    post = "/post/:year/:month/:day/:slug/"
+    post = "/post/:filename/"
 
 [[menu.main]]
     name = "Home"
