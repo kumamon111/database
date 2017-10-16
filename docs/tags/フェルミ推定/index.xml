@@ -6,35 +6,36 @@
     <description>Recent content in フェルミ推定 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/tags/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NZで消費される1年間あたりのトイレットペーパーの長さは？</title>
-      <link>http://busi-base.tk/post/can/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>日本の温泉旅館数を推定しよう</title>
+      <link>http://busi-base.tk/post/ofermi/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/can/</guid>
-      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？ まず、1人あたりどれくらいトイレットペーパーを使う</description>
+      <guid>http://busi-base.tk/post/ofermi/</guid>
+      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
     </item>
     
     <item>
       <title>フェルミ推定におけるフレームワーク</title>
-      <link>http://busi-base.tk/post/go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://busi-base.tk/post/fermi1/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/go/</guid>
+      <guid>http://busi-base.tk/post/fermi1/</guid>
       <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
     </item>
     
     <item>
-      <title>日本の温泉旅館数を推定しよう</title>
-      <link>http://busi-base.tk/post/go.1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>NZで消費される1年間あたりのトイレットペーパーの長さは？</title>
+      <link>http://busi-base.tk/post/ucfermi/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/go.1/</guid>
-      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
+      <guid>http://busi-base.tk/post/ucfermi/</guid>
+      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？ まず、1人あたりどれくらいトイレットペーパーを使う</description>
     </item>
     
   </channel>

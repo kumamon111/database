@@ -6,17 +6,54 @@
     <description>Recent content in 新卒 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/tags/%E6%96%B0%E5%8D%92/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>NZで消費される1年間あたりのトイレットペーパーの長さは？</title>
-      <link>http://busi-base.tk/post/can/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>日本の温泉旅館数を推定しよう</title>
+      <link>http://busi-base.tk/post/ofermi/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/can/</guid>
+      <guid>http://busi-base.tk/post/ofermi/</guid>
+      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
+    </item>
+    
+    <item>
+      <title>フェルミ推定におけるフレームワーク</title>
+      <link>http://busi-base.tk/post/fermi1/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/fermi1/</guid>
+      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
+    </item>
+    
+    <item>
+      <title>NZで消費される1年間あたりのトイレットペーパーの長さは？</title>
+      <link>http://busi-base.tk/post/ucfermi/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/ucfermi/</guid>
       <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？ まず、1人あたりどれくらいトイレットペーパーを使う</description>
+    </item>
+    
+    <item>
+      <title>独占入手あり 「高時給な外銀インターンまとめ」</title>
+      <link>http://busi-base.tk/post/aintern/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/aintern/</guid>
+      <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度の</description>
+    </item>
+    
+    <item>
+      <title>世界高級自動車会社のインターン</title>
+      <link>http://busi-base.tk/post/bmw/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/bmw/</guid>
+      <description>企業名 BMW 職務内容 BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description Current openings : 1)Engineering ( 2017 Oct - 2018 March ) ASAP 2)Marketing (2017 Dec - 2018 May) 3)Back Office (2018 Jan -2018 Jun) 登録資格 Required soft skills: be able to work under</description>
     </item>
     
     <item>
@@ -30,10 +67,10 @@
     
     <item>
       <title>ファンド新卒・中途採用一覧</title>
-      <link>http://busi-base.tk/post/topit/</link>
+      <link>http://busi-base.tk/post/fund1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/topit/</guid>
+      <guid>http://busi-base.tk/post/fund1/</guid>
       <description>社名 HP ポジション カレイドホールディングス http://www.kaleidoholdings.co.jp/ アソシエイト、アナリスト、アドミニストレイティブスタッフ キャピタランド・ジャパン株式会社 http://www.capitaland.co.jp/index.html クレセン</description>
     </item>
     
@@ -47,24 +84,6 @@
     </item>
     
     <item>
-      <title>フェルミ推定におけるフレームワーク</title>
-      <link>http://busi-base.tk/post/go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/go/</guid>
-      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
-    </item>
-    
-    <item>
-      <title>世界高級自動車会社のインターン</title>
-      <link>http://busi-base.tk/post/bmw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/bmw/</guid>
-      <description>企業名 BMW 職務内容 BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description Current openings : 1)Engineering ( 2017 Oct - 2018 March ) ASAP 2)Marketing (2017 Dec - 2018 May) 3)Back Office (2018 Jan -2018 Jun) 登録資格 Required soft skills: be able to work under</description>
-    </item>
-    
-    <item>
       <title>企業内の年収格差がない会社ランキング</title>
       <link>http://busi-base.tk/post/rank2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -74,30 +93,12 @@
     </item>
     
     <item>
-      <title>日本の温泉旅館数を推定しよう</title>
-      <link>http://busi-base.tk/post/go.1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/go.1/</guid>
-      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
-    </item>
-    
-    <item>
       <title>昇進が速い会社ランキング</title>
       <link>http://busi-base.tk/post/rank3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/rank3/</guid>
       <description>企業名 年収 プレサンスコーポレーション 851 Ｍ＆Ａキャピタルパートナーズ 1905 日本エスリード 881 ドリームインキュベータ 1210 日本Ｍ＆Ａセンター 1237 キーエンス 1756</description>
-    </item>
-    
-    <item>
-      <title>独占入手あり 「高時給な外銀インターンまとめ」</title>
-      <link>http://busi-base.tk/post/build/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/build/</guid>
-      <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度の</description>
     </item>
     
   </channel>
