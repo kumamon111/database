@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ranking on Busi-base</title>
+    <title>Ranking on Business base</title>
     <link>http://busi-base.tk/categories/ranking/</link>
-    <description>Recent content in Ranking on Busi-base</description>
+    <description>Recent content in Ranking on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
 	<atom:link href="http://busi-base.tk/categories/ranking/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ファーストキャリアで力がつく企業ランキング</title>
+      <link>http://busi-base.tk/list/rank1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/list/rank1/</guid>
+      <description>企業名 年収 Ｍ＆Ａキャピタルパートナーズ 1905 野村ホールディングス 1516 スクウェア・エニックス・ホールディングス 1403 スカパーＪＳＡＴホールディングス 1246 日</description>
+    </item>
     
     <item>
       <title>ファーストキャリアで力がつく企業ランキング</title>
@@ -21,11 +30,29 @@
     
     <item>
       <title>企業内の年収格差がない会社ランキング</title>
+      <link>http://busi-base.tk/list/rank2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/list/rank2/</guid>
+      <description>企業名 年収 ＷＤＩ 976 じもとホールディングス 927 大和証券グループ本社 1212 ショーボンドホールディングス 986 あかつきフィナンシャルグループ 896 マネーパートナ</description>
+    </item>
+    
+    <item>
+      <title>企業内の年収格差がない会社ランキング</title>
       <link>http://busi-base.tk/post/rank2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/rank2/</guid>
       <description>企業名 年収 ＷＤＩ 976 じもとホールディングス 927 大和証券グループ本社 1212 ショーボンドホールディングス 986 あかつきフィナンシャルグループ 896 マネーパートナ</description>
+    </item>
+    
+    <item>
+      <title>昇進が速い会社ランキング</title>
+      <link>http://busi-base.tk/list/rank3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/list/rank3/</guid>
+      <description>企業名 年収 プレサンスコーポレーション 851 Ｍ＆Ａキャピタルパートナーズ 1905 日本エスリード 881 ドリームインキュベータ 1210 日本Ｍ＆Ａセンター 1237 キーエンス 1756</description>
     </item>
     
     <item>

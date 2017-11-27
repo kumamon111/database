@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Busi-base</title>
+    <title>Posts on Business base</title>
     <link>http://busi-base.tk/post/</link>
-    <description>Recent content in Posts on Busi-base</description>
+    <description>Recent content in Posts on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
@@ -35,7 +35,16 @@
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/ucfermi/</guid>
-      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？ まず、1人あたりどれくらいトイレットペーパーを使う</description>
+      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 「ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？」 まず、1人あたりどれくらいトイレットペーパーを</description>
+    </item>
+    
+    <item>
+      <title>東京都のタクシーの台数を推定</title>
+      <link>http://busi-base.tk/post/voi/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/voi/</guid>
+      <description>需要・供給サイドから導きます。 需要 東京都の人口:2200㎢ 東京都の面積:1300万人 月1人あたり利用回数 * 使用対象人口 まず1ヶ月に何回タクシ</description>
     </item>
     
     <item>
@@ -66,6 +75,15 @@
     </item>
     
     <item>
+      <title>Iphone X 喋る犬!？</title>
+      <link>http://busi-base.tk/post/iphonex/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/iphonex/</guid>
+      <description>Iphone X フィッシャーズが熱い 他の映像 Don&amp;#39;t buy iPhone X. pic.twitter.com/bUkAR1tX1I &amp;mdash; Quinn Nelson (@SnazzyQ) November 5, 2017</description>
+    </item>
+    
+    <item>
       <title>世界高級自動車会社のインターン</title>
       <link>http://busi-base.tk/post/bmw/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
@@ -80,16 +98,7 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/work/</guid>
-      <description>スキルを活かして働こう 留学先でのファイナンスは非常に難しいところです。「ビザの関係でバイトができない、そもそも学校が忙しすぎてバイトなんて場</description>
-    </item>
-    
-    <item>
-      <title>知ってるとモテるTwitterからのデータ収集方法</title>
-      <link>http://busi-base.tk/post/ifttt/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/ifttt/</guid>
-      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。 IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet</description>
+      <description>スキルを活かして働こう 留学先でのファイナンスは非常に難しいところです。 「ビザの関係でバイトができない、そもそも学校が忙しすぎてバイトなんて場</description>
     </item>
     
     <item>
@@ -153,6 +162,15 @@
       
       <guid>http://busi-base.tk/post/eintern/</guid>
       <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」 「……。」 実はそんな英語使ってません。 あっても翻訳と</description>
+    </item>
+    
+    <item>
+      <title>長期インターンサイト5選</title>
+      <link>http://busi-base.tk/post/intern1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/intern1/</guid>
+      <description>バイトするならインターン 「長期インターンって何？」 「なんか危なそう・・・」 「雑用じゃないの？」 「フルタイムでは働けない」 こんな考えありません</description>
     </item>
     
   </channel>

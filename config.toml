@@ -1,17 +1,19 @@
 baseurl = "http://busi-base.tk/"
 languageCode = "ja"
-title = "Busi-base"
+title = "Business base"
 
-theme = "hugo-xmag"
+theme = "bulma"
 canonifyurls = true
 googleAnalytics = "UA-107250739-1"
-disqusShortname = ""
+disqusShortname = "busibase"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
 hasCJKLanguage = true
 enableEmoji = true
 paginate = 6
+
+
 
 [permalinks]
     post = "/post/:filename/"
@@ -21,26 +23,52 @@ paginate = 6
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Post"
+    url = "/post/"
     weight = 2
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "新卒の方へ"
+    url = "/newgrad/"
+    weight = 9
+[[menu.main]]
+    name = "リスト"
+    url = "/list/"
+    weight = 5
+[[menu.main]]
+    name = "フェルミ推定"
+    url = "/fermi/"
+    weight = 4
+[[menu.main]]
+    name = "テクノロジー"
+    url = "/technology/"
     weight = 3
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
-    weight = 4
+    name = "インターン"
+    url = "/intern/"
+    weight = 6
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+[[menu.main]]
+    name = "英語"
+    url = "/english/"
+    weight = 7
+[[menu.main]]
+    name = "インターンをお探しの方"
+    url = "/interns/"
+    weight = 8
 
 
 [params]
-    description = "就活・営業に使える情報を発信"
-
-    summary_length = 300
-    github_edit = ""
-    footer = "&copy; kumamon 2017 |  [Twitter Follow me!](https://twitter.com/innovative_usjp)"
-
+    description = "意識高い系のための就活・キャリア情報ウェブサイト"
+    facebook = "https://www.facebook.com/base.busi.7" # Optional, to display link to facebook account in menu bar
+    twitter = "https://twitter.com/innovative_usjp" # Optional, to display link to twitter account in menu bar
+    summary_length = 50
+    powered_by = "business base" # Optional, controls name display on footer
+    hide_author = false # Optional, set true to hide author name on posts
+    
+    
 [params.text]
     back = "&larr; Back to Home"
     edit = "Edit this page &rarr;"

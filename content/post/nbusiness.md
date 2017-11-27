@@ -5,9 +5,7 @@ categories: [ "intern" ]
 tags: [ "就活", "フレームワーク", "パワポ", "マーケティング" ]
 description: インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。
 ---
-<br/>
-<br/>
-<br/>
+
 インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。この記事では、そうした提案に使えるフレームワークを順に従って紹介していきます。
 <br/>
 <br/>
@@ -26,10 +24,8 @@ description: インターンや就活の時期になってまいりましたが�
 ### 2 課題抽出の為の現状分析（3C・SWOT分析）
 課題を探るため、まずは現状分析から始めます。これを助けてくれるのが"3C"というフレームワークです。
 
-    3C分析の基盤となる3Cのフレームワーク
-    3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。
-    3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。
-    このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
+3C分析の基盤となる3Cのフレームワーク
+3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
 
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -48,9 +44,11 @@ description: インターンや就活の時期になってまいりましたが�
 | 市場・顧客 | 市場や顧客のニーズの変化を知る |
 | 競合 | 競合が市場や顧客のニーズの変化にどのように対応しているかを知る |
 | 自社 | 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす |
-参照<a href="https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/">カイロスホームページより</a>
+参照: <a href="https://blog.kairosmarketing.net/marketing-strategy/3c-analysis/">カイロスホームページより</a>
 
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=jewelry&f=ifr&linkID=2013cc44dd6157642fd721bdf26b8034&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+<br/>
 
 #### ⬜︎ ケースサンプル
 
@@ -76,15 +74,6 @@ description: インターンや就活の時期になってまいりましたが�
 
 >・世界ではハイブランド企業がトップシェアを誇る
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inn feed -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:60px"
-     data-ad-client="ca-pub-4907783597381002"
-     data-ad-slot="3220934333"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 ##### 市場
 
@@ -100,30 +89,22 @@ description: インターンや就活の時期になってまいりましたが�
 
 <br/>
 
-<div align="center">
 
-<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=books&f=ifr&linkID=6686d7c288d35cb0e94504116767c06c&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
-</div>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=books&f=ifr&linkID=6686d7c288d35cb0e94504116767c06c&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+
+
 
 <br/>
 #### SWOT
 ここまで3Cによる自社・競合・市場の3社を見てきました。ここからは、いよいよ課題の抽出に移ります。ここで使用するのはSWOT分析というフレームワークです。通常、SWOT分析は3Cと並ぶ現状分析のフレームワークですが、3Cでは課題が見えにくいため、SWOT分析でより課題の部分を明らかにしていきます。
 
-    SWOTとは？
-    SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分けられます。
-    外部環境とは、政治動向、規制、経済・景気、社会動向、技術動向、業界環境の変化や顧客ニーズなど、自社の努力で変えられない要因を指します。これら外部環境を分析して、機会（O）と脅威（T）を導き出します。
-    内部環境は、自社でコントロールできる要素であり、SWOT分析で具体的に言えば、強み（S）と弱み（W）に当たります。
+SWOTとは？
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- inn feed -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:60px"
-     data-ad-client="ca-pub-4907783597381002"
-     data-ad-slot="3220934333"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+>SWOT分析のSWOTの各要素は、事業の外部環境と内部環境に分けられます。
+外部環境とは、政治動向、規制、経済・景気、社会動向、技術動向、業界環境の変化や顧客ニーズなど、自社の努力で変えられない要因を指します。これら外部環境を分析して、機会（O）と脅威（T）を導き出します。
+内部環境は、自社でコントロールできる要素であり、SWOT分析で具体的に言えば、強み（S）と弱み（W）に当たります。
+
 
 <br/>
 ではここでも実際のケースを見ていきましょう。
@@ -140,7 +121,7 @@ description: インターンや就活の時期になってまいりましたが�
 
 <br/>
 
-<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=jewelry&f=ifr&linkID=2013cc44dd6157642fd721bdf26b8034&t=kumamon10a-22&tracking_id=kumamon10a-22" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=13&l=ur1&category=jewelry&f=ifr&linkID=2013cc44dd6157642fd721bdf26b8034&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 <br/>
 #### ⬜︎　課題の抽出
@@ -155,63 +136,43 @@ description: インターンや就活の時期になってまいりましたが�
 
 ここで考えられるのは...
 
-    ・「海外基盤が強い」(S)+「資源国・新興国の成長」(O)＝「より海外施策を考えるべき」
+- 「海外基盤が強い」(S)+「資源国・新興国の成長」(O)＝「より海外施策を考えるべき」
 
-    ・「EVの見通し不安定感」(W)+「ガソリン価格の高騰」(O)=「ガソリンの影響を受けやすい国への進出」=「適切な地域への参入」
+- 「EVの見通し不安定感」(W)+「ガソリン価格の高騰」(O)=「ガソリンの影響を受けやすい国への進出」=「適切な地域への参入」
 
 <br/>
 <br/>
+
 <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=48&l=ur1&category=watch&f=ifr&linkID=1dd1f5975395ce8e5859598a41ab6109&t=kumamon10a-22&tracking_id=kumamon10a-22" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 <br/>
 ### 3 課題が抽出できたら
 課題を抽出できたら、今度はいよいよ新規事業の組み立てです。ここで考えるべき要素は、3つ。
 
-    課題に基づいた提案になっているか
+- 課題に基づいた提案になっているか
 
-    SWOTを踏まえて考えられているか（自社のリソース、他社状況）
+- SWOTを踏まえて考えられているか（自社のリソース、他社状況）
 
-    事業のリスクリターンを数字で表すことができるか
+- 事業のリスクリターンを数字で表すことができるか
 
-<br/>
-
-<div align="center">
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4799321579&linkId=3c03bd0e5c4109fb309540be34ecc7d8&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4798146951&linkId=157bde7ffbc00509135fbade6a810728&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4862805485&linkId=844845b7a9417ef63e9db5d2150d3e54&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-
-</div>
 
 <br/>
+
 ### 4 あとはパワーポイントに落とし込む
 パワーポイントのフレームワークとしては、
 
-    １新規提案内容
+- 新規提案内容
 
-    ２現状分析
+- 現状分析
 
-    ３現状分析の結果
+- 現状分析の結果
 
-    ４現状分析から導かれる課題
+- 現状分析から導かれる課題
 
-    ５新規提案とその具体案
+- 新規提案とその具体案
 
-    ６リスクリターン等のキャッシュフロー分析
+- リスクリターン等のキャッシュフロー分析
 
-<br/>
-
-<div align="center">
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=tf_til&t=kumamon10a-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4478061521&linkId=1362af47fd76a9e72a755a5e4f118387&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
-
-</div>
 
 
 <br/>

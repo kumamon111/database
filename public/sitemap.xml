@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://busi-base.tk/fermi/ofermi/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/ofermi/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/fermi/fermi1/</loc>
+    <lastmod>2017-10-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +23,22 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/fermi/ucfermi/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/ucfermi/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/fermi/voi/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/post/voi/</loc>
     <lastmod>2017-10-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,8 +53,28 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/intern/aintern/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/aintern/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/post/iphonex/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/technology/iphonex/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/intern/bmw/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,8 +88,47 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/post/ifttt/</loc>
+    <loc>http://busi-base.tk/project/ifttt/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/project/2008-12-30-password-protection-with-passkeeper/</loc>
+    <lastmod>2008-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/english/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/interns/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/newgrad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/project/interns.1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/project/newgrad.1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/apple/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -64,6 +148,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/fermi/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/ifttt/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -76,7 +166,18 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/intern/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/categories/list/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/list/</loc>
     <priority>0</priority>
   </url>
   
@@ -93,6 +194,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/project/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/categories/ranking/</loc>
     <priority>0</priority>
   </url>
@@ -105,6 +212,24 @@
   
   <url>
     <loc>http://busi-base.tk/tags/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/technology/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/technology/</loc>
+    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/technology/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -133,6 +258,15 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/list/exective/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/exective/</loc>
   </url>
   
@@ -155,13 +289,13 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/tags/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/list/fund1/</loc>
   </url>
   
   <url>
@@ -171,6 +305,10 @@
   <url>
     <loc>http://busi-base.tk/tags/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/list/rank1/</loc>
   </url>
   
   <url>
@@ -224,6 +362,10 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/list/rank2/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/rank2/</loc>
   </url>
   
@@ -257,6 +399,10 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/list/fund/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/fund/</loc>
   </url>
   
@@ -285,7 +431,15 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/list/rank3/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/rank3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/intern/eintern/</loc>
   </url>
   
   <url>
@@ -331,6 +485,19 @@
     <loc>http://busi-base.tk/tags/%E9%87%91%E8%9E%8D/</loc>
     <lastmod>2017-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E9%95%B7%E6%9C%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/intern/intern1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/post/intern1/</loc>
   </url>
   
   <url>

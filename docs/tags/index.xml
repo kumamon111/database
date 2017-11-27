@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Busi-base</title>
+    <title>Tags on Business base</title>
     <link>http://busi-base.tk/tags/</link>
-    <description>Recent content in Tags on Busi-base</description>
+    <description>Recent content in Tags on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>Apple</title>
+      <link>http://busi-base.tk/tags/apple/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IFTTT</title>
       <link>http://busi-base.tk/tags/ifttt/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/tags/ifttt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://busi-base.tk/tags/technology/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/tags/technology/</guid>
       <description></description>
     </item>
     
@@ -53,6 +71,15 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>インターンサイト</title>
+      <link>http://busi-base.tk/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88/</guid>
       <description></description>
     </item>
     
@@ -296,6 +323,15 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/tags/%E9%87%91%E8%9E%8D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>長期インターン</title>
+      <link>http://busi-base.tk/tags/%E9%95%B7%E6%9C%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/tags/%E9%95%B7%E6%9C%9F%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</guid>
       <description></description>
     </item>
     
