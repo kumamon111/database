@@ -1,6 +1,7 @@
 baseurl = "http://busi-base.tk/"
 languageCode = "ja"
 title = "Business base"
+description = "意識高い系のための就活・キャリア情報ウェブサイト"
 
 theme = "bulma"
 canonifyurls = true
