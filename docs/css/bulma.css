@@ -36,6 +36,10 @@ width:20%;
 top:100px;
 }
 
+@media only screen and (max-width: 750px) {
+.box .bannerA { display: none !important; }
+}
+
 .box .container{
 float:left;
 width:80%;            
