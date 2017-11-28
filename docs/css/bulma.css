@@ -38,7 +38,7 @@ top:100px;
 
 .box .container{
 float:left;
-width:80%
+width:80%;            
 }
     
 @media screen and (min-width:1000px){.container{margin:0 auto;max-width:960px}.container.is-fluid{margin:0 20px;max-width:none}}
