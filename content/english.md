@@ -1,6 +1,6 @@
 ### 知っておくと便利なビジネス英語のセンテンス
 
-</br>
+
 
 #### ビジネスメール
 
@@ -43,7 +43,6 @@ I look forward to hearing from you. 　お返事お待ちしております。
 
 
 Don’t hesitate to contact us if you have any questions. 　ご不明な点がございましたら、お気軽に当社にご連絡ください。
-
 
 
 

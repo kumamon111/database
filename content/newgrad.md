@@ -54,14 +54,10 @@ freee  https://www.freee.co.jp/
 
 
 <!-- text:mail -->
-<p><span class="required">*</span>メールアドレス</p>
-<p><input name="field_4665212" type="text" size="30">
+<p><span class="required">*</span>メールアドレス<input name="field_4665212" type="text" size="30">
 </p>
 
-<!-- tel1 -->
-<p>電話</p>
-<p><input name="field_4665216" type="text" size="30">
-</p>
+
 
 <p><span class="required">*</span>レジュメ添付</p>
 <p><input name="field_4665216" type="file" size="150">
