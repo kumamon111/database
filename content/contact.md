@@ -1,71 +1,92 @@
 ### お問い合わせ
 
 
+
 <form action="https://ssl.form-mailer.jp/fm/service/Forms/confirm" method="post" name="form1" ENCTYPE="multipart/form-data">
 <input type="hidden" name="key" value="e9535300545069" >
-<input type="hidden" name="form_c_width" id="form_c_width" value="65" >
-<input type="hidden" name="form_f_position" id="form_f_position" value="0" >
-<input type="hidden" name="form_item_fsize" id="form_item_fsize" value="0" >
-<input type="hidden" name="form_label_fsize" id="form_label_fsize" value="0" >
-<input type="hidden" name="form_item_margin" id="form_item_margin" value="5" >
-<input type="hidden" name="form_eof_field_flg" id="form_eof_field_flg" value="1" >
+<h1>contact</h1>
+
+*は必須項目です
 
 
 
 
-<dl><dt><span class="required">*</span>は必須項目です</dt></dl>
-
-
-
-
-
-<dl id="formarea" style="clear:both;">
 <!-- name -->
-<dt>
-<label for="field_4664396_sei">名前</label>
-</dt>
-
-<dd>
-<table><tr><td>
-<label for="field_4664396_sei">姓</label>
-<input name="field_4664396_sei" type="text" id="field_4664396_sei" size="15" class="text">
-<label class="field_4664396_mei">名</label>
-<input name="field_4664396_mei" type="text" id="field_4664396_mei" size="15" class="text">
-
-
-
-</td></tr></table>
-</dd>
+<p>名前</p>
+<p>姓
+<input name="field_4664396_sei" type="text" style="width:100px;">
+名
+<input name="field_4664396_mei" type="text" style="width:100px;">
+</p>
 <!-- text:mail -->
-<dt>
-<label for="field_4664397"><span class="required">*</span>メールアドレス</label>
-</dt>
-<dd>
-<table><tr><td>
-<input name="field_4664397" type="text" id="field_4664397" size="20" class="text" fmm_required="1">
-
-
-
-</td></tr></table>
-</dd>
+<p>*メールアドレス</p>
+<p><input name="field_4664397" type="text" size="30">
+</p>
 <!-- radio:sex -->
-<dt>
-性別
-</dt>
-<dd>
-<table><tr><td>
-<div class="space">
-<input name="field_4664398" id="field_4664398_0" type="radio" value="0"><span class="label"><label for="field_4664398_0">男性</label></span> 
-<input name="field_4664398" id="field_4664398_1" type="radio" value="1"><span class="label"><label for="field_4664398_1">女性</label></span> 
-
-</div>
-
-
-</td></tr></table>
-</dd>
-
-<br><span class="label">都道府県</span>
-<select name="field_4664400_pref" id="field_4664400_pref">
+<p>性別</p>
+<p><input name="field_4664398" type="radio" value="0">男性<input name="field_4664398" type="radio" value="1">女性
+</p>
+<!-- symd -->
+<p>生年月日</p>
+<p><input name="field_4664399_y" type="text" style="width:50px;" maxlength="4">年
+<select name="field_4664399_m">
+<option value="">--</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+</select>
+月
+<select name="field_4664399_d">
+<option value="">--</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+日
+</p>
+<!-- addr2 -->
+<p>住所</p>
+<p>〒<input name="field_4664400_zip1" type="text" style="width:30px;" maxlength="3">
+-<input name="field_4664400_zip2" type="text" style="width:50px;" maxlength="4">
+<br>都道府県
+<br><select name="field_4664400_pref">
 <option value="">----</option>
 <option value="1">北海道</option>
 <option value="2">青森県</option>
@@ -116,42 +137,37 @@
 <option value="47">沖縄県</option>
 <option value="99">その他</option>
 </select>
-</br>
-</br>
+<br>市区町村番地
+<br><input name="field_4664400_addr1" type="text" style="width:300px;">
+<br>マンション・ビル名
+<br><input name="field_4664400_addr2" type="text" style="width:50%;">
+</p>
+<!-- tel3 -->
+<p>連絡先</p>
+<p><input name="field_4664401_1" type="text" style="width:50%;" maxlength="15"></p>
 <!-- textarea -->
+<p>お問い合わせ内容</p>
+<p>
 
-<dt>
-<label for="field_4665210"><span class="required">*</span>お問い合わせ内容</label>
-</dt>
-<dd>
-<table><tr><td>
+<textarea name="field_4665210" cols="30" rows="5"></textarea>
 
-
-<textarea name="field_4665210" cols="100" rows="10" id="field_4665210" fmm_required="1"></textarea>
-
-
-
-</td></tr></table>
-</dd>
-
-
-</dl>
-
-
+</p>
 
 
 
 <!-- charset -->
 <!-- charset -->
-
 <!-- paypal no confirm alert -->
 
 <!-- paypal no confirm alert -->
+<p><input name="submit" type="submit" value="確認画面へ">
 
-<div class="align-center">
-<input name="submit" type="submit" id="submit" value="確認画面へ">
+</p>
+<!-- PayPal Logo -->
 
-</div>
+<!-- PayPal Logo -->
+<p><a href="http://www.form-mailer.jp/" target="_blank" id="powered">Powered by FormMailer.</a></p>
 </form>
+
 
 

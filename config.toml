@@ -31,18 +31,13 @@ paginate = 6
     name = "新卒の方へ"
     url = "/newgrad/"
     weight = 9
-[[menu.main]]
-    name = "リスト"
-    url = "/list/"
-    weight = 5
+
 [[menu.main]]
     name = "フェルミ推定"
     url = "/fermi/"
     weight = 4
-[[menu.main]]
-    name = "テクノロジー"
-    url = "/technology/"
-    weight = 3
+
+
 [[menu.main]]
     name = "インターン"
     url = "/intern/"
@@ -55,10 +50,7 @@ paginate = 6
     name = "英語"
     url = "/english/"
     weight = 7
-[[menu.main]]
-    name = "インターンをお探しの方"
-    url = "/interns/"
-    weight = 8
+
 
 
 [params]
