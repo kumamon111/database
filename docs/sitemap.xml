@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/post/psr/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/homepages/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -217,6 +222,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/categories/investment/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/categories/list/</loc>
     <priority>0</priority>
   </url>
@@ -415,6 +426,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2017-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -488,6 +505,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/%E6%8E%A1%E7%94%A8/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -511,6 +534,12 @@
   
   <url>
     <loc>http://busi-base.tk/post/rank3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E6%A0%AA/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
