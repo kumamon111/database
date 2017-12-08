@@ -154,6 +154,12 @@ Zaif
 <a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" /></a>
 
 
+SimpleFX(海外)
+
+
+<a href="https://simplefx.com/dashboard?bannerId=7503&sfx-r=74e014cb-3c6d-40cf-b9d9-db9f9412a159" target="_self"><img src="https://simplefx.com/img/ES/7503_320_50.jpg" width="320" height="50" border="0"></a>
+
+
 Coincheck
 
 
@@ -165,9 +171,4 @@ BItmex(海外)
 
 <a href=“https://www.bitmex.com/register/RQKdsk”>登録はこちらから</a>
 
-
-SimpleFX(海外)
-
-
-<a href="https://simplefx.com/dashboard?bannerId=7503&sfx-r=74e014cb-3c6d-40cf-b9d9-db9f9412a159" target="_self"><img src="https://simplefx.com/img/ES/7503_320_50.jpg" width="320" height="50" border="0"></a>
 
