@@ -63,6 +63,11 @@ Monacoin 30円（10月）→2000円（12月）
 >長期的に見るとこの通貨は以上な伸びを見せるでしょう。この通貨には特徴的な機能があり、それが企業の契約などに使われます。すでに多くの企業との契約が行われており、今後伸びていくと言えるでしょう。5〜10年後持っている時には億万長者かもしれません。bitcoinはすでに200万を超えてきたためエントリーしにくいですが、ETHはまだまだお得な値段です。
 
 
+
+<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" /></a>
+
+<a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/04_cc_banner_234x60.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
+
 #### 発行上限数をチェック
 
 仮想通貨には供給量が決められているものがいくつかあります。
