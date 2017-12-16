@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Business base</title>
+    <title>Post on Busi-base</title>
     <link>http://busi-base.tk/post/</link>
-    <description>Recent content in Posts on Business base</description>
+    <description>Recent content in Post on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -17,16 +17,32 @@
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/crypto/</guid>
-      <description>仮想通貨って？ 今話題の仮想通貨ですが、一体何のことで何のメリットがあり、どうして買ったほうがいいのか解説していきます。 仮想通貨とは、インター</description>
-    </item>
-    
-    <item>
-      <title>賞金アリ！あなたなら残された100円を何に使う？</title>
-      <link>http://busi-base.tk/post/discussion/</link>
-      <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/post/discussion/</guid>
-      <description>突然ですが、質問です。 もしあなたの全財産が100円になったら、100円何に使いますか？ それを下記の応募フォームに記していただきたい。 応募者の</description>
+      <description>仮想通貨って？ 今話題の仮想通貨ですが、一体何のことで何のメリットがあり、どうして買ったほうがいいのか解説していきます。
+ 仮想通貨とは、インターネットを通じて不特定多数の間で物品やサービスの対価に使用でき、中央銀行などの公的な発行主体や管理者が存在せず専門の取引所を介して円やドル・ユーロ・人民元などの通貨と交換できます。仮想通貨の種類は600種類以上あるといわれています。
+資金決済に関する法律　第二条　５による定義：
+この法律において「仮想通貨」とは、次に掲げるものをいう。
+一　物品を購入し、若しくは借り受け、又は役務の提供を受ける場合に、これらの代価の弁済のために不特定の者に対して使用することができ、かつ、不特定の者を相手方として購入及び売却を行うことができる財産的価値（電子機器その他の物に電子的方法により記録されているものに限り、本邦通貨及び外国通貨並びに通貨建資産を除く。次号において同じ。）であって、電子情報処理組織を用いて移転することができるもの
+二　不特定の者を相手方として前号に掲げるものと相互に交換を行うことができる財産的価値であって、電子情報処理組織を用いて移転することができるもの
+ 出典：bitflier公式サイト
+
+何がいいの 現在何よりもリターンのある投資商品です。
+Bitcoin 100万円→200万円 PEPECASH 4→28円 Monacoin 30円（10月）→2000円（12月） さらに上昇のスパンが早いです。
+だから、今すぐにでもお金を増やしたい、短期的な目線で物を見る方にはうってつけでしょう。
+これから上がるのは？ 仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。
+上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。
+では次に来る一攫千金コインを考えて見ましょう。
+Zaif 1円  取引所zaifのコインで、上場の際には重要なコインになるとの噂もあります。国内取引所で買えるコインではもっと安いので取り上げて見ました。
+ Xem 28円  将来性を考えるとまだまだです。全国各地でXEMに関するプロモーションが行われており、今後知名度はどんどん広がっていくでしょう。
+ ETH 50000円  長期的に見るとこの通貨は以上な伸びを見せるでしょう。この通貨には特徴的な機能があり、それが企業の契約などに使われます。すでに多くの企業との契約が行われており、今後伸びていくと言えるでしょう。5〜10年後持っている時には億万長者かもしれません。bitcoinはすでに200万を超えてきたためエントリーしにくいですが、ETHはまだまだお得な値段です。
+ 上記のコインが全て買える取引所をチェック
+
+発行上限数をチェック 仮想通貨には供給量が決められているものがいくつかあります。
+その通貨たちはある一定まで供給が行われると、半減期というものを迎えそこから供給量がガクッと減ります。
+欲しい人からすれば希少価値が高まり、値段が跳ね上がるというわけです。
+実際の例を見て見ましょう。
+Monacoin 30円（10月）→2000円（12月） モナコインは半減期を過ぎてから価値が爆発的に高騰しました。
+昨年初旬3円だった時から比べて、600倍以上になっています。
+供給上限がある通貨とその供給量    通貨 省略名 供給率 供給量 供給上限 推定残数     IOTA MIOTA 100.</description>
     </item>
     
     <item>
@@ -35,7 +51,20 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/psr/</guid>
-      <description>PSR 株式投資においてポートフォリオには 外せない存在となってきたITベンチャー。 ただし、データが少ないことから見極めが難しいことも多くあります。</description>
+      <description>PSR 株式投資においてポートフォリオには
+外せない存在となってきたITベンチャー。
+ただし、データが少ないことから見極めが難しいことも多くあります。
+投資する会社を決定するところから
+エントリーポイント、エグジットまで。
+それを手助けするのが&amp;rdquo;PSR&amp;rdquo;(株価売上高倍率)です。
+PSR＝株式時価総額/売上高  で表されます。
+この指標は、
+ 成長期待のある小型株  に用いるのが一般的です。
+PSRはもともとIT企業の上場が増えた頃に、
+PERやPBRなどでは説明のつかない銘柄について用いられました。
+実際に分析 「東証マザーズ、情報通信」に限定してPSR計算してみた。
+PSRが割安な順に並んでいます。
+   銘柄コード 企業名 マーケット 業種 時価総額 売上高 PSR     3675 クロス・マーケティンググループ 東証マザ 情報通信 10371 15969 0.649445801   3671 ソフトマックス 東証マザ 情報通信 2761 3844 0.718262227   3622 ネットイヤーグループ 東証マザ 情報通信 4514 5906 0.764307484   3691 リアルワールド 東証マザ 情報通信 3521 4335 0.812226067   3907 シリコンスタジオ 東証マザ 情報通信 8252 7001 1.</description>
     </item>
     
     <item>
@@ -44,7 +73,19 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/homepages/</guid>
-      <description>副業としての広告ビジネス 副業が話題となってきた昨今、収入源の一つとして代表的な広告収入。 しかし、最も収益性の高いグーグルアドセンスは独自ドメ</description>
+      <description>副業としての広告ビジネス 副業が話題となってきた昨今、収入源の一つとして代表的な広告収入。
+しかし、最も収益性の高いグーグルアドセンスは独自ドメインのサイトでなければ登録ができません。また、独自ドメインをとるには、独自サイトを立ち上げる必要があり（yahooブログやamebaブログではダメ）そこには莫大な工数がかかってしまいます。
+そんな独自サイト構築をたった一瞬で完成させる方法を今回はご紹介します。
+HUGOを使い、サイトのフレームワークを簡単に導入 まずターミナルに移動します。Macのパソコンには必ず入っています（windowsの方はコマンドプロンプト）
+brew install hugo hugo new site ファイル名(好きなようにどうぞ) cd ファイル名 git init  https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
+&amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。
+その中の、アドレスをコピー
+ターミナルに戻り、
+cd themes git clone 先ほどコピーしたアドレス ex. git clone https://github.com/cboettig/hugo-now-ui.git  ここでサイトが出来上がっているか、ローカル環境で確認します。
+hugo server  と打つと、最後の方に&amp;rdquo;localhost:1313&amp;rdquo;というURLが出てくると思います。
+それをインターネットのアドレスバーから検索してください。
+確認できたらターミナルを閉じます。閉じる前に、&amp;rdquo;control+C&amp;rdquo;でローカル環境を閉じてください。
+ネット上にあげるまで このプロセスが知りたい方はこちらへ。</description>
     </item>
     
     <item>
@@ -62,7 +103,19 @@
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/ofermi/</guid>
-      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
+      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。
+外資コンサルを目指すなら絶対 フェルミ推定は、外資コンサルの面接でよく出題されます。 限られた知識を使い、短時間で概算するため、スピードが要求されるコンサルにとって適切なテストであるとも言えます。 基本的に面接では、このフェルミ推定の結果が 合否に大きく左右されるのです。
+
+   (adsbygoogle = window.adsbygoogle || []).push({});  フレームワーク① 需要＝供給アプローチ このアプローチは最も基本的な手法です。 供給をどのくらいにすれば需要を満たせるかという軸で話が進みます。 では、実際の例題を見てみます。
+日本の温泉旅館の数を求めよ まず温泉旅行の需要を求めます。
+人口　＊　80％　＊　1 =　9600万人  
+ざっくりですが、何らかの理由で温泉旅行に行けない人を省きます。 また、温泉旅行は1人で行くことはあまりなさそうなので、必要な部屋数は
+9600万　/　2 ~ 3 =　3200万 ~ 4800万  
+需要量がもとまりましたので、次は供給量について考えます。
+30部屋　＊　(360/3)　＊　稼働率　＝　年間で提供できる総部屋数  
+温泉旅館1つあたりの部屋数はだいたい30部屋くらいと仮定します。 国内旅行なので、旅行期間は平均して2~3日でしょうか。 稼働率は、時期によってばらつきはあるでしょうが、だいたい50%くらいがいいとこではないでしょうか。
+30　＊　120　＊　0.5　＝　1800  
+よって</description>
     </item>
     
     <item>
@@ -71,7 +124,21 @@
       <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/fermi1/</guid>
-      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。 外</description>
+      <description>フェルミ推定とは 実際に調査するのが難しいようなとらえどころのない量を、いくつかの手掛かりを元に論理的に推論し、短時間で概算することを指す。
+
+外資コンサルを目指すなら絶対 フェルミ推定は、外資コンサルの面接でよく出題されます。 限られた知識を使い、短時間で概算するため、スピードが要求されるコンサルにとって適切なテストであるとも言えます。 基本的に面接では、このフェルミ推定の結果が 合否に大きく左右されるのです。
+
+   (adsbygoogle = window.adsbygoogle || []).push({});  フレームワーク① 需要＝供給アプローチ このアプローチは最も基本的な手法です。 供給をどのくらいにすれば需要を満たせるかという軸で話が進みます。 では、実際の例題を見てみます。
+「NYのピアノ調律師の数は？」 まずピアノの調律の年あたりの需要を求めます。
+人口　/　3　=　世帯数  
+人口約1000万人くらいと仮定する。 そうすると世帯数は、世帯1人平均3人と考えて約300万世帯。
+世帯数が出せたら、そのうちの何世帯がピアノを備えているかを考える。
+世帯数　＊　1％　＝　ピアノを持つ家庭  
+だいたい1％くらいと仮定。 300万世帯の10％だから3万世帯がピアノを持っている。
+次にピアノ1台あたり1年に何回の調律が必要か、そのためにはどのくらいの調律師が必要かを求める。
+ピアノ台数　*　1 ~ 2　=　30000 ~ 60000（回） (30000*60000)^(1/2) = 42426  
+だいたい年に1~2回くらい行うのが通例だろう。幾何平均で平均を求める。 さらに、ピアノ調律師一人当たりの調律数を求めていく。
+稼働日数　＊　勤務時間　/　調律にかかる時間　＝　一人当たりの年間調律可能数</description>
     </item>
     
     <item>
@@ -80,7 +147,20 @@
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/ucfermi/</guid>
-      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo; 解説 「ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？」 まず、1人あたりどれくらいトイレットペーパーを</description>
+      <description>UC Engineering &amp;ldquo;Fermi estimation&amp;rdquo;  解説 「ニュージーランドでは1年間にどれくらいの長さのトイレットペーパーを消費するか？」 
+まず、1人あたりどれくらいトイレットペーパーを使うのか。
+1人あたり1週間に1個使うとして
+ざっと1年で50個。  
+では1個の長さはどのくらいか？10cmの正方形が何個あるか考えると、小さいもので100個~大きいもので1000個だろう。
+Geometric meanの考えを利用して
+√100*1000=300 300*10=3000cm=30ｍ 30㎡*50=1.5km  
+NZの人口は?
+400,000人  
+よって
+4,000,000*1.5km=6*10^6km  
+その他 日本の温泉旅館の数
+NYにおけるピアノ調律師の数
+東京都のタクシーの数</description>
     </item>
     
     <item>
@@ -89,7 +169,19 @@
       <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/voi/</guid>
-      <description>需要・供給サイドから導きます。 需要 東京都の人口:2200㎢ 東京都の面積:1300万人 月1人あたり利用回数 * 使用対象人口 まず1ヶ月に何回タクシ</description>
+      <description>需要・供給サイドから導きます。
+需要 東京都の人口:2200㎢ 東京都の面積:1300万人
+ 月1人あたり利用回数 * 使用対象人口
+ まず1ヶ月に何回タクシーを使うのかを考えます。 少ない人で月に1回、多い人で4回（週に1回）と仮定します。 東京の人口は1300万人ですが、人口の約80%がタクシー使うものとし、使用対象人口は1000万人となります。 ゆえに、全体の需要量は1000万~4000万です。これを平均すると；
+ (1 + 4) / 2 = 2.5 * 10^7
+ 供給  需要量 / (タクシー稼働時間(月) / 乗客一人当たりの所要時間)
+ タクシー１台あたりの対応人数を計算します。 稼働時間は、個人タクシーもあれば法人タクシーもあるので、おおよそ16時間ほどと仮定します。 タクシーの稼働日数は週休二日を考慮すると一般的に20日ほど。 乗客を乗せてから次の乗客を乗せるまでの時間は30分ほどでしょうか。 よってタクシー1台あたり;
+ (16 * 20) / 0.5 = 640(人)
+ これを需要で割ると;
+ (2.5 * 10^7) / 640 = 3.9 * 10^4 = 39000台
+ その他 日本の温泉旅館の数
+NYにおけるピアノ調律師の数
+NZのトイレットペーパー年間消費量</description>
     </item>
     
     <item>
@@ -98,7 +190,16 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/security/</guid>
-      <description>日本における投資の位置付け 米国のリスク資産が家計資産の50％近くを占める一方で、日本は50%以上が現預金。 なぜなのか 安全志向だからという意見</description>
+      <description>日本における投資の位置付け 米国のリスク資産が家計資産の50％近くを占める一方で、日本は50%以上が現預金。 
+なぜなのか 安全志向だからという意見が多いが、ギャンブル好きが多いことを見るとそうとも言えない。 ディールの違いはあるにせよ。やはり日本人に金融知識がないからではないのか。 
+※ちなみに余談だが金融知識のナーチャリングをするメディアが昨今続々と誕生してきている。（以下） 
+ Innovation hub by MUFG
+ 確定拠出型年金スタートクラブ by りそな銀行
+ Daily Ands by ZUU
+  このようなトレンドを見てもやはり、結論として言えるのは日本にはまだ投資の概念が根付いていない、また投資の概念を理解しきれていないということではないだろうか。  
+   (adsbygoogle = window.adsbygoogle || []).push({});  日本株の取引量 海外投資家が6割以上。 上場企業の所有者持株比率は金融機関が28%の一方で、海外投資家が30%と株主構成が変化してきている。  
+日本のマーケットリスク 
+   Opportunity Threat     オリンピック 少子高齢化   外国人観光客・労働者 イノベーションの欠落   アニメ 教育水準低下   技術力ブランド 海外技術による国内産業の圧迫    北朝鮮    財政    資源が少ない    ⬜︎ メリット 日本に強みといえば「技術力」。 僕の友達であるエンジニアのインド人が言うには、「日本の技術水準は非常に高い。日本のブランドを使えるのは非常に光栄なことで滅多に手に入らない」とのこと。何の技術力を指してるかにもよるが、しかし最近は海外から何でも輸入して真似してる傾向が強い&amp;hellip; オリンピックに関しては、持続性がない。</description>
     </item>
     
     <item>
@@ -107,7 +208,20 @@
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/nbusiness/</guid>
-      <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々</description>
+      <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。この記事では、そうした提案に使えるフレームワークを順に従って紹介していきます。   
+1 まず何から手をつけるべきか おそらくテーマは様々あると思います。  「今より売上を〜万円上げろ」 「新規サービス企画」 「プロモーション施策」etc&amp;hellip;  しかし、どんな新規事業にも克服すべき課題があるはずです。まずはそれを明確にしていきましょう。 
+
+2 課題抽出の為の現状分析（3C・SWOT分析） 課題を探るため、まずは現状分析から始めます。これを助けてくれるのが&amp;rdquo;3C&amp;rdquo;というフレームワークです。
+3C分析の基盤となる3Cのフレームワーク 3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
+   (adsbygoogle = window.adsbygoogle || []).push({});     3C      市場・顧客 市場や顧客のニーズの変化を知る   競合 競合が市場や顧客のニーズの変化にどのように対応しているかを知る   自社 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす    参照: カイロスホームページより
+ 
+⬜︎ ケースサンプル では実際のケースを見ていきましょう。日産自動車を取り上げて見たいと思います。
+自社  ・海外自動車メーカーとの提携により、グローバル自動車メーカーとして事業基盤を固めつつある。
+・トップの方針が明確である。
+・グローバル５極に生産拠点がある。
+・ＥＶ（電気自動車）の技術力に自信
+・絶大なプロモーション力
+ 競合  ・ハイブリッドカーではトヨタ、ホンダが強い</description>
     </item>
     
     <item>
@@ -116,7 +230,24 @@
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/aintern/</guid>
-      <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度の</description>
+      <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度のフルタイムジョブをかします。この間、結果を収めた学生は自動的に内定が決まり、さらにインターンが勤務経験として認められるため、もし新卒で別の会社に行く場合は中途採用扱いとなり、通常の新卒クラスの待遇をはるかに超えます。しかしこのキャリアパスを得るには、二つの難関があります。   
+1 インターンが非公開またはHPのみでの公開 そもそも何千とある外資金融のHPをわざわざ訪れるなんてこと普段しないですよね。また非公開の場合、問い合わせをすることになるのですが、確率は非常に低く、返信もそんなに多くありません。
+2 見つけたとしても入社のハードルが高い  外資の金融、それこそお化けみたいなキャリアパスを踏んできた奴がゴロゴロいますから、当然ハードルは高いものです。基本的に、学歴・経歴・英語が選考要素ですが、ただポテンシャルをしっかり見てくれる会社もあります。   
+  
+︎︎情報を見逃さないために&amp;hellip; キーワードは「外資　長期インターン　金融」とかでだいぶ絞れます。最近はインターンサイトでも外資系の長期インターンを扱うようにはなってきましたが、基本的にターゲットとなる外資系金融機関は公にパブリッシュしないことが多いので、インターンサイトの検索は省くようにしておく必要があるでしょう。
+
+ Google alert  グーグルでグーグルアラートを使って、ネット上に情報が出た瞬間、自分に通知がいくようにします。https://www.google.com/alerts?hl=ja
+ IFTTT  IFTTTとはこのブログの中でも紹介していますが（こちら）google alertやtwitterとも連動できるソフトウェアです。google alertやtwitterで設定したキーワードを自動的にグーグルのエクセルに落とし込みます。
+
+
+連絡手段 非公開の場合、基本的に企業に問い合わせることが必要になりますが、外資金融はリクルートを人材会社に任せている場合も多くあるため、HPに連絡先が書いていないこともあります。また、基本的に問い合わせからくる連絡は投資家からの問い合わせ窓口にもなっているので、おそらく返信が来る確率は10%もないでしょう。
+ 
+linkedinからコンタクトしてみよう (https://www.linkedin.com) linkedinとは、世界最大級のビジネス用SNSで、日本では有名ではないですが、 海外では知らない方が珍しく、外資系に勤める日本人は100%登録しています。 基本的に、海外の学生は日本のように大規模な就活イベントがないので、このlinkedinから人事に直接アプローチし、内定にこぎつけます。 linkedinのいいところは、社会人が学生に対し非常にオープンだということです。 ちなみにFacebookとLinkedinで返信率はどちらが高いかを検証したところ、linkedinは約60%・Facebookは約30%でした。 興味深かったのは、同一人物に両方のSNSからメッセージすると、linkedinからのみ返信が来たことでした。(もちろん名前は違う名前で送信しましたよ笑）。 おそらくlinkedinはBusiness要素が強いため仕事の一環として扱っており、それゆえ企業の看板としておろそかな対応にはできないのでしょう。 
+   (adsbygoogle = window.adsbygoogle || []).push({});   
+ひとまず有名どころだけ公開 以下にとりあえず5社ほど掲載しておきました。
+興味のある方はぜひ、メールまたは先ほど紹介したlinkedinからメッセージしてみてください。
+1 Western Asset http://www.westernasset.co.jp/ja/index.cfm
+期間：3 month 給与：N/A 難易度：☆☆</description>
     </item>
     
     <item>
@@ -125,7 +256,8 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/iphonex/</guid>
-      <description>Iphone X フィッシャーズが熱い 他の映像 Don&amp;#39;t buy iPhone X. pic.twitter.com/bUkAR1tX1I &amp;mdash; Quinn Nelson (@SnazzyQ) November 5, 2017</description>
+      <description> Iphone X フィッシャーズが熱い   他の映像 Don&amp;#39;t buy iPhone X. pic.twitter.com/bUkAR1tX1I
+&amp;mdash; Quinn Nelson (@SnazzyQ) November 5, 2017  </description>
     </item>
     
     <item>
@@ -134,7 +266,13 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/bmw/</guid>
-      <description>企業名 BMW 職務内容 BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description Current openings : 1)Engineering ( 2017 Oct - 2018 March ) ASAP 2)Marketing (2017 Dec - 2018 May) 3)Back Office (2018 Jan -2018 Jun) 登録資格 Required soft skills: be able to work under</description>
+      <description>企業名 BMW 
+職務内容  BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description
+Current openings :
+1)Engineering ( 2017 Oct - 2018 March ) ASAP
+2)Marketing (2017 Dec - 2018 May)
+3)Back Office (2018 Jan -2018 Jun) 
+ 登録資格  Required soft skills: be able to work under pressure and with tight timelines, if required work long working hours, take initiative, independent thinking, ability to assimilate and adapt quickly to a Japanese and international team.</description>
     </item>
     
     <item>
@@ -143,7 +281,15 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/work/</guid>
-      <description>スキルを活かして働こう 留学先でのファイナンスは非常に難しいところです。 「ビザの関係でバイトができない、そもそも学校が忙しすぎてバイトなんて場</description>
+      <description>スキルを活かして働こう 留学先でのファイナンスは非常に難しいところです。
+「ビザの関係でバイトができない、そもそも学校が忙しすぎてバイトなんて場合ではない」なんてことはよくあるでしょう。
+しかし、よく考えて見てください。今の時代、自分のスキルを活かして自分の好きなことができる時代です。
+短時間の労働で、多くのお金を得るには自分のスキルを使うことが一番です。そんなわけで、バイト以外の様々な選択肢を紹介していきたいと思います。
+（＊リスクの高い仕事もありますが、自らの責任で行なってください）
+ 
+1 母国語が活かせるバイト    service hp target     tutoroo https://www.tutoroo.co/ バイリンガル   freelancer https://www.freelancer.com フリーランサー   gengo https://gengo.com/translators/ 翻訳   upwork https://www.upwork.com フリーランサー   cafetalk https://cafetalk.com/ 色々     Tutoroo https://www.tutoroo.co/
+最も留学生にオススメの仕事がこちらです。 母国語のスキルを活かし、現地人にレッスンをします。ちなみに教育経験など一切必要なく、カジュアルな日常会話で全く問題ないようです。 給料もかなり高い上にフレキシブルに働けるので、留学生の生活に非常にフィットしてると言えます。
+ we are building an interface to connect native ENGLISH, Mandarin, Spanish, French, German, Italian, Tamil, Hindi, Japanese, Arabic,Korean, Cantonese, Russian, Malay, Indonesian, Dutch, Portuguese, Thai, Vietnamese and Malay speakers with Japanese who want to learn your mother tongue - mostly on a conversational level - so no qualification nor certification are needed.</description>
     </item>
     
     <item>
@@ -152,7 +298,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/exective/</guid>
-      <description>エグゼクティブサーチとは 役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。</description>
+      <description>エグゼクティブサーチとは 役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。欧米諸国と比較すると、日本では2000年代までは、経営幹部の外部からの招聘はあまり盛んとは言えなかったが、2010年代に入ると、 サントリーにローソンから新浪剛史が、 ベネッセに日本マクドナルドから原田泳幸が、 資生堂に日本コカ・コーラから魚谷雅彦が、LIXILにゼネラル・エレクトリックから藤森義明が、社長としてスカウトされるケースが増えたことで、その背後にあるエグゼクティブサーチに対しても注目が集まっている。
+
+ 
+   会社名     コーン・フェリー   http://www.haygroup.com/jp/careers/index.aspx?id=4827   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   エゴンゼンダー   http://www.egonzehnder.com/jp/   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   スペンサースチュアート   https://candidateregistration.spencerstuart.com/   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   ハイドリック・アンド・ストラグルズ   http://www.heidrick.co.jp/page/58/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   ラッセル・レイノルズ   http://www.russellreynolds.com/</description>
     </item>
     
     <item>
@@ -161,7 +310,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/fund1/</guid>
-      <description>社名 HP ポジション カレイドホールディングス http://www.kaleidoholdings.co.jp/ アソシエイト、アナリスト、アドミニストレイティブスタッフ キャピタランド・ジャパン株式会社 http://www.capitaland.co.jp/index.html クレセン</description>
+      <description>社名 HP ポジション      カレイドホールディングス http://www.kaleidoholdings.co.jp/ アソシエイト、アナリスト、アドミニストレイティブスタッフ    キャピタランド・ジャパン株式会社 http://www.capitaland.co.jp/index.html     クレセント・パートナーズ http://www.crescentcap.com/career/positions &amp;ldquo;Portfolio Analyst,    ケネディクス株式会社 http://www.kenedix.com/     サーベラス・ジャパン http://www.cerberuscapital.com/     シーヴィーシ（ＣＶＣ）・アジア・パシフィック・ジャパン・リミテッド http://www.cvceurope.com/     ジェイキャピタル http://www.j-capitalpartners.com/     パインブリッジ・インベストメンツ株式会社 http://www.pinebridge.co.jp/ クライアントレポーティング, リサーチアナリスト    BNPパリバ http://www.bnpparibas.jp/jp/careers/join-us/     アライアンスバーンスタイン http://www.abglobal.co.jp/career/index     カーディフ生命 http://www.</description>
     </item>
     
     <item>
@@ -170,7 +319,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/rank1/</guid>
-      <description>企業名 年収 Ｍ＆Ａキャピタルパートナーズ 1905 野村ホールディングス 1516 スクウェア・エニックス・ホールディングス 1403 スカパーＪＳＡＴホールディングス 1246 日</description>
+      <description>企業名 年収     Ｍ＆Ａキャピタルパートナーズ 1905   野村ホールディングス 1516   スクウェア・エニックス・ホールディングス 1403   スカパーＪＳＡＴホールディングス 1246   日本Ｍ＆Ａセンター 1237   大塚ホールディングス 1116   シンバイオ製薬 1112   岡三証券グループ 1045   シグマクシス 1037   野村不動産ホールディングス 1015   そーせいグループ 982   ＡＮＡホールディングス 853   プレサンスコーポレーション 851   セガサミーホールディングス 849   Ｊトラスト 840   ＦＰＧ 837    *1 独自調査より *2 年収ランキング200にランクインする企業</description>
     </item>
     
     <item>
@@ -179,7 +328,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/rank2/</guid>
-      <description>企業名 年収 ＷＤＩ 976 じもとホールディングス 927 大和証券グループ本社 1212 ショーボンドホールディングス 986 あかつきフィナンシャルグループ 896 マネーパートナ</description>
+      <description>企業名 年収     ＷＤＩ 976   じもとホールディングス 927   大和証券グループ本社 1212   ショーボンドホールディングス 986   あかつきフィナンシャルグループ 896   マネーパートナーズグループ 873   インプレスホールディングス 937   ジャパンパイル 870   岡三証券グループ 1045   ゼビオ 1450   アクシアル リテイリング 867   そーせいグループ 982   ほくほくフィナンシャルグループ 901   ミツウロコグループホールディングス 895   ジーエス・ユアサ コーポレーション 1020   スクウェア・エニックス・ホールディングス 1403   ランドビジネス 1029   Ｏａｋキャピタル 944   ＯＳＪＢホールディングス 874   パラマウントベッドホールディングス 879    *1 独自調査より *2 年収ランキング200にランクインする企業</description>
     </item>
     
     <item>
@@ -188,7 +337,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/fund/</guid>
-      <description>企業名 住所 HP ブラックロック・ジャパン株式会社 東京都千代田区丸の内1-8-3 丸の内トラストタワー本館 https://www.blackrock.com/jp/individual/ja/about-us/careers/graduate フィデリティ投信株式会社 東京都港区六本木</description>
+      <description>企業名 住所 HP     ブラックロック・ジャパン株式会社 東京都千代田区丸の内1-8-3　丸の内トラストタワー本館 https://www.blackrock.com/jp/individual/ja/about-us/careers/graduate   フィデリティ投信株式会社 東京都港区六本木7-7-7 TRI-SEVEN ROPPONGI https://www.fidelity.co.jp/fij/about/recruiting.html   ピクテ投信投資顧問株式会社 東京都千代田区丸の内2-2-1　岸本ビル7F http://www.pictet.co.jp/   シュローダー・インベストメント・マネジメント株式会社 東京都千代田区丸の内1-8-3　丸の内トラストタワー本館21F http://www.schroders.co.jp/   ピムコジャパンリミテッド 東京都港区虎ノ門4-1-28　虎ノ門タワーズオフィス18F http://japan.pimco.com/   アムンディ・ジャパン株式会社 東京都千代田区内幸町1-2-2　日比谷ダイビル http://www.amundi.co.jp/   モルガン・スタンレー・インベストメント・マネジメント株式会社 東京都千代田区大手町1-9-7 大手町フィナンシャルシティ サウスタワー http://www.morganstanley.co.jp/im/   JPモルガン・アセット・マネジメント株式会社 東京都千代田区丸の内2-7-3　東京ビルディング https://www.jpmorganasset.co.jp/wps/portal   Point72 Asset Management, L.P. 東京都千代田区丸の内1-1-1　パレスビル3F http://www.taiyofunds.com/   ラザード・ジャパン・アセット・マネージメント株式会社 東京都港区赤坂2-11-7　赤坂ツインタワー新館7F http://www.</description>
     </item>
     
     <item>
@@ -197,7 +346,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/rank3/</guid>
-      <description>企業名 年収 プレサンスコーポレーション 851 Ｍ＆Ａキャピタルパートナーズ 1905 日本エスリード 881 ドリームインキュベータ 1210 日本Ｍ＆Ａセンター 1237 キーエンス 1756</description>
+      <description>企業名 年収     プレサンスコーポレーション 851   Ｍ＆Ａキャピタルパートナーズ 1905   日本エスリード 881   ドリームインキュベータ 1210   日本Ｍ＆Ａセンター 1237   キーエンス 1756    *1 独自調査より *2 年収ランキング200にランクインする企業</description>
     </item>
     
     <item>
@@ -206,7 +355,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/eintern/</guid>
-      <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」 「……。」 実はそんな英語使ってません。 あっても翻訳と</description>
+      <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」  「……。」   実はそんな英語使ってません。 あっても翻訳とかその程度です。 だって日本にある企業ですもん。 みんな日本語しゃべれますから&amp;hellip;  
+「じゃあそういうところってないの？」  安心してください、下に載ってますよ   今回はいろんなコネクションを使って集めた情報から厳選して、本当に英語しか使わないそんなインターンを紹介します。 絶対知らないと思います。     
+ 留学生・英語でのインターンを行いたい学生必見
+ Xenon ventures  アメリカの連続起業家・ジョナサンのもとのベンチャーキャピタル。メンバーはほとんど海外で、勤務体系が非常にフレキシブルだ。ぶっちゃけめっちゃおすすめ！
+https://careerbaito.com/job/12316 [職種] マーケティング  
+PSYGIG  IoT関連のソフトウェア企業。シリコンバレーで立ち上げ、現在は日本に拠点を置く。
+http://psygig.com/ [職種] エンジニア　 
+Cafe Wifi 創業者はハーバード出身。ボードメンバーは海外の二人で、エンジニア。ちなみにパブリッシュはしてないが、エンジニアの募集をかけるかも。
+hello@remoteworkinc.com [職種] 要相談</description>
     </item>
     
     <item>
@@ -215,7 +372,39 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/intern1/</guid>
-      <description>バイトするならインターン 「長期インターンって何？」 「なんか危なそう・・・」 「雑用じゃないの？」 「フルタイムでは働けない」 こんな考えありません</description>
+      <description>バイトするならインターン 
+「長期インターンって何？」
+
+「なんか危なそう・・・」
+
+「雑用じゃないの？」
+
+「フルタイムでは働けない」
+
+こんな考えありませんか？
+
+長期インターンとは、社会人と同じように働き給与も発生する、いわば大学生の社会経験です。
+
+企業は大手からベンチャーまで様々で、幅広い業種から募集がでています。
+
+社会人としての経験を積むことで、就職活動では大きなアドバンテージを持てますし、人脈の広がりが期待できます。ここでは一歩踏み出したい、そんな人に優良インターンシップサイトを紹介します。
+
+5位　JEEK https://jeek.jp/
+
+4位　キャリアバイト https://careerbaito.com/
+
+3位　01インターン https://01intern.com/
+
+2位　infrA https://www.in-fra.jp/
+＜特徴＞
+ 「長期インターン」というワードではリスティング１位を獲得している。 当サイトから採用が決まると奨学金として10,000円の付与がある。 掲載されている優良ベンチャー企業が多サイトと比べて非常に多い  
+1位　Wantedly https://www.wantedly.com/
+＜特徴＞
+ 非常に有名 給料の掲載が禁止されているため、本当に社会経験を積みたい人間しか集まらない。 話を聞きに行くくらいのラフな面接が設定できる 業種が豊富  番外編：帰国子女のために CFN http://www.careerforum.net/?lang=J
+
+その他 長期インターン選考を確実にパスする方法（外資編）
+長期インターン選考を確実にパスする方法（日経上場編）
+長期インターン選考を確実にパスする方法（ベンチャー編）</description>
     </item>
     
   </channel>

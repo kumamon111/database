@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English on Business base</title>
+    <title>English on Busi-base</title>
     <link>http://busi-base.tk/english/</link>
-    <description>Recent content in English on Business base</description>
+    <description>Recent content in English on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
@@ -20,6 +20,22 @@
 facial recognition 顔認識
 gesture recognition ジェスチャー認識
 real-time depth camera リアルタイム深度カメラ</description>
+    </item>
+    
+    <item>
+      <title>ネイティブが使うカジュアル表現</title>
+      <link>http://busi-base.tk/english/casual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/english/casual/</guid>
+      <description>ネイティブが使うカジュアル表現 食事 I&amp;rsquo;m in （遊びの誘いなどで）
+いいね！のった！ A - I am planning to go to Hakone! B - I&#39;m in!  I am starving
+まじ腹減った  what is your plan for lunch/dinner?
+何食べる？/どこ行く？/予定ある？  Do you wanna join us?
+俺らとご飯行く？ (&amp;quot;wanna&amp;quot; は &amp;quot;want to&amp;quot;)  Order first
+先に注文しちゃおうぜ  Can I get a hot soy latte please?
+ホット豆乳カフェラッテをください。(onegaishimasu might be more polite)  I live here (in Tokyo).
+私はここ（東京）に住んでいます。  Can I pay by card?</description>
     </item>
     
     <item>

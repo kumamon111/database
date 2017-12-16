@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Business base</title>
+    <title>Busi-base</title>
     <link>http://busi-base.tk/</link>
-    <description>Recent content on Business base</description>
+    <description>Recent content on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -24,19 +24,20 @@
 一　物品を購入し、若しくは借り受け、又は役務の提供を受ける場合に、これらの代価の弁済のために不特定の者に対して使用することができ、かつ、不特定の者を相手方として購入及び売却を行うことができる財産的価値（電子機器その他の物に電子的方法により記録されているものに限り、本邦通貨及び外国通貨並びに通貨建資産を除く。次号において同じ。）であって、電子情報処理組織を用いて移転することができるもの
 二　不特定の者を相手方として前号に掲げるものと相互に交換を行うことができる財産的価値であって、電子情報処理組織を用いて移転することができるもの
  出典：bitflier公式サイト
-何がいいの？ 現在何よりもリターンのある投資商品です。
+
+何がいいの 現在何よりもリターンのある投資商品です。
 Bitcoin 100万円→200万円 PEPECASH 4→28円 Monacoin 30円（10月）→2000円（12月） さらに上昇のスパンが早いです。
-だから、今すぐにでもお金を増やしたい、
-短期的な目線で物を見る方にはうってつけでしょう。
-これから上がるのは？ 仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。では次に来る一攫千金コインを考えて見ましょう。
+だから、今すぐにでもお金を増やしたい、短期的な目線で物を見る方にはうってつけでしょう。
+これから上がるのは？ 仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。
+上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。
+では次に来る一攫千金コインを考えて見ましょう。
 Zaif 1円  取引所zaifのコインで、上場の際には重要なコインになるとの噂もあります。国内取引所で買えるコインではもっと安いので取り上げて見ました。
  Xem 28円  将来性を考えるとまだまだです。全国各地でXEMに関するプロモーションが行われており、今後知名度はどんどん広がっていくでしょう。
  ETH 50000円  長期的に見るとこの通貨は以上な伸びを見せるでしょう。この通貨には特徴的な機能があり、それが企業の契約などに使われます。すでに多くの企業との契約が行われており、今後伸びていくと言えるでしょう。5〜10年後持っている時には億万長者かもしれません。bitcoinはすでに200万を超えてきたためエントリーしにくいですが、ETHはまだまだお得な値段です。
- 
+ 上記のコインが全て買える取引所をチェック
 
 発行上限数をチェック 仮想通貨には供給量が決められているものがいくつかあります。
-その通貨たちはある一定まで供給が行われると、
-半減期というものを迎えそこから供給量がガクッと減ります。
+その通貨たちはある一定まで供給が行われると、半減期というものを迎えそこから供給量がガクッと減ります。
 欲しい人からすれば希少価値が高まり、値段が跳ね上がるというわけです。
 実際の例を見て見ましょう。
 Monacoin 30円（10月）→2000円（12月） モナコインは半減期を過ぎてから価値が爆発的に高騰しました。
@@ -46,10 +47,10 @@ Monacoin 30円（10月）→2000円（12月） モナコインは半減期を過
     
     <item>
       <title>賞金アリ！あなたなら残された100円を何に使う？</title>
-      <link>http://busi-base.tk/post/discussion/</link>
+      <link>http://busi-base.tk/project/discussion/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/discussion/</guid>
+      <guid>http://busi-base.tk/project/discussion/</guid>
       <description> 突然ですが、質問です。
 もしあなたの全財産が100円になったら、100円何に使いますか？
 それを下記の応募フォームに記していただきたい。
@@ -99,11 +100,13 @@ PSRが割安な順に並んでいます。
 そんな独自サイト構築をたった一瞬で完成させる方法を今回はご紹介します。
 HUGOを使い、サイトのフレームワークを簡単に導入 まずターミナルに移動します。Macのパソコンには必ず入っています（windowsの方はコマンドプロンプト）
 brew install hugo hugo new site ファイル名(好きなようにどうぞ) cd ファイル名 git init  https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
-&amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。その中の、アドレスをコピー
+&amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。
+その中の、アドレスをコピー
 ターミナルに戻り、
-git clone 先ほどコピーしたアドレス ex. git clone https://github.com/cboettig/hugo-now-ui.git  ここでサイトが出来上がっているか、ローカル環境で確認します。
-hugo server  と打つと、最後の方に&amp;rdquo;localhost:1313&amp;rdquo;というURLが出てくると思います。 それをインターネットのアドレスバーから検索してください。
-確認できたらターミナルを閉じます。閉じる前に、control+Cでローカル環境を閉じてください。
+cd themes git clone 先ほどコピーしたアドレス ex. git clone https://github.com/cboettig/hugo-now-ui.git  ここでサイトが出来上がっているか、ローカル環境で確認します。
+hugo server  と打つと、最後の方に&amp;rdquo;localhost:1313&amp;rdquo;というURLが出てくると思います。
+それをインターネットのアドレスバーから検索してください。
+確認できたらターミナルを閉じます。閉じる前に、&amp;rdquo;control+C&amp;rdquo;でローカル環境を閉じてください。
 ネット上にあげるまで このプロセスが知りたい方はこちらへ。</description>
     </item>
     
@@ -528,8 +531,7 @@ IFTTT is a free web-based service to create chains of simple conditional stateme
       
       <guid>http://busi-base.tk/contact/</guid>
       <description>*は必須項目です 姓 名 *メールアドレス
-性別
-男性女性 お問い合わせ内容
+お問い合わせ内容
   Powered by FormMailer.
  </description>
     </item>
@@ -568,6 +570,22 @@ IFTTT is a free web-based service to create chains of simple conditional stateme
 facial recognition 顔認識
 gesture recognition ジェスチャー認識
 real-time depth camera リアルタイム深度カメラ</description>
+    </item>
+    
+    <item>
+      <title>ネイティブが使うカジュアル表現</title>
+      <link>http://busi-base.tk/english/casual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/english/casual/</guid>
+      <description>ネイティブが使うカジュアル表現 食事 I&amp;rsquo;m in （遊びの誘いなどで）
+いいね！のった！ A - I am planning to go to Hakone! B - I&#39;m in!  I am starving
+まじ腹減った  what is your plan for lunch/dinner?
+何食べる？/どこ行く？/予定ある？  Do you wanna join us?
+俺らとご飯行く？ (&amp;quot;wanna&amp;quot; は &amp;quot;want to&amp;quot;)  Order first
+先に注文しちゃおうぜ  Can I get a hot soy latte please?
+ホット豆乳カフェラッテをください。(onegaishimasu might be more polite)  I live here (in Tokyo).
+私はここ（東京）に住んでいます。  Can I pay by card?</description>
     </item>
     
     <item>
@@ -630,8 +648,8 @@ real-time depth camera リアルタイム深度カメラ</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/service/service/</guid>
-      <description> こんな人にオススメ  グーグルアドセンスの収益を得たい! 独自ドメインを取りたい！ ネットビジネスの顧客獲得ルートや収益源を増やしたい HTML,CSSがわからない 記事は持ってるんだけど使い道がない インバウンドマーケティングしたい  なぜbusi-baseがいいの？  hugoによる導入だから記事を書く際に難しいプログラミング知識が全くいらない とにかく安い とにかく早い（契約から約3日以内）  他サイト比較    比較表 運用性 デザイン自由度 プログラミング 独自ドメイン     wix マウス B - ¥418/月   jimbo マウス C - ¥945/月   wordpress html, css A ◯ ¥360/月   busi-base markdown B - 初期投資のみ    実績 アダルトサイト
-要件定義  仮想環境にサイトを構築 githubとの連携 独自ドメインの取得(無料) インターネットへのアップ google analyticsの導入 google adsenseの導入  料金設定    service basic pro business     価格 ¥3,000 ¥4,000 ¥6,000   サイト構築 ◯ ◯ ◯   サーバーアップ ◯ ◯ ◯   メルマガ機能 × ◯ ◯   google analytics/adsense導入 × × ◯   コンサルティング(オフライン) × × ◯   期間 5days 4days 3days    Option  テーマ導入後の変更 ¥1000 テーマの運用・設定等 ¥3000  注意点  コーディングの関係上、macユーザーのみとさせていただきます。 記事のコピー・制作等は行いません。 一度決定したテーマ設定を変更する場合、別途で料金を頂戴する場合がございます。  </description>
+      <description> こんな人にオススメ  グーグルアドセンスの収益を得たい! 独自ドメインを取りたい！ ネットビジネスの顧客獲得ルートや収益源を増やしたい HTML,CSSがわからない 記事は持ってるんだけど使い道がない インバウンドマーケティングしたい  なぜbusi-baseがいいの？  hugoによる導入だから記事を書く際に難しいプログラミング知識が全くいらない とにかく安い とにかく早い（契約から約3日以内）  他サイト比較    比較表 運用性 デザイン自由度 プログラミング 独自ドメイン     wix マウス B - ¥418/月   jimbo マウス C - ¥945/月   wordpress html, css A ◯ ¥360/月   busi-base markdown B - 初期投資のみ    実績 アダルトサイト　hhh-nanpa様
+要件定義  仮想環境にサイトを構築 githubとの連携 独自ドメインの取得(無料) インターネットへのアップ google analyticsの導入 google adsenseの導入  料金設定    service basic pro business     価格 ¥3,000 ¥4,000 ¥6,000   サイト構築 ◯ ◯ ◯   サーバーアップ ◯ ◯ ◯   メルマガ機能 × ◯ ◯   google analytics/adsense導入 × × ◯   コンサルティング(オフライン) × × ◯   期間 5days 4days 3days    Option  テーマ導入後のテーマ変更・再設定 ¥5000 テーマの運用・設定等 ¥3000  注意点  コーディングの関係上、macユーザーのみとさせていただきます。 記事のコピー・制作等は行いません。 一度決定したテーマ設定を変更する場合、別途で料金を頂戴する場合がございます。  </description>
     </item>
     
     <item>

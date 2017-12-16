@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>モテる on Business base</title>
+    <title>モテる on Busi-base</title>
     <link>http://busi-base.tk/tags/%E3%83%A2%E3%83%86%E3%82%8B/</link>
-    <description>Recent content in モテる on Business base</description>
+    <description>Recent content in モテる on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,14 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/project/ifttt/</guid>
-      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。 IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet</description>
+      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。
+IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Instagram, or Pinterest.
+   (adsbygoogle = window.adsbygoogle || []).push({});  
+検索ワードを一つ決めて、それを登録することで、その後勝手にスプレッドシート上で表示することができます。
+完成後がこちら
+ 
+ 設定方法  １上タブのMy Appletをクリック ２ New Appletをクリック ３ Thisをクリック。次にtwitterマークをクリック。  
+４ New Tweet from searchを検索</description>
     </item>
     
   </channel>

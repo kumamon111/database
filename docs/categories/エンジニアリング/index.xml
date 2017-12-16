@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>エンジニアリング on Business base</title>
+    <title>エンジニアリング on Busi-base</title>
     <link>http://busi-base.tk/categories/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0/</link>
-    <description>Recent content in エンジニアリング on Business base</description>
+    <description>Recent content in エンジニアリング on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,19 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/homepages/</guid>
-      <description>副業としての広告ビジネス 副業が話題となってきた昨今、収入源の一つとして代表的な広告収入。 しかし、最も収益性の高いグーグルアドセンスは独自ドメ</description>
+      <description>副業としての広告ビジネス 副業が話題となってきた昨今、収入源の一つとして代表的な広告収入。
+しかし、最も収益性の高いグーグルアドセンスは独自ドメインのサイトでなければ登録ができません。また、独自ドメインをとるには、独自サイトを立ち上げる必要があり（yahooブログやamebaブログではダメ）そこには莫大な工数がかかってしまいます。
+そんな独自サイト構築をたった一瞬で完成させる方法を今回はご紹介します。
+HUGOを使い、サイトのフレームワークを簡単に導入 まずターミナルに移動します。Macのパソコンには必ず入っています（windowsの方はコマンドプロンプト）
+brew install hugo hugo new site ファイル名(好きなようにどうぞ) cd ファイル名 git init  https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
+&amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。
+その中の、アドレスをコピー
+ターミナルに戻り、
+cd themes git clone 先ほどコピーしたアドレス ex. git clone https://github.com/cboettig/hugo-now-ui.git  ここでサイトが出来上がっているか、ローカル環境で確認します。
+hugo server  と打つと、最後の方に&amp;rdquo;localhost:1313&amp;rdquo;というURLが出てくると思います。
+それをインターネットのアドレスバーから検索してください。
+確認できたらターミナルを閉じます。閉じる前に、&amp;rdquo;control+C&amp;rdquo;でローカル環境を閉じてください。
+ネット上にあげるまで このプロセスが知りたい方はこちらへ。</description>
     </item>
     
   </channel>

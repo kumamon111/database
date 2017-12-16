@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>パワポ on Business base</title>
+    <title>パワポ on Busi-base</title>
     <link>http://busi-base.tk/tags/%E3%83%91%E3%83%AF%E3%83%9D/</link>
-    <description>Recent content in パワポ on Business base</description>
+    <description>Recent content in パワポ on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 23 Sep 2017 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,20 @@
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/nbusiness/</guid>
-      <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々</description>
+      <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。この記事では、そうした提案に使えるフレームワークを順に従って紹介していきます。   
+1 まず何から手をつけるべきか おそらくテーマは様々あると思います。  「今より売上を〜万円上げろ」 「新規サービス企画」 「プロモーション施策」etc&amp;hellip;  しかし、どんな新規事業にも克服すべき課題があるはずです。まずはそれを明確にしていきましょう。 
+
+2 課題抽出の為の現状分析（3C・SWOT分析） 課題を探るため、まずは現状分析から始めます。これを助けてくれるのが&amp;rdquo;3C&amp;rdquo;というフレームワークです。
+3C分析の基盤となる3Cのフレームワーク 3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
+   (adsbygoogle = window.adsbygoogle || []).push({});     3C      市場・顧客 市場や顧客のニーズの変化を知る   競合 競合が市場や顧客のニーズの変化にどのように対応しているかを知る   自社 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす    参照: カイロスホームページより
+ 
+⬜︎ ケースサンプル では実際のケースを見ていきましょう。日産自動車を取り上げて見たいと思います。
+自社  ・海外自動車メーカーとの提携により、グローバル自動車メーカーとして事業基盤を固めつつある。
+・トップの方針が明確である。
+・グローバル５極に生産拠点がある。
+・ＥＶ（電気自動車）の技術力に自信
+・絶大なプロモーション力
+ 競合  ・ハイブリッドカーではトヨタ、ホンダが強い</description>
     </item>
     
   </channel>

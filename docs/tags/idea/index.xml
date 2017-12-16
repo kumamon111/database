@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Idea on Business base</title>
+    <title>Idea on Busi-base</title>
     <link>http://busi-base.tk/tags/idea/</link>
-    <description>Recent content in Idea on Business base</description>
+    <description>Recent content in Idea on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 02 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -13,11 +13,24 @@
     
     <item>
       <title>賞金アリ！あなたなら残された100円を何に使う？</title>
-      <link>http://busi-base.tk/post/discussion/</link>
+      <link>http://busi-base.tk/project/discussion/</link>
       <pubDate>Sat, 02 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/discussion/</guid>
-      <description>突然ですが、質問です。 もしあなたの全財産が100円になったら、100円何に使いますか？ それを下記の応募フォームに記していただきたい。 応募者の</description>
+      <guid>http://busi-base.tk/project/discussion/</guid>
+      <description> 突然ですが、質問です。
+もしあなたの全財産が100円になったら、100円何に使いますか？
+それを下記の応募フォームに記していただきたい。
+応募者の中から優秀なアイデアを出展された方には
+「賞金1万円分のビットコイン」を進呈します。
+(0人かもしれないし、100人かもしれない笑)
+(学生なのでこんな金額でも許してください笑)
+ルール  100円から億万長者になるために、まずこの100円を何に使うかを考えること。 スマートフォンなどの通信機器を含め、100円以外に価値を持つものは何も所持していない（中古品の売買などは禁ずる） 必ず100円を使うこと  審査ポイント  実現可能性よりも発想力 100円の使い道の後まで考えられていればプラスポイント  審査期間 この記事の公開〜12/15 14:00まで
+注意点  審査結果に関する質問・批判等は一切受け付けません。 本アイデアに関する一部を後日本サイト、SNS等で公表します。 本キャンペーンにおいて取得した個人情報に関しては、目的以外の方法に一切使用いたしません。 賞金の支払い等に関しましては、対象者が確定次第、個別に連絡するものとします。 本キャンペーンへの応募を持って、以上の注意点に同意したものとみなします。  応募フォーム *は必須項目です *注意点
+以上の注意点に同意する *メールアドレス
+*メルマガ
+メルマガを希望する メルマガを希望しない テキストエリア
+  Powered by FormMailer.
+ </description>
     </item>
     
   </channel>

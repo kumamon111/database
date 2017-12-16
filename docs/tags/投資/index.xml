@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>投資 on Business base</title>
+    <title>投資 on Busi-base</title>
     <link>http://busi-base.tk/tags/%E6%8A%95%E8%B3%87/</link>
-    <description>Recent content in 投資 on Business base</description>
+    <description>Recent content in 投資 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,20 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/post/psr/</guid>
-      <description>PSR 株式投資においてポートフォリオには 外せない存在となってきたITベンチャー。 ただし、データが少ないことから見極めが難しいことも多くあります。</description>
+      <description>PSR 株式投資においてポートフォリオには
+外せない存在となってきたITベンチャー。
+ただし、データが少ないことから見極めが難しいことも多くあります。
+投資する会社を決定するところから
+エントリーポイント、エグジットまで。
+それを手助けするのが&amp;rdquo;PSR&amp;rdquo;(株価売上高倍率)です。
+PSR＝株式時価総額/売上高  で表されます。
+この指標は、
+ 成長期待のある小型株  に用いるのが一般的です。
+PSRはもともとIT企業の上場が増えた頃に、
+PERやPBRなどでは説明のつかない銘柄について用いられました。
+実際に分析 「東証マザーズ、情報通信」に限定してPSR計算してみた。
+PSRが割安な順に並んでいます。
+   銘柄コード 企業名 マーケット 業種 時価総額 売上高 PSR     3675 クロス・マーケティンググループ 東証マザ 情報通信 10371 15969 0.649445801   3671 ソフトマックス 東証マザ 情報通信 2761 3844 0.718262227   3622 ネットイヤーグループ 東証マザ 情報通信 4514 5906 0.764307484   3691 リアルワールド 東証マザ 情報通信 3521 4335 0.812226067   3907 シリコンスタジオ 東証マザ 情報通信 8252 7001 1.</description>
     </item>
     
   </channel>
