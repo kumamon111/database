@@ -32,13 +32,18 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 
     git init
 
-https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
+<a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>に移動し、使いたいテーマを選択する。
 
 
-"Download"を押し、githubのサイトに移動したら右の緑のボタン"clone or download"をクリック。その中の、アドレスをコピー
+"Download"を押し、githubのサイトに移動したら右の緑のボタン"clone or download"をクリック。
+
+
+その中の、アドレスをコピー
 
 
 ターミナルに戻り、
+
+    cd themes
     
     git clone 先ほどコピーしたアドレス
 
@@ -49,10 +54,14 @@ https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
     hugo server
 
 と打つと、最後の方に"localhost:1313"というURLが出てくると思います。
+
+
 それをインターネットのアドレスバーから検索してください。
 
-確認できたらターミナルを閉じます。閉じる前に、control+Cでローカル環境を閉じてください。
+
+確認できたらターミナルを閉じます。閉じる前に、"control+C"でローカル環境を閉じてください。
+
 
 ### ネット上にあげるまで
 
-このプロセスが知りたい方はこちらへ。
+このプロセスが知りたい方は<a href="/service/service/">こちら</a>へ。

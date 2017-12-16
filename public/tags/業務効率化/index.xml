@@ -17,7 +17,14 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/project/ifttt/</guid>
-      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。 IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet</description>
+      <description>Twitterの検索ワードを自動的にスプレッドシードに追加 本日紹介するのは、IFTTTというソフトウェア。
+IFTTT is a free web-based service to create chains of simple conditional statements, called applets. An applet is triggered by changes that occur within other web services such as Gmail, Facebook, Instagram, or Pinterest.
+   (adsbygoogle = window.adsbygoogle || []).push({});  
+検索ワードを一つ決めて、それを登録することで、その後勝手にスプレッドシート上で表示することができます。
+完成後がこちら
+ 
+ 設定方法  １上タブのMy Appletをクリック ２ New Appletをクリック ３ Thisをクリック。次にtwitterマークをクリック。  
+４ New Tweet from searchを検索</description>
     </item>
     
   </channel>

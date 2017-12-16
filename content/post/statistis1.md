@@ -1,6 +1,6 @@
 ---
 title: 統計Rを使った分析（１）
-date: 2017-09-30
+date: 2017-11-30
 draft: true
 categories: [ "statistics" ]
 tags: [ "R", "金融", "トレンド" ]

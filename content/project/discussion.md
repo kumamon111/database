@@ -4,6 +4,7 @@ date: 2017-12-02
 categories: [ "idea" ]
 tags: [ "idea" ]
 description: もしあなたの全財産が100円になった時、あなたならこれを何に使いますか？みなさんのアイデアどしどし応募してます。もしかしたら嬉しい賞金もあるかも!?
+featured: /images/pic03.jpg
 ---
 
 

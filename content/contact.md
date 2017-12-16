@@ -1,10 +1,12 @@
-### お問い合わせ
+---
+title: お問い合わせ
+---
 
 
 
 <form action="https://ssl.form-mailer.jp/fm/service/Forms/confirm" method="post" name="form1" ENCTYPE="multipart/form-data">
 <input type="hidden" name="key" value="e9535300545069" >
-<h1>contact</h1>
+
 
 *は必須項目です
 
@@ -12,26 +14,22 @@
 
 
 <!-- name -->
-<p>名前</p>
+
 <p>姓
-<input name="field_4664396_sei" type="text" style="width:100px;">
+<input name="field_4664396_sei" type="text" style="width:75%">
 名
-<input name="field_4664396_mei" type="text" style="width:100px;">
+<input name="field_4664396_mei" type="text" style="width:75%">
 </p>
 <!-- text:mail -->
 <p>*メールアドレス</p>
-<p><input name="field_4664397" type="text" size="30">
-</p>
-<!-- radio:sex -->
-<p>性別</p>
-<p><input name="field_4664398" type="radio" value="0">男性<input name="field_4664398" type="radio" value="1">女性
+<p><input name="field_4664397" type="text" style="width:75%">
 </p>
 
 <!-- textarea -->
 <p>お問い合わせ内容</p>
 <p>
 
-<textarea name="field_4665210" cols="30" rows="5"></textarea>
+<textarea name="field_4665210" style="width:75%"></textarea>
 
 </p>
 

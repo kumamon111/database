@@ -4,10 +4,14 @@ date: 2017-12-08
 categories: [ "technology" ]
 tags: [ "technology","cryptocurrency" ]
 description: 
+featured: /images/pic02.jpg
 ---
 
 
+
 ### 仮想通貨って？
+
+
 今話題の仮想通貨ですが、一体何のことで何のメリットがあり、どうして買ったほうがいいのか解説していきます。
 
 >仮想通貨とは、インターネットを通じて不特定多数の間で物品やサービスの対価に使用でき、中央銀行などの公的な発行主体や管理者が存在せず専門の取引所を介して円やドル・ユーロ・人民元などの通貨と交換できます。仮想通貨の種類は600種類以上あるといわれています。
@@ -23,7 +27,11 @@ description:
 出典：bitflier公式サイト
 
 
-### 何がいいの？
+<a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/04_cc_banner_234x60.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
+
+### 何がいいの
+
+
 
 現在何よりもリターンのある投資商品です。
 
@@ -42,15 +50,20 @@ Monacoin 30円（10月）→2000円（12月）
 さらに上昇のスパンが早いです。
 
 
-だから、今すぐにでもお金を増やしたい、
-
-
-短期的な目線で物を見る方にはうってつけでしょう。
+だから、今すぐにでもお金を増やしたい、短期的な目線で物を見る方にはうってつけでしょう。
 
 
 
 ### これから上がるのは？
-仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。では次に来る一攫千金コインを考えて見ましょう。
+
+
+仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。
+
+
+上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。
+
+
+では次に来る一攫千金コインを考えて見ましょう。
 
 
 #### Zaif 1円
@@ -64,19 +77,20 @@ Monacoin 30円（10月）→2000円（12月）
 
 
 
-<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" /></a>
 
-<a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/04_cc_banner_234x60.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
+上記のコインが全て買える取引所を<a href="https://zaif.jp?ac=bptqvu5o1v">チェック</a>
+
+
+<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" width:"30%"/></a>
+
 
 #### 発行上限数をチェック
+
 
 仮想通貨には供給量が決められているものがいくつかあります。
 
 
-その通貨たちはある一定まで供給が行われると、
-
-
-半減期というものを迎えそこから供給量がガクッと減ります。
+その通貨たちはある一定まで供給が行われると、半減期というものを迎えそこから供給量がガクッと減ります。
 
 
 欲しい人からすれば希少価値が高まり、値段が跳ね上がるというわけです。
@@ -131,44 +145,24 @@ Monacoin 30円（10月）→2000円（12月）
 この中でも特にIOTAには注目しています。
 
 
-この通貨はIoTの根本問題を解決する通貨で、
+この通貨はIoTの根本問題を解決する通貨で、今後注目を集めてくる通貨と言えるでしょう。
 
 
-今後注目を集めてくる通貨と言えるでしょう。
+この通貨を買うのは非常に難しいと思ったのですが、<a href="https://www.binance.com/?ref=12097611">binance</a>というサイトで買えることが判明しました。
 
 
-この通貨を買うのは非常に難しいと思ったのですが、
-
-
-<a href="https://www.binance.com/?ref=12097611">binance</a>というサイトで買えることが判明しました。
+<a href="https://www.binance.com/?ref=12097611"><img src="/images/iota.png" width:"40%"></a>
 
 
 ぜひ上のリンクから購入して見てください。
 
 
-### 仮想通貨取引所は…
+### 仮想通貨取引所
 
-Zaif
+#### Zaif 
 
+Zaif（ザイフ）は2015年3月4日にオープンしたビットコインをはじめとする仮想通貨/暗号通貨の取引所です。日本のテックビューロ株式会社により運営されています。
 
-<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" /></a>
-
-
-SimpleFX(海外)
-
-
-<a href="https://simplefx.com/dashboard?bannerId=7503&sfx-r=74e014cb-3c6d-40cf-b9d9-db9f9412a159" target="_self"><img src="https://simplefx.com/img/ES/7503_320_50.jpg" width="320" height="50" border="0"></a>
-
-
-Coincheck
-
-
-<a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/04_cc_banner_234x60.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
-
-
-BItmex(海外)
-
-
-<a href=“https://www.bitmex.com/register/RQKdsk”>登録はこちらから</a>
+<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" width:"30%"/><p>登録はこちら</p></a>
 
 

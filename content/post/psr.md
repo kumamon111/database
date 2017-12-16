@@ -4,6 +4,7 @@ date: 2017-12-01
 categories: [ "investment" ]
 tags: [ "ベンチャー", "投資", "株" ]
 description: 株式投資においてポートフォリオには外せない存在となってきたITベンチャー。ただし、データが少ないことから見極めが難しいことも多くあります。そこで今回紹介するのが、PSRという指標です。
+featured: /images/pic03-1.jpg
 ---
 
 ### PSR

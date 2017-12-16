@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Service on Business base</title>
+    <link>http://busi-base.tk/service/</link>
+    <description>Recent content in Service on Business base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="http://busi-base.tk/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>個人向けWebサイト構築事業</title>
+      <link>http://busi-base.tk/service/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/service/service/</guid>
+      <description> こんな人にオススメ  グーグルアドセンスの収益を得たい! 独自ドメインを取りたい！ ネットビジネスの顧客獲得ルートや収益源を増やしたい HTML,CSSがわからない 記事は持ってるんだけど使い道がない インバウンドマーケティングしたい  なぜbusi-baseがいいの？  hugoによる導入だから記事を書く際に難しいプログラミング知識が全くいらない とにかく安い とにかく早い（契約から約3日以内）  他サイト比較    比較表 運用性 デザイン自由度 プログラミング 独自ドメイン     wix マウス B - ¥418/月   jimbo マウス C - ¥945/月   wordpress html, css A ◯ ¥360/月   busi-base markdown B - 初期投資のみ    実績 アダルトサイト
+要件定義  仮想環境にサイトを構築 githubとの連携 独自ドメインの取得(無料) インターネットへのアップ google analyticsの導入 google adsenseの導入  料金設定    service basic pro business     価格 ¥3,000 ¥4,000 ¥6,000   サイト構築 ◯ ◯ ◯   サーバーアップ ◯ ◯ ◯   メルマガ機能 × ◯ ◯   google analytics/adsense導入 × × ◯   コンサルティング(オフライン) × × ◯   期間 5days 4days 3days    Option  テーマ導入後の変更 ¥1000 テーマの運用・設定等 ¥3000  注意点  コーディングの関係上、macユーザーのみとさせていただきます。 記事のコピー・制作等は行いません。 一度決定したテーマ設定を変更する場合、別途で料金を頂戴する場合がございます。  </description>
+    </item>
+    
+    <item>
+      <title>就活コンサル事業</title>
+      <link>http://busi-base.tk/service/newgrad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/service/newgrad/</guid>
+      <description> 新卒へ就職までのプロセスを最短化 新卒の方向けに、就職までのプロセスを最短化するコンサルを行なっております（無料）
+以下のフォームからレジュメをお送りください。
+現時点で、以下の会社におつなぎすることができます。
+Sansan https://jp.sansan.com/
+From Scratch https://f-scratch.co.jp/
+Metaps http://metaps.com/ja/
+UZABASE http://www.uzabase.com/
+freee https://www.freee.co.jp/
+
+お問い合わせフォーム  *チェックボックス
+Sansan From Scratch Metaps UZABASE freee *メールアドレス*レジュメ添付
+Powered by FormMailer.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
