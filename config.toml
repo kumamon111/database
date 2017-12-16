@@ -74,7 +74,7 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   [params.intro.pic]
     src       = "/images/busilogo.png"
     # Sets Image to be a cirlce
-    circle    = false
+    circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = true
     width     = ""
