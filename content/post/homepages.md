@@ -22,9 +22,11 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 
 ### HUGOを使い、サイトのフレームワークを簡単に導入
 
-まずターミナルに移動します。Macのパソコンには必ず入っています（windowsの方はコマンドプロンプト）
+まずターミナルに移動します。Macのパソコンには必ず入っています。
 
-    brew install hugo
+    brew install hugo 
+    
+* brewが見つかりませんと出た場合は<a href="https://qiita.com/is0me/items/475fdbc4d770534f9ef1">こちら</a>
 
     hugo new site ファイル名(好きなようにどうぞ)
 
@@ -51,7 +53,8 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 
 ここでサイトが出来上がっているか、ローカル環境で確認します。
 
-    hugo server
+    hugo server -t テーマ名
+    ex. hugo server -t hugo-now-ui
 
 と打つと、最後の方に"localhost:1313"というURLが出てくると思います。
 

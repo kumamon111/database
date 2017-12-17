@@ -64,7 +64,7 @@
 
 
 <meta itemprop="dateModified" content="2017-12-01T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="40">
+<meta itemprop="wordCount" content="48">
 
 
 
@@ -539,16 +539,20 @@ ga('send', 'pageview');
 
 <h3 id="hugoを使い-サイトのフレームワークを簡単に導入">HUGOを使い、サイトのフレームワークを簡単に導入</h3>
 
-<p>まずターミナルに移動します。Macのパソコンには必ず入っています（windowsの方はコマンドプロンプト）</p>
+<p>まずターミナルに移動します。Macのパソコンには必ず入っています。</p>
 
-<pre><code>brew install hugo
-
-hugo new site ファイル名(好きなようにどうぞ)
-
-cd ファイル名
-
-git init
+<pre><code>brew install hugo 
 </code></pre>
+
+<ul>
+<li><p>brewが見つかりませんと出た場合は<a href="https://qiita.com/is0me/items/475fdbc4d770534f9ef1">こちら</a></p>
+
+<p>hugo new site ファイル名(好きなようにどうぞ)</p>
+
+<p>cd ファイル名</p>
+
+<p>git init</p></li>
+</ul>
 
 <p><a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>に移動し、使いたいテーマを選択する。</p>
 
@@ -567,7 +571,8 @@ ex. git clone https://github.com/cboettig/hugo-now-ui.git
 
 <p>ここでサイトが出来上がっているか、ローカル環境で確認します。</p>
 
-<pre><code>hugo server
+<pre><code>hugo server -t テーマ名
+ex. hugo server -t hugo-now-ui
 </code></pre>
 
 <p>と打つと、最後の方に&rdquo;localhost:1313&rdquo;というURLが出てくると思います。</p>
