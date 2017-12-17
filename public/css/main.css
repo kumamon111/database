@@ -72,7 +72,7 @@
 	}
 
 	.sponsored{
-		font-size: 0.6em;
+		font-size: 0.6em !important;
 
 	}
 
@@ -2595,7 +2595,7 @@
 		}
 
 		#intro .intro-circle {
-		    border-radius: 50%;
+		    border-radius: 80px;
 		}
 
 		#intro .logo {

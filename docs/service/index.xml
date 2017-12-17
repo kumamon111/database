@@ -6,9 +6,19 @@
     <description>Recent content in Service on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/service/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://busi-base.tk/service/finance/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/service/finance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>個人向けWebサイト構築事業</title>
