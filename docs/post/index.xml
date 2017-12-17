@@ -82,6 +82,7 @@ brew install hugo   brewが見つかりませんと出た場合はこちら
 hugo new site ファイル名(好きなようにどうぞ)
 cd ファイル名
 git init
+ gitが見つからない場合は&amp;rdquo;gitをインストールしますか&amp;rdquo;と出るので、手順に従いインストールしてください。
   https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
 &amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。
 その中の、アドレスをコピー

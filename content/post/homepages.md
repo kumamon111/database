@@ -34,6 +34,8 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 
     git init
 
+* gitが見つからない場合は"gitをインストールしますか"と出るので、手順に従いインストールしてください。
+
 <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>に移動し、使いたいテーマを選択する。
 
 
