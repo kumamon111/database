@@ -21,12 +21,7 @@
 しかし、最も収益性の高いグーグルアドセンスは独自ドメインのサイトでなければ登録ができません。また、独自ドメインをとるには、独自サイトを立ち上げる必要があり（yahooブログやamebaブログではダメ）そこには莫大な工数がかかってしまいます。
 そんな独自サイト構築をたった一瞬で完成させる方法を今回はご紹介します。
 HUGOを使い、サイトのフレームワークを簡単に導入 まずターミナルに移動します。Macのパソコンには必ず入っています。
-brew install hugo   brewが見つかりませんと出た場合はこちら
-hugo new site ファイル名(好きなようにどうぞ)
-cd ファイル名
-git init
- gitが見つからない場合は&amp;rdquo;gitをインストールしますか&amp;rdquo;と出るので、手順に従いインストールしてください。
-  https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
+brew install hugo hugo new site ファイル名(好きなようにどうぞ) cd ファイル名 git init   brewが見つかりませんと出た場合はこちら gitが見つからない場合は&amp;rdquo;gitをインストールしますか&amp;rdquo;と出るので、手順に従いインストールしてください。  https://themes.gohugo.io/に移動し、使いたいテーマを選択する。
 &amp;ldquo;Download&amp;rdquo;を押し、githubのサイトに移動したら右の緑のボタン&amp;rdquo;clone or download&amp;rdquo;をクリック。
 その中の、アドレスをコピー
 ターミナルに戻り、
