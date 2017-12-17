@@ -25,8 +25,6 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 まずターミナルに移動します。Macのパソコンには必ず入っています。
 
     brew install hugo 
-    
-* brewが見つかりませんと出た場合は<a href="https://qiita.com/is0me/items/475fdbc4d770534f9ef1">こちら</a>
 
     hugo new site ファイル名(好きなようにどうぞ)
 
@@ -34,6 +32,7 @@ description: 副業が話題となってきた昨今、収入源の一つとし�
 
     git init
 
+* brewが見つかりませんと出た場合は<a href="https://qiita.com/is0me/items/475fdbc4d770534f9ef1">こちら</a>
 * gitが見つからない場合は"gitをインストールしますか"と出るので、手順に従いインストールしてください。
 
 <a href="https://themes.gohugo.io/">https://themes.gohugo.io/</a>に移動し、使いたいテーマを選択する。
