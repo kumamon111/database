@@ -167,7 +167,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/cryptocurrency/</loc>
-    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -179,6 +179,12 @@
   <url>
     <loc>http://busi-base.tk/fermi/</loc>
     <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/finance/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,6 +203,12 @@
   <url>
     <loc>http://busi-base.tk/tags/ifttt/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/iota/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,6 +245,18 @@
   <url>
     <loc>http://busi-base.tk/categories/investment/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/job/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/job/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,13 +331,13 @@
   
   <url>
     <loc>http://busi-base.tk/tags/technology/</loc>
-    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://busi-base.tk/categories/technology/</loc>
-    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -396,6 +420,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%89/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -453,6 +483,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/%E3%83%98%E3%83%83%E3%83%89%E3%83%8F%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -477,6 +513,12 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E4%B8%AD%E9%80%94/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</loc>
+    <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

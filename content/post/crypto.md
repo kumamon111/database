@@ -2,9 +2,8 @@
 title: ビットコインがついに200万円！大学生が仮想通貨を買うべき3つの理由。
 date: 2017-12-08
 categories: [ "technology" ]
-tags: [ "technology","cryptocurrency" ]
+tags: [ "technology","cryptocurrency","仮想通貨","ビットコイン","IOTA" ]
 description: 
-featured: /images/pic02.jpg
 ---
 
 
@@ -149,13 +148,16 @@ Monacoin 30円（10月）→2000円（12月）
 この通貨はIoTの根本問題を解決する通貨で、今後注目を集めてくる通貨と言えるでしょう。
 
 
-この通貨を買うのは非常に難しいと思ったのですが、<a href="https://www.binance.com/?ref=12097611">binance</a>というサイトで買えることが判明しました。
+この通貨を買うのは非常に難しいと思ったのですが、
 
 
-<a href="https://www.binance.com/?ref=12097611"><img src="/images/iota.png" width:"40%"></a>
+<a href="https://www.binance.com/?ref=12097611">binance</a>というサイトで買えることが判明しました。
 
 
-ぜひ上のリンクから購入して見てください。
+<img src="/images/iota.png" width:"40%">
+
+登録は下のリンクから↓
+<a href="https://www.binance.com/?ref=12097611"><h4>binance</h></a>
 
 
 ### 仮想通貨取引所
