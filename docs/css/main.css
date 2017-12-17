@@ -2595,7 +2595,7 @@
 		}
 
 		#intro .intro-circle {
-		    border-radius: 160px;
+		    border-radius: none;
 		}
 
 		#intro .logo {
