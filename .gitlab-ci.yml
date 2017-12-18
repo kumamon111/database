@@ -1,14 +1,17 @@
-before_script:
-  - apt-get update -qq && apt-get install -y -qq sqlite3 libsqlite3-dev nodejs
-  - ruby -v
-  - which ruby
-  - gem install bundler --no-ri --no-rdoc
-  - bundle install --jobs $(nproc)  "${FLAGS[@]}"
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
 
-rspec:
+test:
   script:
-    - bundle exec rspec
+  - hugo
+  except:
+  - master
 
-rubocop:
+pages:
   script:
-    - bundle exec rubocop
+  - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

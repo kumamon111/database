@@ -1,67 +1,35 @@
 ---
 title: 就活コンサル事業
-description: 新卒の方向けに、就職までのプロセスを最短化するコンサルを無料で行ないます。
+description: 新卒の方向けに、ハイクラスな新卒ポジションとそこまでのプロセスを最短化するコンサルを無料で行ないます。
 ---
 
-### 新卒へ就職までのプロセスを最短化
+### ハイクラス新卒ポジションの就職サポート
 
-<p>新卒の方向けに、就職までのプロセスを最短化するコンサルを行なっております（無料）</p>
-<p>以下のフォームからレジュメをお送りください。</p>
-<p>現時点で、以下の会社におつなぎすることができます。</p>
+Business Baseでは、数名のプロヘッドハンターと協力し、意識高い系の皆さんの就職活動をバックアップします。
 
 
-
-Sansan  https://jp.sansan.com/
-
-
-From Scratch  https://f-scratch.co.jp/
+ここでご紹介するものはハイクラスのポジションに限定されています。
 
 
-Metaps  http://metaps.com/ja/
+・ 外資ITコンサル
+
+・ 外資系ファンド
+
+・ 外資系投資銀行
+
+・ 日系ファンド　等
 
 
-UZABASE  http://www.uzabase.com/
-
-
-freee  https://www.freee.co.jp/
-
+登録前に審査を行いますので、ご興味のある方は下記のフォームからご応募お願いします。
 
 </br>
 
 ### お問い合わせフォーム 
 
-<form action="https://ssl.form-mailer.jp/fm/service/Forms/confirm" method="post" name="form1" ENCTYPE="multipart/form-data">
-<input type="hidden" name="key" value="2d29080b545160" >
-
-
-
-</br>
-
-<!-- checkbox -->
-<p>*チェックボックス</p>
-
-<p><input name="field_4666409" type="checkbox" value="0">Sansan
-
-
-<p><input name="field_4666409" type="checkbox" value="1">From Scratch
-
-
-<p><input name="field_4666409" type="checkbox" value="2">Metaps
-
-
-<p><input name="field_4666409" type="checkbox" value="3">UZABASE
-
-
-<p><input name="field_4666409" type="checkbox" value="4">freee
-
-
-</p>
-
 
 <!-- text:mail -->
 <p><span class="required">*</span>メールアドレス<input name="field_4665212" type="text" size="30">
 </p>
-
 
 
 <p><span class="required">*</span>レジュメ添付</p>

@@ -88,7 +88,7 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
 # Identifier prepends a Font Awesome icon to the menu item
 [[menu.main]]
   name = "Home"
-  url = "/post/"
+  url = "/"
   identifier = "fa fa-home"
   weight = 1
 
