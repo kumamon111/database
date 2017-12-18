@@ -35,12 +35,6 @@ description: ブログで広告収益を得たい方向けに、サイト構築�
 
 </br>
 
-### 実績
-
-
-<a href="http://hhh-nanpa.ml/">アダルトサイト</a>　hhh-nanpa様
-
-</br>
 
 ### 要件定義
 
@@ -74,6 +68,27 @@ description: ブログで広告収益を得たい方向けに、サイト構築�
 
 - テーマ導入後のテーマ変更・再設定 ¥5000
 - テーマの運用・設定等 ¥3000
+
+</br>
+
+### 完成イメージ
+
+<a href="https://themes.gohugo.io/forty/" class="link db shadow-hover gray mb4 w-100 w-30-ns">
+    <img class="fit db ba b--moon-gray lazyloaded" alt="A portfolio/blog website built for companies or personal freelancers." src="https://themes.gohugo.io/images/forty.tn.png" data-src="https://themes.gohugo.io/images/forty.tn.png">
+    <noscript>
+      &lt;img class="fit db ba b--moon-gray" alt="A portfolio/blog website built for companies or personal freelancers." src="https://themes.gohugo.io/images/forty.tn.png" /&gt;
+    </noscript>
+    <span class="f6 dark-gray w-100 db">Forty</span>
+  </a>
+
+<a href="https://themes.gohugo.io/hugo-theme-dream/" class="link db shadow-hover gray mb4 w-100 w-30-ns">
+    <img class="fit db ba b--moon-gray lazyloaded" alt="A hugo theme named dream" src="https://themes.gohugo.io/images/hugo-theme-dream.tn.png" data-src="https://themes.gohugo.io/images/hugo-theme-dream.tn.png">
+    <noscript>
+      &lt;img class="fit db ba b--moon-gray" alt="A hugo theme named dream" src="https://themes.gohugo.io/images/hugo-theme-dream.tn.png" /&gt;
+    </noscript>
+    <span class="f6 dark-gray w-100 db">Dream</span>
+  </a>
+
 
 </br>
 
