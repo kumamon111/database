@@ -28,6 +28,9 @@ description:
 
 <a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/04_cc_banner_234x60.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
 
+
+</br>
+
 ### 何がいいの
 
 
@@ -52,7 +55,7 @@ Monacoin 30円（10月）→2000円（12月）
 
 だから、今すぐにでもお金を増やしたい、短期的な目線で物を見る方にはうってつけでしょう。
 
-
+</br>
 
 ### これから上がるのは？
 
@@ -78,10 +81,14 @@ Monacoin 30円（10月）→2000円（12月）
 
 
 
-上記のコインが全て買える取引所を<a href="https://zaif.jp?ac=bptqvu5o1v">チェック</a>
+*上記のコインが全て買える取引所をチェック
 
 
-<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" width:"30%"/></a>
+<a href="https://zaif.jp?ac=bptqvu5o1v" class="button big">Check cryptocurrency</a>
+
+
+
+ <br/>
 
 
 #### 発行上限数をチェック
@@ -107,6 +114,8 @@ Monacoin 30円（10月）→2000円（12月）
 
 
 昨年初旬3円だった時から比べて、600倍以上になっています。
+
+</br>
 
 
 ### 供給上限がある通貨とその供給量
@@ -137,7 +146,7 @@ Monacoin 30円（10月）→2000円（12月）
 | Hshare       | HSR    | 79.61%     | 33,600,000      | 42,206,658      | 8,606,658     |
 | Bitcoin      | BTC    | 79.36%     | 16,666,062      | 21,000,000      | 4,333,938     |
 
-
+</br>
 
 ### IOTAとは？
 
@@ -156,8 +165,8 @@ Monacoin 30円（10月）→2000円（12月）
 
 <img src="/images/iota.png" width:"40%">
 
-登録は下のリンクから↓
-<a href="https://www.binance.com/?ref=12097611"><h4>binance</h></a>
+
+<a href="https://www.binance.com/?ref=12097611" class="button big">Register Binance</a>
 
 
 ### 仮想通貨取引所
@@ -166,6 +175,7 @@ Monacoin 30円（10月）→2000円（12月）
 
 Zaif（ザイフ）は2015年3月4日にオープンしたビットコインをはじめとする仮想通貨/暗号通貨の取引所です。日本のテックビューロ株式会社により運営されています。
 
-<a href="https://zaif.jp?ac=bptqvu5o1v" rel="nofollow"><img src="https://d2p8taqyjofgrq.cloudfront.net/images/affiliate/banner/zaif_B_468x60.png?ac=bptqvu5o1v" width:"30%"/><p>登録はこちら</p></a>
+<a href="https://zaif.jp?ac=bptqvu5o1v" class="button big">Register Zaif</a>
+
 
 
