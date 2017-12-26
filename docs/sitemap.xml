@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/project/discussion/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/post/psr/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -83,11 +78,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/post/security/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/post/nbusiness/</loc>
     <lastmod>2017-09-23T00:00:00+00:00</lastmod>
   </url>
@@ -128,29 +118,11 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/project/ifttt/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/project/2008-12-30-password-protection-with-passkeeper/</loc>
-    <lastmod>2008-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/</loc>
   </url>
   
   <url>
     <loc>http://busi-base.tk/interns/</loc>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/project/interns.1/</loc>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/project/newgrad.1/</loc>
   </url>
   
   <url>
@@ -223,12 +195,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/tags/ifttt/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/tags/iota/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -237,18 +203,6 @@
   <url>
     <loc>http://busi-base.tk/tags/it/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/tags/idea/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/categories/idea/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,19 +283,7 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/project/</loc>
-    <lastmod>2017-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/categories/ranking/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/categories/sales/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -444,18 +386,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/tags/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/english/casual/</loc>
   </url>
   
@@ -547,12 +477,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/tags/%E3%83%A2%E3%83%86%E3%82%8B/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/tags/%E3%83%AA%E3%82%B9%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
     <priority>0</priority>
   </url>
@@ -578,12 +502,6 @@
   
   <url>
     <loc>http://busi-base.tk/service/service/</loc>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/tags/%E5%96%B6%E6%A5%AD/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -652,12 +570,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/tags/%E6%96%B0%E6%8A%80%E8%A1%93/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/list/rank3/</loc>
   </url>
   
@@ -677,18 +589,6 @@
   
   <url>
     <loc>http://busi-base.tk/post/eintern/</loc>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/tags/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/categories/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -727,12 +627,6 @@
   <url>
     <loc>http://busi-base.tk/tags/%E8%8D%89%E3%82%B3%E3%82%A4%E3%83%B3/</loc>
     <lastmod>2017-12-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/tags/%E9%87%91%E8%9E%8D/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

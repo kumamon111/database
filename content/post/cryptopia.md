@@ -118,7 +118,7 @@ XEMは<a href=“https://zaif.jp/?ac=bptqvu5o1v”>こちら</a>で購入でき�
 </br>
 
 Cryptopiaの上のメニューバーからBitcoinのマーク（B）を選択してください。
-<img src=“/images/cryptopiabae.png”>
+<img src=“/images/cryptopia_bae.png”>
 
 → depositを選択
 
