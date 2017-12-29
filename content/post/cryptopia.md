@@ -111,14 +111,15 @@ $DENTA
 Bitcoinはすでに価格が上昇しすぎており手数料が非常に高いため、回避しています。
 
 </br>
-XEMは<a href=“https://zaif.jp/?ac=bptqvu5o1v”>こちら</a>で購入できます。
+XEMは<a href=“https://coincheck.com/?c=tsysEEEWmUI”>こちら</a>で購入できます。
 
-<a href="https://zaif.jp?ac=bptqvu5o1v" class="button big">Register Zaif</a>
+<a href="https://coincheck.com/?c=tsysEEEWmUI" class="button big">Register CoinCheck</a>
 
 </br>
 
+
 Cryptopiaの上のメニューバーからBitcoinのマーク（B）を選択してください。
-<img src=“/images/cryptopia_bae.png”>
+
 
 → depositを選択
 
@@ -141,22 +142,15 @@ NBQ73BYLVGMO7L2WFG2VVOJHOBWWJKW7D3V7UE4E
 
 </br>
 
-これら二つをそれぞれ、zaifのxem出金画面に入力。
-
-<img src=“/images/xem.png”>
-<img src=“/images/enterxem.png”>
-
-
-で完了です。
+これら二つをそれぞれ、coincheckのxem出金画面に入力で完了です。
 
 </br>
+
 *multisigトランザクションの対応について
 
-Cryptopiaではこちらの採用をしておりますので、ご安心ください。
+Zaifのxem送金に関してはmultisigトランザクションを採用しています。
+cryptopiaはこちら非対応ですので、coincheckからの送金をお勧めします。
 
-
-参考までに。
-<img src=“/images/deposit.png”>
 
 <a href="https://goo.gl/WGsNyk" class="button big">Register cryptopia</a>
 
