@@ -51,7 +51,7 @@ Slack: <a href="https://cornellblockchain.herokuapp.com/">https://cornellblockch
 
 キプロス全土で最大の大学で、主なコースは理学修士号で、プライマリコースの概要は「デジタル通貨入門」です。このコースはオンラインで入手可能で、オープン登録MOOCコースとして無料で入手できます。
 
-<a href="https://www.unic.ac.cy/schools/distance-learning/digital-currency-msc-3-semesters-distance-learning" class="buttom big">Apply now</a>
+<a href="https://www.unic.ac.cy/schools/distance-learning/digital-currency-msc-3-semesters-distance-learning" class="button big">Apply now</a>
 
 ### スタンフォード大学
 
@@ -75,7 +75,7 @@ Slack: <a href="https://cornellblockchain.herokuapp.com/">https://cornellblockch
 
 B9ラボアカデミーは、財務的および科学的なハブに基づいており、Bitcoinとブロックチェーンテクノロジの背後にあるテクノロジとその社会的影響を理解し、開発することに全力を注いでいます。
 
-<a href="https://academy.b9lab.com/">Enroll now</a>
+<a href="https://academy.b9lab.com/" class="button big">Enroll now</a>
 
 ### コペンハーゲンIT大学（デンマーク）
 
