@@ -100,6 +100,10 @@ description: ブログで広告収益を得たい方向けに、サイト構築�
 - 一度決定したテーマ設定を変更する場合、別途で料金を頂戴する場合がございます。
 
 
-### お申し込み
 
+### お申し込み
+Basicの方はこちらから
+<a href="https://note.mu/busibase/n/n8ea7cf42585e?creator_urlname=busibase" class="button big">Check it</a>
+
+Pro/Businessの方
 <a href="mailto:{{.}}" title="Email" class="fa fa-envelope">お申し込みはこちらまで</a>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Busi-base</title>
+    <link>http://busi-base.tk/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Busi-base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://busi-base.tk/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ブロックチェーン・仮想通貨コースを提供する大学まとめ</title>
+      <link>http://busi-base.tk/post/chainschool/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/post/chainschool/</guid>
+      <description>ブロックチェーンは、世界で最も急速に拡大している技術の1つです。
+そんな中未来を見据え、すでにブロックチェーンに特化したコースを設定する学校があります。
+今後この技術の需要が高まるにつれ、教育の機会を求める学生の需要もどんどん高まることでしょう。
+ブロックチェーンのコースを提供する10の大学を紹介します！
+コーネル大学 https://cornellblockchain.org/overview/
+ 形式: 研究室、インターン 期間: 7週間の教育コース、プロジェクト 応募締め切り: 1&amp;frasl;26 UST 23:59  コーネルは、コンピュータ中心の有力大学の1つとして有名であり、コースをブロックする際には検討する価値があります。そのコースは長年にわたってブロックチェーン分野のリーダーであったEmin Gun Sirerによって運営されています。
+Slack: https://cornellblockchain.herokuapp.com/
+プリンストン大学  形式：オンラインコース 期間: 11週間 Computer Science  米国で最も有名な大学の1つであるプリンストンは、Bitcoin and Cryptocurrency Technologiesと名づけられた先駆的なコースを提供しています。オンラインで入手でき、Bitcoinに関連する多くの質問に答えるだけでなく、将来の製品の使用や実装を予知します。
+本の購入・Youtube動画：http://bitcoinbook.cs.princeton.edu/
+オンラインコース: https://www.coursera.org/learn/cryptocurrency
+サイプラス大学　(キプロス) https://www.unic.ac.cy/schools/distance-learning/digital-currency-msc-3-semesters-distance-learning
+ 修士課程(オンラインコース) 期間：1.5年（春・夏・秋からコーススタート）  キプロス全土で最大の大学で、主なコースは理学修士号で、プライマリコースの概要は「デジタル通貨入門」です。このコースはオンラインで入手可能で、オープン登録MOOCコースとして無料で入手できます。
+Apply now
+スタンフォード大学 http://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS255
+ 形式：ウィンター集中講義 期間：2ヶ月 応募；01/08/2018 - 03/16/2018 Mon, Wed 1:30 PM - 2:50 PM Computer Science (Python) 生徒限定  驚いたことに、スタンフォード大学はBitcoin Engineeringとして知られるユニークなコースを提供しています。このコースの主な目的は、独自のBitcoin対応アプリケーションの作成方法を学生に教えることです。これは非常にコンピュータ重のコースであり、コンセプトの素晴らしい紹介です。
+B9ラボアカデミー（英国） https://academy.</description>
+    </item>
+    
+  </channel>
+</rss>
