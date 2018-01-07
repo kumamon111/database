@@ -544,6 +544,31 @@ Current openings :
     </item>
     
     <item>
+      <title></title>
+      <link>http://busi-base.tk/web-coin/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/web-coin/readme/</guid>
+      <description>Get cryptocurrency price from https://poloniex.com and https://www.cryptopia.co.nz using API This is a small project using ECMAScript 6, jQuery and Bootstrap to obtain the value of the cryptocurrency. Video URL YouTube
+A settings file ./dist/config.js
+ ... refresh: { status: true, time: 50000 }, coins: [&amp;quot;ZEC&amp;quot;, &amp;quot;XMG&amp;quot;, &amp;quot;XMR&amp;quot;, &amp;quot;BTC&amp;quot;, &amp;quot;XZC&amp;quot;],  coins - cryptocurrency list
+status - page refresh
+time - period refresh
+Donation
+WebMoney
+ - WMZ Z053784187938 - WMR R414291317252  BTC - 13bteFH6V2s4BqBRVYJLUUKWHK2A2PTJTb</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://busi-base.tk/web-coin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/web-coin/</guid>
+      <description> Cryptocurrency price   Cryptocurrency price   Poloniex              Cryptopia                    </description>
+    </item>
+    
+    <item>
       <title>お問い合わせ</title>
       <link>http://busi-base.tk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

@@ -131,6 +131,14 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/web-coin/readme/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/web-coin/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/apple/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -331,6 +339,11 @@
   <url>
     <loc>http://busi-base.tk/categories/technology/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/web-coin/</loc>
     <priority>0</priority>
   </url>
   
