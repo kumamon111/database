@@ -3,10 +3,7 @@
 require 'TwistOAuth.phar';
 
 
-$consumer_key="ugNDKaKDCDzBLwsYhyfPtPZWj";
-$consumer_secret="WVKHegMKC7sXB5hdVVrUlYgieO2q7IsBAw7dIWOcf1fDwlBbtv";
-$access_token="893506236896886784-C1eqVO9t44C2DFEuR00Yk5Ly93SVSAH";
-$access_token_secret="88FXefqnFERU5TrgEz8h5T1bM5Aqi8ZbMMYxMjD8VOpty";
+
 
 $connection = new TwistOAuth($consumer_key, $consumer_secret, $access_token, $access_token_secret);
 
