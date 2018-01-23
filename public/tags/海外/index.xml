@@ -6,10 +6,19 @@
     <description>Recent content in 海外 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/tags/%E6%B5%B7%E5%A4%96/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Binanceからの価格取得 in Python</title>
+      <link>http://busi-base.tk/technology/binance/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/technology/binance/</guid>
+      <description>python 3.6.0 # ターミナル上でpythonと入力 # 三本の矢印が出たら起動成功。できなかったらpythonインストール。 import requests import json # BinanceからEndpoint取得 (&#39;https://api.binance.com/api&#39;) # 例えば24時間のticker取得（参照:https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md#24hr-ticker-price-change-statistics） # Get api/v1/ticker/24hr url = &amp;quot;https://api.binance.com/api/v1/ticker/24hr&amp;quot; # ETH_BTCの現在価格を取得したい params = {&amp;quot;symbol&amp;quot;:&amp;quot;ETHBTC&amp;quot;} # aは変数（なんでもいい） a = requests.get(url, params=params) a = a.json() a = a[&amp;quot;lastPrice&amp;quot;] # aを表示 print(a) # これコピペしてそのまま貼れば出てきます。 # binance apiはアクセスに気をつけて....  Noteでも公開中! こちらから</description>
+    </item>
     
     <item>
       <title>留学生必見・留学先で母国語が活かせるバイトなど</title>

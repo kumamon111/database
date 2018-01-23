@@ -6,10 +6,19 @@
     <description>Recent content on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Binanceからの価格取得 in Python</title>
+      <link>http://busi-base.tk/technology/binance/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/technology/binance/</guid>
+      <description>python 3.6.0 # ターミナル上でpythonと入力 # 三本の矢印が出たら起動成功。できなかったらpythonインストール。 import requests import json # BinanceからEndpoint取得 (&#39;https://api.binance.com/api&#39;) # 例えば24時間のticker取得（参照:https://github.com/binance-exchange/binance-official-api-docs/blob/master/rest-api.md#24hr-ticker-price-change-statistics） # Get api/v1/ticker/24hr url = &amp;quot;https://api.binance.com/api/v1/ticker/24hr&amp;quot; # ETH_BTCの現在価格を取得したい params = {&amp;quot;symbol&amp;quot;:&amp;quot;ETHBTC&amp;quot;} # aは変数（なんでもいい） a = requests.get(url, params=params) a = a.json() a = a[&amp;quot;lastPrice&amp;quot;] # aを表示 print(a) # これコピペしてそのまま貼れば出てきます。 # binance apiはアクセスに気をつけて....  Noteでも公開中! こちらから</description>
+    </item>
     
     <item>
       <title>ブロックチェーン・仮想通貨コースを提供する大学まとめ</title>
@@ -469,16 +478,6 @@ linkedinからコンタクトしてみよう (https://www.linkedin.com) linkedi
     </item>
     
     <item>
-      <title>Iphone X 喋る犬!？</title>
-      <link>http://busi-base.tk/technology/iphonex/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/technology/iphonex/</guid>
-      <description> Iphone X フィッシャーズが熱い   他の映像 Don&amp;#39;t buy iPhone X. pic.twitter.com/bUkAR1tX1I
-&amp;mdash; Quinn Nelson (@SnazzyQ) November 5, 2017  </description>
-    </item>
-    
-    <item>
       <title>世界高級自動車会社のインターン</title>
       <link>http://busi-base.tk/intern/bmw/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
@@ -544,28 +543,30 @@ Current openings :
     </item>
     
     <item>
-      <title></title>
-      <link>http://busi-base.tk/web-coin/readme/</link>
+      <title>BINANCEGOX情報</title>
+      <link>http://busi-base.tk/gox/binance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/web-coin/readme/</guid>
-      <description>Get cryptocurrency price from https://poloniex.com and https://www.cryptopia.co.nz using API This is a small project using ECMAScript 6, jQuery and Bootstrap to obtain the value of the cryptocurrency. Video URL YouTube
-A settings file ./dist/config.js
- ... refresh: { status: true, time: 50000 }, coins: [&amp;quot;ZEC&amp;quot;, &amp;quot;XMG&amp;quot;, &amp;quot;XMR&amp;quot;, &amp;quot;BTC&amp;quot;, &amp;quot;XZC&amp;quot;],  coins - cryptocurrency list
-status - page refresh
-time - period refresh
-Donation
-WebMoney
- - WMZ Z053784187938 - WMR R414291317252  BTC - 13bteFH6V2s4BqBRVYJLUUKWHK2A2PTJTb</description>
+      <guid>http://busi-base.tk/gox/binance/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>http://busi-base.tk/web-coin/</link>
+      <title>CRYPTOPIAGOX情報</title>
+      <link>http://busi-base.tk/gox/cryptopia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/web-coin/</guid>
-      <description> Cryptocurrency price   Cryptocurrency price   Poloniex              Cryptopia                    </description>
+      <guid>http://busi-base.tk/gox/cryptopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YOBITGOX情報</title>
+      <link>http://busi-base.tk/gox/yobit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/gox/yobit/</guid>
+      <description></description>
     </item>
     
     <item>

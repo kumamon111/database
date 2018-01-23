@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://busi-base.tk/technology/binance/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/chainschool/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
   </url>
@@ -103,11 +108,6 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/technology/iphonex/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/intern/bmw/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -131,17 +131,18 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/web-coin/readme/</loc>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/web-coin/</loc>
-  </url>
-  
-  <url>
     <loc>http://busi-base.tk/tags/apple/</loc>
     <lastmod>2017-08-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/binance/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/gox/binance/</loc>
   </url>
   
   <url>
@@ -152,8 +153,12 @@
   
   <url>
     <loc>http://busi-base.tk/</loc>
-    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/gox/cryptopia/</loc>
   </url>
   
   <url>
@@ -179,6 +184,11 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/cryptopia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/doge/</loc>
     <lastmod>2017-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -198,6 +208,16 @@
   <url>
     <loc>http://busi-base.tk/tags/finance/</loc>
     <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/gox/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/gox/</loc>
     <priority>0</priority>
   </url>
   
@@ -279,7 +299,7 @@
   
   <url>
     <loc>http://busi-base.tk/categories/money/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -326,7 +346,7 @@
   
   <url>
     <loc>http://busi-base.tk/technology/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -343,14 +363,18 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/web-coin/</loc>
+    <loc>http://busi-base.tk/tags/xem/</loc>
+    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://busi-base.tk/tags/xem/</loc>
-    <lastmod>2017-12-24T00:00:00+00:00</lastmod>
+    <loc>http://busi-base.tk/tags/yobit/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/gox/yobit/</loc>
   </url>
   
   <url>
@@ -376,7 +400,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -551,7 +575,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E5%9B%BD%E5%86%85/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -639,7 +663,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E6%B5%B7%E5%A4%96/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -651,7 +675,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E7%95%99%E5%AD%A6%E7%94%9F/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -692,7 +716,7 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E9%AB%98%E6%99%82%E7%B5%A6/</loc>
-    <lastmod>2017-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

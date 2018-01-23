@@ -46,5 +46,32 @@ Register cryptopia
 送金 送金にはXEMを使いましょう。</description>
     </item>
     
+    <item>
+      <title>BINANCEGOX情報</title>
+      <link>http://busi-base.tk/gox/binance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/gox/binance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRYPTOPIAGOX情報</title>
+      <link>http://busi-base.tk/gox/cryptopia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/gox/cryptopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YOBITGOX情報</title>
+      <link>http://busi-base.tk/gox/yobit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/gox/yobit/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
