@@ -106,7 +106,7 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
 
 [[menu.main]]
   name = "出川English"
-  url = "/degawaEn/"
+  url = "/degawaen/"
   identifier = "fa fa-list"
   weight = 2
 
