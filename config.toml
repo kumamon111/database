@@ -96,37 +96,38 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   name = "Blog"
   url = "/post/"
   identifier = "fa fa-newspaper-o"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Services"
   url = "/service/"
   identifier = "fa fa-list"
-  weight = 6
-
-[[menu.main]]
-  name = "DEGAWA"
-  url = "/degawaen/"
-  identifier = "fa fa-list"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Programming"
   url = "/technology/"
   identifier = "fa fa-sitemap"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
-  weight = 7
+  weight = 5
 
 [[menu.main]]
-  name = "gox"
+  name = "Degawa"
+  url = "/degawa/"
+  identifier = ""
+  weight = 6
+
+[[menu.main]]
+  name = "Gox"
   url = "/gox/"
   identifier = ""
-  weight = 3
+  weight = 7
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
