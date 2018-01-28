@@ -195,7 +195,17 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/degawaen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/english/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/english/</loc>
     <priority>0</priority>
   </url>
   
@@ -316,6 +326,14 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/degawaen/ny201702-3/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/degawaen/ny201702-2/</loc>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/post/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -401,6 +419,11 @@
   <url>
     <loc>http://busi-base.tk/tags/%E3%82%A2%E3%83%AB%E3%83%90%E3%82%A4%E3%83%88/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%82%A4%E3%83%83%E3%83%86q/</loc>
     <priority>0</priority>
   </url>
   
@@ -566,6 +589,16 @@
   
   <url>
     <loc>http://busi-base.tk/service/service/</loc>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E5%87%BA%E5%B7%9D/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/%E5%87%BA%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

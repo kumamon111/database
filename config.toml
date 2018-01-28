@@ -102,7 +102,13 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   name = "Services"
   url = "/service/"
   identifier = "fa fa-list"
-  weight = 4
+  weight = 6
+
+[[menu.main]]
+  name = "出川English"
+  url = "/degawaEn/"
+  identifier = "fa fa-list"
+  weight = 2
 
 [[menu.main]]
   name = "Programming"
@@ -114,13 +120,13 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   name = "Contact"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "gox"
   url = "/gox/"
   identifier = ""
-  weight = 2
+  weight = 3
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
