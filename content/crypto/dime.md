@@ -98,16 +98,22 @@ addnode=115.28.11.226
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="dimecoin" data-base="JPY" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="JPY" data-statsticker="true"></div>
 
-### 取引所
+
 
 <a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
 
-### twitter 
+</br>
 
-<a class="twitter-timeline" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 情報ソース
+<div align = "center">
+    <a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Dimecoin_?ref_src=twsrc%5Etfw">Tweets by Dimecoin_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
 
-Twitter: https://twitter.com/dimecoin_org
-Facebook: https://www.facebook.com/pages/Dimecoin-DIME/346029662204654
-Email: dimecoin.org@gmail.com
+</br>
+
+
+
+<div align="left">
+
+<a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
+

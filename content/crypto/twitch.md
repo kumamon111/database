@@ -54,15 +54,16 @@ Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミ
 
 準備中
 
-### 取引所
 
  <a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
 
-### twitter 
+</br> 
 
-<a class="twitter-timeline" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center">
+<a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div>
 
+<div align = "left">
 
-### 情報ソース
+<a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
 
-更新中

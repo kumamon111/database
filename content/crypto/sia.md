@@ -3,7 +3,7 @@ title: Siaコインとは？概要から取引所まで徹底解析
 date: 2018-02-05
 categories: [ "仮想通貨" ]
 tags: [ "仮想通貨", "草コイン", "cryptocurrency" ]
-description: 話題の草コインtwitchコインとは？概要から取引所まで徹底解析。
+description: 話題の草コインSiaコインとは？概要から取引所まで徹底解析。
 ---
 
 
@@ -29,19 +29,25 @@ Siaクラウドストレージスペースに課金される料金は非常に�
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="siacoin" data-base="JPY" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="JPY" data-statsticker="false"></div>
 
-### 取引所
 
-Bittrex, Upbit, Poloniex, Bittrex, HitBTC	
 
 <a href="https://goo.gl/KcwRgZ" class="button big">Register HitBTC</a>
 
-### twitter 
 
-<a class="twitter-timeline" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</br>
+</br>
+
+<div align="center">
+    <a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 
-### 情報ソース
+<div align="left">
 
-Discord: https://discordapp.com/invite/sia
-Forum: https://forum.sia.tech/
+
+<a href="https://goo.gl/KcwRgZ" class="button big">Register HitBTC</a>
+
+
+
+
 
