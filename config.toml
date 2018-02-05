@@ -92,41 +92,42 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   identifier = "fa fa-home"
   weight = 1
 
-[[menu.main]]
-  name = "Blog"
-  url = "/post/"
-  identifier = "fa fa-newspaper-o"
-  weight = 2
 
 [[menu.main]]
-  name = "Services"
-  url = "/service/"
+  name = "database"
+  url = "/database/"
   identifier = "fa fa-list"
   weight = 3
 
 [[menu.main]]
-  name = "Programming"
-  url = "/technology/"
+  name = "programming"
+  url = "/programming/"
   identifier = "fa fa-sitemap"
-  weight = 4
-
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fa fa-envelope-o"
   weight = 5
 
 [[menu.main]]
-  name = "Degawa"
+  name = "contact"
+  url = "/contact/"
+  identifier = "fa fa-envelope-o"
+  weight = 7
+
+[[menu.main]]
+  name = "degawa"
   url = "/degawa/"
   identifier = ""
   weight = 6
 
 [[menu.main]]
-  name = "Gox"
-  url = "/gox/"
+  name = "job"
+  url = "/job/"
   identifier = ""
-  weight = 7
+  weight = 2
+
+[[menu.main]]
+  name = "coin"
+  url = "/crypto/"
+  identifier = ""
+  weight = 4
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your

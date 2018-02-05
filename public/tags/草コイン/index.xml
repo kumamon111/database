@@ -6,44 +6,64 @@
     <description>Recent content in 草コイン on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 24 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/tags/%E8%8D%89%E3%82%B3%E3%82%A4%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>1日で1万円が300万に!?嘘のようで本当にあった1万円だけ使う草コイン投資</title>
-      <link>http://busi-base.tk/post/cryptopia/</link>
-      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Dimeコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/dime/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/cryptopia/</guid>
-      <description>草コインを買おう みなさん草コインって知ってますか？
-なんのことやら今話題の仮想通貨の中でも、まだ価値の認められていない1円以下(私の定義)のコインのことです。
-草コインを購入
-なぜ草コインなのか 仮想通貨といえば現在人気沸騰中、最も投資効果の高い商品となっていますが、実はすでに話題に上がっているコインは全て入るには遅すぎます。
- 相場が安定していること(比較的) アーリーアダプターに左右される  投資において相場を支配することは最も重要とされ、これには
- 莫大な資金力 先行投資  のいずれかが必要です。莫大な資金があれば、どこで入ろうが大量のコインを買えますし、先行投資をすれば安いうちに購入できるため、たとえ資金力がなくても大量の購入ができます。 要するに儲けるには大量のコインが必要ということです。
-資金力が他の投資家と比べて少ない大学生に関しては、先行投資が残された道でしょう。コインが注目を浴びる前に買うことで、安くかつ大量に購入できるのです。 では、どのくらい儲かるのでしょうか。
-前例 KAYIコインという先日前日比の＋1500%を記録したコインです。
-この日0.003円でスタートしたこのコインですが一時1円まで値上がりしています。たとえばこの前日に¥10000でこのコインを購入したとすると、 10000/0.003なので3,333,333コインが取得されます。翌日、1円まで値上がりしていますのでここで売れれば約300万の利益になります。
-おすすめ草コイン 現在、オススメの草コインですが、この辺でしょうか。
-$LINDA
-$DOGE
-$MINT
-$BCN
-$KIN
-$DENTA
-*twitterにて随時更新中です。
-Follow twitter
-注意点 ポイントは2つだけです。
- 上がったら売ること 買う前に上がったら買わないこと  長期的に保有しても基本的には問題はないと思われますが、一回の上げで莫大な利益を得られるので決済した方が良いといえます。 また、これを狙う投資家も多いので、一回上がったらそこからは基本的に売られるのがほとんどです。コインは星の数あるので、次を探しましょう。
-取引所 Cryptopia
-基本的にこの取引所で買えるコインを紹介しています。登録はメールの設定のみで、簡単に登録ができます。
-Register cryptopia
-リンク先登録方法 *英語が苦手な人向けに…
- Password Uppercase Lowercase Number !@#$%^&amp;amp; 8 characters  パスワードです。大文字と小文字、数字、上の記号を組み合わせて8文字以上のパスワードを設定。
- Please choose a 4-8 digit PinCode  パスワードの他にPinコードを設定します。二段階認証に必要です。
-送金 送金にはXEMを使いましょう。</description>
+      <guid>http://busi-base.tk/crypto/dime/</guid>
+      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
+技術詳細 Specifications:
+ Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
+Block 1 = 1024
+Block 2 = 2048
+Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
+Block 1025 = 1024</description>
+    </item>
+    
+    <item>
+      <title>Siaコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/sia/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/crypto/sia/</guid>
+      <description>概要 HP: https://sia.tech/get-siacoin/
+Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
+Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
+初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
+Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
+Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
+プライスチャート  ### 取引所 Bittrex, Upbit, Poloniex, Bittrex, HitBTC Register HitBTC ### twitter Tweets by Twitch  情報ソース Discord: https://discordapp.com/invite/sia Forum: https://forum.sia.tech/</description>
+    </item>
+    
+    <item>
+      <title>twitchコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/twitch/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/crypto/twitch/</guid>
+      <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
+Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
+2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
+技術的詳細 Algorithm: Scrypt
+Type: PoW
+Coin name: Twitch
+Coin abbreviation: TWC
+Address: letter T
+RPC port: 25692
+P2P port: 25691
+Block reward: 45 coins
+Total coin supply: 21,000,000 coins
+Premine percent: 10%
+Premine amount: 2,100,000 coins
+Coinbase maturity: 10 blocks
+Target spacing: 10 minutes
+Target time span: 20160 minutes</description>
     </item>
     
   </channel>

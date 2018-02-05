@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crypto on Busi-base</title>
+    <link>http://busi-base.tk/crypto/</link>
+    <description>Recent content in Crypto on Busi-base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://busi-base.tk/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dimeコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/dime/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/crypto/dime/</guid>
+      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
+技術詳細 Specifications:
+ Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
+Block 1 = 1024
+Block 2 = 2048
+Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
+Block 1025 = 1024</description>
+    </item>
+    
+    <item>
+      <title>Siaコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/sia/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/crypto/sia/</guid>
+      <description>概要 HP: https://sia.tech/get-siacoin/
+Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
+Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
+初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
+Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
+Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
+プライスチャート  ### 取引所 Bittrex, Upbit, Poloniex, Bittrex, HitBTC Register HitBTC ### twitter Tweets by Twitch  情報ソース Discord: https://discordapp.com/invite/sia Forum: https://forum.sia.tech/</description>
+    </item>
+    
+    <item>
+      <title>twitchコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/twitch/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/crypto/twitch/</guid>
+      <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
+Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
+2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
+技術的詳細 Algorithm: Scrypt
+Type: PoW
+Coin name: Twitch
+Coin abbreviation: TWC
+Address: letter T
+RPC port: 25692
+P2P port: 25691
+Block reward: 45 coins
+Total coin supply: 21,000,000 coins
+Premine percent: 10%
+Premine amount: 2,100,000 coins
+Coinbase maturity: 10 blocks
+Target spacing: 10 minutes
+Target time span: 20160 minutes</description>
+    </item>
+    
+  </channel>
+</rss>

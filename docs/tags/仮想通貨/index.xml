@@ -6,156 +6,64 @@
     <description>Recent content in 仮想通貨 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://busi-base.tk/tags/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ブロックチェーン・仮想通貨コースを提供する大学まとめ</title>
-      <link>http://busi-base.tk/post/chainschool/</link>
-      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Dimeコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/dime/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/chainschool/</guid>
-      <description>ブロックチェーンは、世界で最も急速に拡大している技術の1つです。
-そんな中未来を見据え、すでにブロックチェーンに特化したコースを設定する学校があります。
-今後この技術の需要が高まるにつれ、教育の機会を求める学生の需要もどんどん高まることでしょう。
-ブロックチェーンのコースを提供する10の大学を紹介します！
-コーネル大学 https://cornellblockchain.org/overview/
- 形式: 研究室、インターン 期間: 7週間の教育コース、プロジェクト 応募締め切り: 1&amp;frasl;26 UST 23:59  コーネルは、コンピュータ中心の有力大学の1つとして有名であり、コースをブロックする際には検討する価値があります。そのコースは長年にわたってブロックチェーン分野のリーダーであったEmin Gun Sirerによって運営されています。
-Slack: https://cornellblockchain.herokuapp.com/
-プリンストン大学  形式：オンラインコース 期間: 11週間 Computer Science  米国で最も有名な大学の1つであるプリンストンは、Bitcoin and Cryptocurrency Technologiesと名づけられた先駆的なコースを提供しています。オンラインで入手でき、Bitcoinに関連する多くの質問に答えるだけでなく、将来の製品の使用や実装を予知します。
-本の購入・Youtube動画：http://bitcoinbook.cs.princeton.edu/
-オンラインコース: https://www.coursera.org/learn/cryptocurrency
-サイプラス大学　(キプロス) https://www.unic.ac.cy/schools/distance-learning/digital-currency-msc-3-semesters-distance-learning
- 修士課程(オンラインコース) 期間：1.5年（春・夏・秋からコーススタート）  キプロス全土で最大の大学で、主なコースは理学修士号で、プライマリコースの概要は「デジタル通貨入門」です。このコースはオンラインで入手可能で、オープン登録MOOCコースとして無料で入手できます。
-Apply now
-スタンフォード大学 http://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;page=0&amp;q=CS255
- 形式：ウィンター集中講義 期間：2ヶ月 応募；01/08/2018 - 03/16/2018 Mon, Wed 1:30 PM - 2:50 PM Computer Science (Python) 生徒限定  驚いたことに、スタンフォード大学はBitcoin Engineeringとして知られるユニークなコースを提供しています。このコースの主な目的は、独自のBitcoin対応アプリケーションの作成方法を学生に教えることです。これは非常にコンピュータ重のコースであり、コンセプトの素晴らしい紹介です。
-B9ラボアカデミー（英国） https://academy.</description>
+      <guid>http://busi-base.tk/crypto/dime/</guid>
+      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
+技術詳細 Specifications:
+ Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
+Block 1 = 1024
+Block 2 = 2048
+Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
+Block 1025 = 1024</description>
     </item>
     
     <item>
-      <title>1日で1万円が300万に!?嘘のようで本当にあった1万円だけ使う草コイン投資</title>
-      <link>http://busi-base.tk/post/cryptopia/</link>
-      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Siaコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/sia/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/cryptopia/</guid>
-      <description>草コインを買おう みなさん草コインって知ってますか？
-なんのことやら今話題の仮想通貨の中でも、まだ価値の認められていない1円以下(私の定義)のコインのことです。
-草コインを購入
-なぜ草コインなのか 仮想通貨といえば現在人気沸騰中、最も投資効果の高い商品となっていますが、実はすでに話題に上がっているコインは全て入るには遅すぎます。
- 相場が安定していること(比較的) アーリーアダプターに左右される  投資において相場を支配することは最も重要とされ、これには
- 莫大な資金力 先行投資  のいずれかが必要です。莫大な資金があれば、どこで入ろうが大量のコインを買えますし、先行投資をすれば安いうちに購入できるため、たとえ資金力がなくても大量の購入ができます。 要するに儲けるには大量のコインが必要ということです。
-資金力が他の投資家と比べて少ない大学生に関しては、先行投資が残された道でしょう。コインが注目を浴びる前に買うことで、安くかつ大量に購入できるのです。 では、どのくらい儲かるのでしょうか。
-前例 KAYIコインという先日前日比の＋1500%を記録したコインです。
-この日0.003円でスタートしたこのコインですが一時1円まで値上がりしています。たとえばこの前日に¥10000でこのコインを購入したとすると、 10000/0.003なので3,333,333コインが取得されます。翌日、1円まで値上がりしていますのでここで売れれば約300万の利益になります。
-おすすめ草コイン 現在、オススメの草コインですが、この辺でしょうか。
-$LINDA
-$DOGE
-$MINT
-$BCN
-$KIN
-$DENTA
-*twitterにて随時更新中です。
-Follow twitter
-注意点 ポイントは2つだけです。
- 上がったら売ること 買う前に上がったら買わないこと  長期的に保有しても基本的には問題はないと思われますが、一回の上げで莫大な利益を得られるので決済した方が良いといえます。 また、これを狙う投資家も多いので、一回上がったらそこからは基本的に売られるのがほとんどです。コインは星の数あるので、次を探しましょう。
-取引所 Cryptopia
-基本的にこの取引所で買えるコインを紹介しています。登録はメールの設定のみで、簡単に登録ができます。
-Register cryptopia
-リンク先登録方法 *英語が苦手な人向けに…
- Password Uppercase Lowercase Number !@#$%^&amp;amp; 8 characters  パスワードです。大文字と小文字、数字、上の記号を組み合わせて8文字以上のパスワードを設定。
- Please choose a 4-8 digit PinCode  パスワードの他にPinコードを設定します。二段階認証に必要です。
-送金 送金にはXEMを使いましょう。</description>
+      <guid>http://busi-base.tk/crypto/sia/</guid>
+      <description>概要 HP: https://sia.tech/get-siacoin/
+Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
+Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
+初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
+Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
+Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
+プライスチャート  ### 取引所 Bittrex, Upbit, Poloniex, Bittrex, HitBTC Register HitBTC ### twitter Tweets by Twitch  情報ソース Discord: https://discordapp.com/invite/sia Forum: https://forum.sia.tech/</description>
     </item>
     
     <item>
-      <title>ビットコインがついに200万円！大学生が仮想通貨を買うべき3つの理由。</title>
-      <link>http://busi-base.tk/post/crypto/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <title>twitchコインとは？概要から取引所まで徹底解析</title>
+      <link>http://busi-base.tk/crypto/twitch/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/post/crypto/</guid>
-      <description>仮想通貨って？ 今話題の仮想通貨ですが、一体何のことで何のメリットがあり、どうして買ったほうがいいのか解説していきます。
- 仮想通貨とは、インターネットを通じて不特定多数の間で物品やサービスの対価に使用でき、中央銀行などの公的な発行主体や管理者が存在せず専門の取引所を介して円やドル・ユーロ・人民元などの通貨と交換できます。仮想通貨の種類は600種類以上あるといわれています。
-資金決済に関する法律　第二条　５による定義：
-この法律において「仮想通貨」とは、次に掲げるものをいう。
-一　物品を購入し、若しくは借り受け、又は役務の提供を受ける場合に、これらの代価の弁済のために不特定の者に対して使用することができ、かつ、不特定の者を相手方として購入及び売却を行うことができる財産的価値（電子機器その他の物に電子的方法により記録されているものに限り、本邦通貨及び外国通貨並びに通貨建資産を除く。次号において同じ。）であって、電子情報処理組織を用いて移転することができるもの
-二　不特定の者を相手方として前号に掲げるものと相互に交換を行うことができる財産的価値であって、電子情報処理組織を用いて移転することができるもの
- 出典：bitflier公式サイト
-
-
-何がいいの 現在何よりもリターンのある投資商品です。
-Bitcoin 100万円→200万円 PEPECASH 4→28円
-Monacoin 30円（10月）→2000円（12月） さらに上昇のスパンが早いです。
-だから、今すぐにでもお金を増やしたい、短期的な目線で物を見る方にはうってつけでしょう。
-
-これから上がるのは？ 仮想通貨のいいところは、安いうちに投資すると通常では得られないような利益が短期間で得られることです。
-上記で見たように1ヶ月で100%の利益など普通では考えられない数字が出ていますが、これは先を見通すことの重要性を示しています。
-では次に来る一攫千金コインを考えて見ましょう。
-Zaif 1円  取引所zaifのコインで、上場の際には重要なコインになるとの噂もあります。国内取引所で買えるコインではもっと安いので取り上げて見ました。
- Xem 28円  将来性を考えるとまだまだです。全国各地でXEMに関するプロモーションが行われており、今後知名度はどんどん広がっていくでしょう。
- ETH 50000円  長期的に見るとこの通貨は以上な伸びを見せるでしょう。この通貨には特徴的な機能があり、それが企業の契約などに使われます。すでに多くの企業との契約が行われており、今後伸びていくと言えるでしょう。5〜10年後持っている時には億万長者かもしれません。bitcoinはすでに200万を超えてきたためエントリーしにくいですが、ETHはまだまだお得な値段です。
- *上記のコインが全て買える取引所をチェック
-Check cryptocurrency
-
-発行上限数をチェック 仮想通貨には供給量が決められているものがいくつかあります。
-その通貨たちはある一定まで供給が行われると、半減期というものを迎えそこから供給量がガクッと減ります。
-欲しい人からすれば希少価値が高まり、値段が跳ね上がるというわけです。
-実際の例を見て見ましょう。
-Monacoin 30円（10月）→2000円（12月） モナコインは半減期を過ぎてから価値が爆発的に高騰しました。
-昨年初旬3円だった時から比べて、600倍以上になっています。
-
-供給上限がある通貨とその供給量    通貨 省略名 供給率 供給量 供給上限 推定残数     IOTA MIOTA 100.</description>
-    </item>
-    
-    <item>
-      <title>BINANCEGOX情報</title>
-      <link>http://busi-base.tk/gox/binance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/gox/binance/</guid>
-      <description>GOXされた方は、下の掲示板に書き込みをお願いいたします。
-＊以下はTwitterからの自動取得です。全てのツイートがGOXに関するものではないことをご理解ください。
- 2018/01/22 15:13
-@ElixiumCrypto Looks like #Poloniex could be the next Gox as I&amp;#039;m checking out the #Crypto zeitgeist rn. Some quality alternatives… https://t.co/C8nRDxcrqG   2018/01/22 09:58
-@yossy_cms310 え、今度こそMEWでETHゼロもらえるんですか？ この間Binanceから送ろうとして送れてなかった、、、 GOXしたわけじゃないからよかったけどどうしてだろう。 よく調べてから再チャレンジ(｡･ω･｡) #ETZ   2018/01/21 14:32
-@ElixiumCrypto Looks like #Poloniex could be the next Gox as I&amp;#039;m checking out the #Crypto zeitgeist rn. Some quality alternatives… https://t.co/hBbgyskhpH   2018/01/21 09:48
-@pug_crypto 少額だけどBinance -&amp;gt; OKExにXRPを送ったら、全然反映されないぞ。まさかGOX???   2018/01/21 05:12</description>
-    </item>
-    
-    <item>
-      <title>CRYPTOPIAGOX情報</title>
-      <link>http://busi-base.tk/gox/cryptopia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/gox/cryptopia/</guid>
-      <description>GOXされた方は、下の掲示板に書き込みをお願いいたします。 ＊以下はTwitterからの自動取得です。全てのツイートがGOXに関するものではないことをご理解ください。
- 2018/01/23 07:47
-@takasagooda Cryptopiaからzaifにxem送金してから約9時間経過 GOXしちゃったかな   2018/01/22 23:42
-@xememi CoinexchangeからCryptopiaに送った24万dogeがGOXされた疑惑 Coinexchange側のtxidが生成されない アドレスもあってるしメールも認証済み   2018/01/22 16:19
-@ReliefCare1 RT @ElixiumCrypto: Looks like #Poloniex could be the next GOX as I&amp;#039;m checking out the #Crypto zeitgeist rn. Some quality alternatives http…   2018/01/22 15:57
-@altcointrader0 RT @ElixiumCrypto: Looks like #Poloniex could be the next GOX as I&amp;#039;m checking out the #Crypto zeitgeist rn. Some quality alternatives http…   2018/01/22 15:13</description>
-    </item>
-    
-    <item>
-      <title>YOBITGOX情報</title>
-      <link>http://busi-base.tk/gox/yobit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://busi-base.tk/gox/yobit/</guid>
-      <description>GOXされた方は、下の掲示板に書き込みをお願いいたします。 ＊以下はTwitterからの自動取得です。全てのツイートがGOXに関するものではないことをご理解ください。
- 2018/01/23 08:39
-@Cure_000 @nanachanhappy Yobitへのログインはこちらではできました、gox怖いので早く引き出したいです。   2018/01/23 04:55
-@22mezame Yobit withdraw処理されない、、、、GOX準備中！！？   2018/01/23 01:13
-@Shohei192 そもそもハードフォーク狙いでYobit預けるの危険です。いつかGOXします... https://t.co/xQWnEpEKzN   2018/01/22 16:17
-@lion_maru8 YobitでGOXしたわ〜wwって、自虐している人は、なんだかんだサポートがなんとかしてくれると信じている。 信じるな。諦めろ。まじでGOXしてるんだそれは。   2018/01/22 12:26
-@kazu_fujisawa この前、イーサリアムからフォークした草コインのイーサリアムゼロが、本家のイーサリアムの15％ぐらいの価値になっててワロタ。一時30％超え。草コイン取引所はいつGOXしてもおかしくないが……。… https://t.co/X3un5ssS9e   2018/01/22 11:51
-@bitjohny_ YobitでGOX濃厚、つらぁ。。   2018/01/21 14:03
-@k_kirinosuke 暗号通貨、全然反発しないしイーサゼロとか詐欺っぽいしYobitあたりがGOXするとか$TRXがBitConnectみたいなことになるとかでさらに下を目指す展開もあり得る気がしているのだけどリアル通貨もどっかの国がGOXしたら暗号通貨にまた資金集中しそうで判断が難しすぎる   2018/01/21 13:52
-@sizyuya57 cryptopiaはPAC取引量過多でパンクしてメンテonメンテだしYobitは元から管理杜撰だし、やはりaltcoin.ioのように取引所を介さない分散型の取引所が今後は主流になってくんじゃないかなあ。利用する側としては資産がG… https://t.co/ziiUuISep9   2018/01/20 14:19
-@BYbyKIN_G Yobit 勝手に売るし、勝手に買うし、売り注文キャンセルしてるのに画面に残り続けるし、制御不能である意味GOXしてるwwww   2018/01/20 13:23
-@kenjitunet ETHけっこう持ってたけど、イーサリアムゼロのハードフォークもらうの忘れた。 0.1ETHまで価値がついたならYobitのGOXリスクを負ってでもチャレンジするべきだったかな #イーサリアム $ETH   2018/01/20 09:18</description>
+      <guid>http://busi-base.tk/crypto/twitch/</guid>
+      <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
+Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
+2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
+技術的詳細 Algorithm: Scrypt
+Type: PoW
+Coin name: Twitch
+Coin abbreviation: TWC
+Address: letter T
+RPC port: 25692
+P2P port: 25691
+Block reward: 45 coins
+Total coin supply: 21,000,000 coins
+Premine percent: 10%
+Premine amount: 2,100,000 coins
+Coinbase maturity: 10 blocks
+Target spacing: 10 minutes
+Target time span: 20160 minutes</description>
     </item>
     
   </channel>
