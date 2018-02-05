@@ -59,11 +59,10 @@ Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミ
 
 </br> 
 
-<div align="center">
 <a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div>
 
-<div align = "left">
+
+
 
 <a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
 

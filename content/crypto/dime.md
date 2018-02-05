@@ -105,15 +105,11 @@ addnode=115.28.11.226
 </br>
 
 
-<div align = "center">
-    <a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Dimecoin_?ref_src=twsrc%5Etfw">Tweets by Dimecoin_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<div>
+<a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Dimecoin_?ref_src=twsrc%5Etfw">Tweets by Dimecoin_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 </br>
 
-
-
-<div align="left">
 
 <a href="https://goo.gl/vGGnnF" class="button big">Register livecoin</a>
 

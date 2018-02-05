@@ -35,14 +35,10 @@ Siaクラウドストレージスペースに課金される料金は非常に�
 
 
 </br>
-</br>
 
-<div align="center">
-    <a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<a class="twitter-timeline" data-width="50%" data-height="315" href="https://twitter.com/Twitch?ref_src=twsrc%5Etfw">Tweets by Twitch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<div align="left">
 
 
 <a href="https://goo.gl/KcwRgZ" class="button big">Register HitBTC</a>
