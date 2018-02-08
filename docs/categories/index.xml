@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Career</title>
+      <link>http://busi-base.tk/categories/career/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intern</title>
       <link>http://busi-base.tk/categories/intern/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
@@ -25,6 +34,24 @@
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://busi-base.tk/categories/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job hunting</title>
+      <link>http://busi-base.tk/categories/job-hunting/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/categories/job-hunting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study</title>
+      <link>http://busi-base.tk/categories/study/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/categories/study/</guid>
       <description></description>
     </item>
     
