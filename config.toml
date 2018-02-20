@@ -1,7 +1,7 @@
 baseurl = "http://busi-base.tk/"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 10
 disqusShortname = "busibase"
 googleAnalytics = "UA-107250739-1"
 pluralizeListTitles = false
@@ -68,7 +68,15 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
 
   paragraph = "大学生のためのキャリア情報サイト"
 
-  about     = "意識高い系のための意識高い系による意識高い情報サイト。今日も意識高く効率的に生きていこう。"
+  about     = """
+  意識高い系のための意識高い系による意識高い情報サイト。今日も意識高く効率的に生きていこう。
+  <p>他サイト</p>
+  <a href="http://busi-scraping.tk">http://busi-scraping.tk</a>
+  <p>リスト作成サービス</p><a href="http://busi-job.tk">http://busi-job.tk</a><p>ハイクラスポジションデータベース</p>
+  <a href="https://line.me/R/ti/p/%40rno5728s"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a></br>
+  
+  
+  """
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
@@ -111,15 +119,11 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   identifier = "fa fa-envelope-o"
   weight = 7
 
-[[menu.main]]
-  name = "degawa"
-  url = "/degawa/"
-  identifier = ""
-  weight = 6
+
 
 [[menu.main]]
   name = "job"
-  url = "/job/"
+  url = "https://busi-job.tk"
   identifier = ""
   weight = 2
 
