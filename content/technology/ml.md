@@ -6,10 +6,12 @@ tags: [ "マシンラーニング", "ディープラーニング", "AI" ]
 description: 就活において知っておくべき知識を徹底解析。知っているようで知らないディープラーニングとマシンラーニングの違いを解説。
 ---
 
-
+</br>
 最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
 
 Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences. 
+
+</br>
 
 ### Machine learning と Deep learning の違い
 
@@ -20,6 +22,8 @@ Machine learning has the classification dataset which makes a computer learn wha
 <img src="https://cdn-images-1.medium.com/max/800/1*ZX05x1xYgaVoa4Vn2kKS9g.png" alt="reference_img">
 
 参照:<a href="https://medium.com/swlh/ill-tell-you-why-deep-learning-is-so-popular-and-in-demand-5aca72628780"> A medium corporation</img></a>
+
+</br>
 
 ### Use case
 
@@ -37,6 +41,7 @@ Netflixなど、趣味・嗜好をカスタマーに合わせて表示する。
 
 Showing each customer each content that is personalized.
 
+</br>
 
 #### Deep learning
 
@@ -52,6 +57,7 @@ applying deep learning to the detection and react to them appropriately.
 
 developing medicines genetically tailored to an individual’s genome.
 
+</br>
 
 ### 学習サイト
 

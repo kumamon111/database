@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Busi-base</title>
-    <link>http://busi-base.tk/categories/</link>
+    <link>https://busi-base.tk/categories/</link>
     <description>Recent content in Categories on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
-	<atom:link href="http://busi-base.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://busi-base.tk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Career</title>
-      <link>http://busi-base.tk/categories/career/</link>
+      <link>https://busi-base.tk/categories/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/career/</guid>
+      <guid>https://busi-base.tk/categories/career/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intern</title>
-      <link>http://busi-base.tk/categories/intern/</link>
+      <link>https://busi-base.tk/categories/intern/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/intern/</guid>
+      <guid>https://busi-base.tk/categories/intern/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Job</title>
-      <link>http://busi-base.tk/categories/job/</link>
+      <link>https://busi-base.tk/categories/job/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/job/</guid>
+      <guid>https://busi-base.tk/categories/job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Job hunting</title>
-      <link>http://busi-base.tk/categories/job-hunting/</link>
+      <link>https://busi-base.tk/categories/job-hunting/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/job-hunting/</guid>
+      <guid>https://busi-base.tk/categories/job-hunting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study</title>
-      <link>http://busi-base.tk/categories/study/</link>
+      <link>https://busi-base.tk/categories/study/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/study/</guid>
+      <guid>https://busi-base.tk/categories/study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>テクノロジー</title>
-      <link>http://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
+      <link>https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</guid>
+      <guid>https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</guid>
       <description></description>
     </item>
     
     <item>
       <title>プログラミング</title>
-      <link>http://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
+      <link>https://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
+      <guid>https://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>リスト</title>
-      <link>http://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</link>
+      <link>https://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</guid>
+      <guid>https://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>仮想通貨</title>
-      <link>http://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
+      <link>https://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</guid>
+      <guid>https://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>出川イングリッシュ</title>
-      <link>http://busi-base.tk/categories/%E5%87%BA%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/</link>
+      <link>https://busi-base.tk/categories/%E5%87%BA%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/categories/%E5%87%BA%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/</guid>
+      <guid>https://busi-base.tk/categories/%E5%87%BA%E5%B7%9D%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = "http://busi-base.tk/"
+baseurl = "https://busi-base.tk/"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 10

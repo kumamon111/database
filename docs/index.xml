@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Busi-base</title>
-    <link>http://busi-base.tk/</link>
+    <link>https://busi-base.tk/</link>
     <description>Recent content on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dimeコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/dime/</link>
+      <link>https://busi-base.tk/technology/dime/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/dime/</guid>
+      <guid>https://busi-base.tk/technology/dime/</guid>
       <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
 技術詳細 Specifications:
  Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
@@ -28,10 +28,10 @@ Block 1025 = 1024</description>
     
     <item>
       <title>NY第2弾 〜ゴッホを探せ〜</title>
-      <link>http://busi-base.tk/degawa/ny201702-3/</link>
+      <link>https://busi-base.tk/degawa/ny201702-3/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/degawa/ny201702-3/</guid>
+      <guid>https://busi-base.tk/degawa/ny201702-3/</guid>
       <description>出川イングリッシュのおさらい  password: degawaen
 「ゴッホ」 出川：gohho  正解：Van Gogh
 「肖像画」 出川：face  正解：portrait
@@ -42,10 +42,10 @@ Many paintings by him are here, at MoMA and in the Met so you should go in and c
     
     <item>
       <title>NY第2弾 〜空母を探せ〜</title>
-      <link>http://busi-base.tk/degawa/ny201702-2/</link>
+      <link>https://busi-base.tk/degawa/ny201702-2/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/degawa/ny201702-2/</guid>
+      <guid>https://busi-base.tk/degawa/ny201702-2/</guid>
       <description>出川イングリッシュのおさらい  password: degawaen
 「空母」 出川：sky mama  正解：aircraft career
 「どこにあるの？」 出川：where you are?  正解：where is it?
@@ -57,28 +57,28 @@ it is all way down. From here all way down.  ここからずっと向こうに�
     
     <item>
       <title>Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</title>
-      <link>http://busi-base.tk/programming/scrap1/</link>
+      <link>https://busi-base.tk/programming/scrap1/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/programming/scrap1/</guid>
+      <guid>https://busi-base.tk/programming/scrap1/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Pythonスクレイピング・クローリング(2) ~CSSセレクタで要素・テキストの抽出~</title>
-      <link>http://busi-base.tk/programming/scrap2/</link>
+      <link>https://busi-base.tk/programming/scrap2/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/programming/scrap2/</guid>
+      <guid>https://busi-base.tk/programming/scrap2/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Siaコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/sia/</link>
+      <link>https://busi-base.tk/technology/sia/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/sia/</guid>
+      <guid>https://busi-base.tk/technology/sia/</guid>
       <description>概要 HP: https://sia.tech/get-siacoin/
 Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
 Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
@@ -90,10 +90,10 @@ Siaクラウドストレージスペースに課金される料金は非常に�
     
     <item>
       <title>twitchコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/twitch/</link>
+      <link>https://busi-base.tk/technology/twitch/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/twitch/</guid>
+      <guid>https://busi-base.tk/technology/twitch/</guid>
       <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
 Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
 2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
@@ -115,49 +115,50 @@ Target time span: 20160 minutes</description>
     
     <item>
       <title>ブロックチェーン企業一覧</title>
-      <link>http://busi-base.tk/database/blockchain/</link>
+      <link>https://busi-base.tk/database/blockchain/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/database/blockchain/</guid>
+      <guid>https://busi-base.tk/database/blockchain/</guid>
       <description>﻿category name hp     仮想通貨部門 bitFlyer https://bitflyer.jp/   仮想通貨部門 Kraken https://www.kraken.com/   仮想通貨部門 Coincheck https://coincheck.com   仮想通貨部門 株式会社bitExpress http://bitexpress.co.jp/   仮想通貨部門 GMOコイン株式会社 https://coin.z.com/jp/   仮想通貨部門 バイクリメンツ株式会社 https://lemuria-trade.com/about/   仮想通貨部門 日本瓦斯株式会社 http://www.nichigas.co.jp   仮想通貨部門 株式会社イノベーター・ジャパン http://www.innovator.jp.net/   仮想通貨部門 株式会社来夢 http://www.raimu-jp.com/   仮想通貨部門 株式会社ガイア http://www.gaiacard.com/   仮想通貨部門 株式会社BITOCEAN http://japan.bitocean.com/   仮想通貨部門 フジクリプト株式会社 http://fujicrypto.com/   仮想通貨部門 株式会社スマートアプリ http://smartapp.</description>
     </item>
     
     <item>
       <title>ベンチャーキャピタル企業一覧</title>
-      <link>http://busi-base.tk/database/vc/</link>
+      <link>https://busi-base.tk/database/vc/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/database/vc/</guid>
+      <guid>https://busi-base.tk/database/vc/</guid>
       <description>会社名 HP     アーキタイプベンチャーズ株式会社 http://archetype.co.jp/   株式会社 iSGSインベストメントワークス http://isg-iw.com/home/   株式会社アコード・ベンチャーズ http://accordventures.co.jp   アント・キャピタル・パートナーズ株式会社 http://www.antcapital.jp/   池田泉州キャピタル株式会社 http://www.ikegin-c.jp/   伊藤忠テクノロジーベンチャーズ株式会社 http://www.techv.co.jp/   いよぎんキャピタル株式会社 http://www.iyobank.co.jp/about_iyo/kigyoudata/iyprga01/group/iyprgu07.html   インキュベイトファンド http://incubatefund.com/   インフィニティ・ベンチャーズ http://www.infinityventures.com/   株式会社WiL http://wilab.com/   ウエルインベストメント株式会社 http://www.vweruinvest.com/about_profile_ja.html   Eight Roads Capital Advisors (Hong Kong) Limited Japan Branch https://eightroads.com/en   エス・アイ・ピー株式会社 http://sip-vc.com/   SBIインベストメント株式会社 http://www.</description>
     </item>
     
     <item>
       <title>マシンラーニングとディープラーニングの違い</title>
-      <link>http://busi-base.tk/technology/ml/</link>
+      <link>https://busi-base.tk/technology/ml/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/ml/</guid>
+      <guid>https://busi-base.tk/technology/ml/</guid>
       <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
 Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences.
+
 Machine learning と Deep learning の違い マシンラーニングは、初めから分類されたデータセットをコンピューターに学習させるものです。例えば、犬と猫の識別を行いたい際に、犬と猫それぞれのイメージを用意し、その特徴を捉え、それに従って後々の判断につなげていきます。一方でディープラーニングは、初めからデータが分類されてはおらず、あらゆるデータからコンピューターが自分自身で分類し、識別していく形をとります。
 Machine learning has the classification dataset which makes a computer learn what is the object beforehands.</description>
     </item>
     
     <item>
       <title>人気の映画リスト</title>
-      <link>http://busi-base.tk/database/movie/</link>
+      <link>https://busi-base.tk/database/movie/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/database/movie/</guid>
+      <guid>https://busi-base.tk/database/movie/</guid>
       <description>﻿タイトル HP 概要 公開日     羊の木 https://movie.walkerplus.com/mv61577/ 元受刑者たちを受入れた港町で起こる事件を描く、人気コミックが原作の人間ドラマ 2&amp;frasl;3(土)   スリープレス・ナイト https://movie.walkerplus.com/mv63847/ ラスベガスを舞台に警察・マフィア・警察内部調査官の対立を描くクライム・アクション 2&amp;frasl;3(土)   アバウト・レイ 16歳の決断 https://movie.walkerplus.com/mv63805/ トランスジェンダーの主人公とその家族の姿を描いたドラマ 2&amp;frasl;3(土)   blank13 https://movie.walkerplus.com/mv63253/ 余命3か月で見つかった13年前に失踪した父と家族の物語を描く齊藤工の初長編監督作 2&amp;frasl;3(土)   マーベル インヒューマンズ https://movie.walkerplus.com/mv64272/ マーベル・コミック原作のTVドラマ第1、2話。超人類の王族が繰り広げる冒険を描く 2&amp;frasl;2(金)   RAW～少女のめざめ～ https://movie.walkerplus.com/mv64054/ ベジタリアンの獣医一家に育った少女が、大学寮での生活を通じて変化していく様を描く 2&amp;frasl;2(金)   不能犯 https://movie.walkerplus.com/mv61803/ 証拠の出ない立件不可能な犯罪を行う謎の男と、警察との攻防を描いたサイコスリラー 2&amp;frasl;1(木)   スリー・ビルボード https://movie.walkerplus.com/mv63858/ 田舎町に警察を批判する3枚の看板が出現したことで巻き起こる騒動を描いたサスペンス 2&amp;frasl;1(木)   祈りの幕が下りる時 https://movie.walkerplus.com/mv63394/ TVドラマとして放送された東野圭吾原作「新参者」シリーズの劇場版完結編 1&amp;frasl;27(土)   ダークタワー https://movie.walkerplus.com/mv63655/ 世界の支柱“タワー”を巡りタワーを守る者と壊す者が戦いを繰り広げるアクション 1&amp;frasl;27(土)   宇宙戦艦ヤマト2202 愛の戦士たち 第四章「天命篇」 https://movie.</description>
     </item>
     
     <item>
       <title>就活コンサル事業</title>
-      <link>http://busi-base.tk/job/newgrad/</link>
+      <link>https://busi-base.tk/job/newgrad/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/newgrad/</guid>
+      <guid>https://busi-base.tk/job/newgrad/</guid>
       <description>ハイクラス新卒ポジションの就職サポート Business Baseでは、数名のプロヘッドハンターと協力し、意識高い系の皆さんの就職活動をバックアップします。
 ここでご紹介するものはハイクラスのポジションに限定されています。
 ・ 外資ITコンサル
@@ -172,10 +173,10 @@ Powered by FormMailer.</description>
     
     <item>
       <title>業務の99%が英語のインターン一覧</title>
-      <link>http://busi-base.tk/job/eintern/</link>
+      <link>https://busi-base.tk/job/eintern/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/eintern/</guid>
+      <guid>https://busi-base.tk/job/eintern/</guid>
       <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」  「……。」   実はそんな英語使ってません。 あっても翻訳とかその程度です。 だって日本にある企業ですもん。 みんな日本語しゃべれますから&amp;hellip;  
 「じゃあそういうところってないの？」  安心してください、下に載ってますよ   今回はいろんなコネクションを使って集めた情報から厳選して、本当に英語しか使わないそんなインターンを紹介します。 絶対知らないと思います。     
  留学生・英語でのインターンを行いたい学生必見
@@ -189,10 +190,10 @@ hello@remoteworkinc.com [職種] 要相談</description>
     
     <item>
       <title>ブロックチェーン・仮想通貨コースを提供する大学まとめ</title>
-      <link>http://busi-base.tk/database/chainschool/</link>
+      <link>https://busi-base.tk/database/chainschool/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/database/chainschool/</guid>
+      <guid>https://busi-base.tk/database/chainschool/</guid>
       <description>ブロックチェーンは、世界で最も急速に拡大している技術の1つです。
 そんな中未来を見据え、すでにブロックチェーンに特化したコースを設定する学校があります。
 今後この技術の需要が高まるにつれ、教育の機会を求める学生の需要もどんどん高まることでしょう。
@@ -213,10 +214,10 @@ B9ラボアカデミー（英国） https://academy.</description>
     
     <item>
       <title>外資系ファンド新卒募集！</title>
-      <link>http://busi-base.tk/job/finance/</link>
+      <link>https://busi-base.tk/job/finance/</link>
       <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/finance/</guid>
+      <guid>https://busi-base.tk/job/finance/</guid>
       <description>Business Baseでは、日本最大級のエグゼクティブサーチ企業であるウェストイーストコンサルの協力のもと、
 意識の高いあなたにハイクラスの新卒ポジションをご紹介しています。
 以下のポジションにご興味のある方は、下のフォームからレジュメを添付の上、ご応募ください。
@@ -227,10 +228,10 @@ B9ラボアカデミー（英国） https://academy.</description>
     
     <item>
       <title>新しい就活の方法”ハイレベル企業への最短ジョブハンティング”</title>
-      <link>http://busi-base.tk/job/jhunting/</link>
+      <link>https://busi-base.tk/job/jhunting/</link>
       <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/jhunting/</guid>
+      <guid>https://busi-base.tk/job/jhunting/</guid>
       <description>意識の高いみなさん。みなさん就活頑張ってますか？
 就活ってめんどくさいですよね。
 ES書いてグループワークやって何回も面接して&amp;hellip;結局受かったと思ったら仕事がつまらなすぎて転職して。
@@ -262,10 +263,10 @@ ES書いてグループワークやって何回も面接して&amp;hellip;結局
     
     <item>
       <title>新規事業提案のフレームワーク</title>
-      <link>http://busi-base.tk/job/nbusiness/</link>
+      <link>https://busi-base.tk/job/nbusiness/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/nbusiness/</guid>
+      <guid>https://busi-base.tk/job/nbusiness/</guid>
       <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。この記事では、そうした提案に使えるフレームワークを順に従って紹介していきます。   
 1 まず何から手をつけるべきか おそらくテーマは様々あると思います。  「今より売上を〜万円上げろ」 「新規サービス企画」 「プロモーション施策」etc&amp;hellip;  しかし、どんな新規事業にも克服すべき課題があるはずです。まずはそれを明確にしていきましょう。 
 
@@ -284,10 +285,10 @@ ES書いてグループワークやって何回も面接して&amp;hellip;結局
     
     <item>
       <title>独占入手あり 「高時給な外銀インターンまとめ」</title>
-      <link>http://busi-base.tk/job/aintern/</link>
+      <link>https://busi-base.tk/job/aintern/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/aintern/</guid>
+      <guid>https://busi-base.tk/job/aintern/</guid>
       <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度のフルタイムジョブをかします。この間、結果を収めた学生は自動的に内定が決まり、さらにインターンが勤務経験として認められるため、もし新卒で別の会社に行く場合は中途採用扱いとなり、通常の新卒クラスの待遇をはるかに超えます。しかしこのキャリアパスを得るには、二つの難関があります。   
 1 インターンが非公開またはHPのみでの公開 そもそも何千とある外資金融のHPをわざわざ訪れるなんてこと普段しないですよね。また非公開の場合、問い合わせをすることになるのですが、確率は非常に低く、返信もそんなに多くありません。
 2 見つけたとしても入社のハードルが高い  外資の金融、それこそお化けみたいなキャリアパスを踏んできた奴がゴロゴロいますから、当然ハードルは高いものです。基本的に、学歴・経歴・英語が選考要素ですが、ただポテンシャルをしっかり見てくれる会社もあります。   
@@ -310,10 +311,10 @@ linkedinからコンタクトしてみよう (https://www.linkedin.com) linkedi
     
     <item>
       <title>世界高級自動車会社のインターン</title>
-      <link>http://busi-base.tk/job/bmw/</link>
+      <link>https://busi-base.tk/job/bmw/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/bmw/</guid>
+      <guid>https://busi-base.tk/job/bmw/</guid>
       <description>企業名 BMW 
 職務内容  BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description
 Current openings :
@@ -325,10 +326,10 @@ Current openings :
     
     <item>
       <title>お問い合わせ</title>
-      <link>http://busi-base.tk/contact/</link>
+      <link>https://busi-base.tk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/contact/</guid>
+      <guid>https://busi-base.tk/contact/</guid>
       <description>*は必須項目です 姓 名 *メールアドレス
 お問い合わせ内容
   Powered by FormMailer.
@@ -337,10 +338,10 @@ Current openings :
     
     <item>
       <title>エグゼグティブサーチを行う外コン一覧</title>
-      <link>http://busi-base.tk/job/exective/</link>
+      <link>https://busi-base.tk/job/exective/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/job/exective/</guid>
+      <guid>https://busi-base.tk/job/exective/</guid>
       <description>エグゼクティブサーチとは 役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。欧米諸国と比較すると、日本では2000年代までは、経営幹部の外部からの招聘はあまり盛んとは言えなかったが、2010年代に入ると、 サントリーにローソンから新浪剛史が、 ベネッセに日本マクドナルドから原田泳幸が、 資生堂に日本コカ・コーラから魚谷雅彦が、LIXILにゼネラル・エレクトリックから藤森義明が、社長としてスカウトされるケースが増えたことで、その背後にあるエグゼクティブサーチに対しても注目が集まっている。
 
  

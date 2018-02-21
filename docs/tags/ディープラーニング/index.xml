@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ディープラーニング on Busi-base</title>
-    <link>http://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link>
+    <link>https://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link>
     <description>Recent content in ディープラーニング on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>マシンラーニングとディープラーニングの違い</title>
-      <link>http://busi-base.tk/technology/ml/</link>
+      <link>https://busi-base.tk/technology/ml/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/ml/</guid>
+      <guid>https://busi-base.tk/technology/ml/</guid>
       <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
 Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences.
+
 Machine learning と Deep learning の違い マシンラーニングは、初めから分類されたデータセットをコンピューターに学習させるものです。例えば、犬と猫の識別を行いたい際に、犬と猫それぞれのイメージを用意し、その特徴を捉え、それに従って後々の判断につなげていきます。一方でディープラーニングは、初めからデータが分類されてはおらず、あらゆるデータからコンピューターが自分自身で分類し、識別していく形をとります。
 Machine learning has the classification dataset which makes a computer learn what is the object beforehands.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>仮想通貨 on Busi-base</title>
-    <link>http://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
+    <link>https://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/</link>
     <description>Recent content in 仮想通貨 on Busi-base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://busi-base.tk/categories/%E4%BB%AE%E6%83%B3%E9%80%9A%E8%B2%A8/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dimeコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/dime/</link>
+      <link>https://busi-base.tk/technology/dime/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/dime/</guid>
+      <guid>https://busi-base.tk/technology/dime/</guid>
       <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
 技術詳細 Specifications:
  Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
@@ -28,10 +28,10 @@ Block 1025 = 1024</description>
     
     <item>
       <title>Siaコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/sia/</link>
+      <link>https://busi-base.tk/technology/sia/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/sia/</guid>
+      <guid>https://busi-base.tk/technology/sia/</guid>
       <description>概要 HP: https://sia.tech/get-siacoin/
 Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
 Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
@@ -43,10 +43,10 @@ Siaクラウドストレージスペースに課金される料金は非常に�
     
     <item>
       <title>twitchコインとは？徹底解析</title>
-      <link>http://busi-base.tk/technology/twitch/</link>
+      <link>https://busi-base.tk/technology/twitch/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/technology/twitch/</guid>
+      <guid>https://busi-base.tk/technology/twitch/</guid>
       <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
 Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
 2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
