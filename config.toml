@@ -105,33 +105,33 @@ description = "意識高い系のための就活・キャリア情報ウェブ�
   name = "database"
   url = "/database/"
   identifier = "fa fa-list"
-  weight = 3
+  weight = 5
 
 [[menu.main]]
   name = "programming"
   url = "/programming/"
   identifier = "fa fa-sitemap"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "contact"
   url = "/contact/"
   identifier = "fa fa-envelope-o"
-  weight = 7
+  weight = 6
 
 
 
 [[menu.main]]
   name = "job"
   url = "https://busi-job.tk"
-  identifier = ""
-  weight = 2
+  identifier = "fa fa-edit"
+  weight = 4
 
 [[menu.main]]
-  name = "coin"
-  url = "/crypto/"
-  identifier = ""
-  weight = 4
+  name = "technology"
+  url = "/technology/"
+  identifier = "fa fa-rocket"
+  weight = 2
 
 
 # Sets Social Media icons to appear and link to your account. Value should be your

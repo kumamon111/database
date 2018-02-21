@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Dimeコインとは？概要から取引所まで徹底解析</title>
-      <link>http://busi-base.tk/crypto/dime/</link>
+      <title>Dimeコインとは？徹底解析</title>
+      <link>http://busi-base.tk/technology/dime/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/crypto/dime/</guid>
+      <guid>http://busi-base.tk/technology/dime/</guid>
       <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
 技術詳細 Specifications:
  Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
@@ -74,11 +74,11 @@ it is all way down. From here all way down.  ここからずっと向こうに�
     </item>
     
     <item>
-      <title>Siaコインとは？概要から取引所まで徹底解析</title>
-      <link>http://busi-base.tk/crypto/sia/</link>
+      <title>Siaコインとは？徹底解析</title>
+      <link>http://busi-base.tk/technology/sia/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/crypto/sia/</guid>
+      <guid>http://busi-base.tk/technology/sia/</guid>
       <description>概要 HP: https://sia.tech/get-siacoin/
 Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
 Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
@@ -89,11 +89,11 @@ Siaクラウドストレージスペースに課金される料金は非常に�
     </item>
     
     <item>
-      <title>twitchコインとは？概要から取引所まで徹底解析</title>
-      <link>http://busi-base.tk/crypto/twitch/</link>
+      <title>twitchコインとは？徹底解析</title>
+      <link>http://busi-base.tk/technology/twitch/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://busi-base.tk/crypto/twitch/</guid>
+      <guid>http://busi-base.tk/technology/twitch/</guid>
       <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
 Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
 2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
@@ -129,6 +129,18 @@ Target time span: 20160 minutes</description>
       
       <guid>http://busi-base.tk/database/vc/</guid>
       <description>会社名 HP     アーキタイプベンチャーズ株式会社 http://archetype.co.jp/   株式会社 iSGSインベストメントワークス http://isg-iw.com/home/   株式会社アコード・ベンチャーズ http://accordventures.co.jp   アント・キャピタル・パートナーズ株式会社 http://www.antcapital.jp/   池田泉州キャピタル株式会社 http://www.ikegin-c.jp/   伊藤忠テクノロジーベンチャーズ株式会社 http://www.techv.co.jp/   いよぎんキャピタル株式会社 http://www.iyobank.co.jp/about_iyo/kigyoudata/iyprga01/group/iyprgu07.html   インキュベイトファンド http://incubatefund.com/   インフィニティ・ベンチャーズ http://www.infinityventures.com/   株式会社WiL http://wilab.com/   ウエルインベストメント株式会社 http://www.vweruinvest.com/about_profile_ja.html   Eight Roads Capital Advisors (Hong Kong) Limited Japan Branch https://eightroads.com/en   エス・アイ・ピー株式会社 http://sip-vc.com/   SBIインベストメント株式会社 http://www.</description>
+    </item>
+    
+    <item>
+      <title>マシンラーニングとディープラーニングの違い</title>
+      <link>http://busi-base.tk/technology/ml/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://busi-base.tk/technology/ml/</guid>
+      <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
+Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences.
+Machine learning と Deep learning の違い マシンラーニングは、初めから分類されたデータセットをコンピューターに学習させるものです。例えば、犬と猫の識別を行いたい際に、犬と猫それぞれのイメージを用意し、その特徴を捉え、それに従って後々の判断につなげていきます。一方でディープラーニングは、初めからデータが分類されてはおらず、あらゆるデータからコンピューターが自分自身で分類し、識別していく形をとります。
+Machine learning has the classification dataset which makes a computer learn what is the object beforehands.</description>
     </item>
     
     <item>

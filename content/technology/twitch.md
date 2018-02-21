@@ -1,5 +1,5 @@
 ---
-title: twitchコインとは？概要から取引所まで徹底解析
+title: twitchコインとは？徹底解析
 date: 2018-02-05
 categories: [ "仮想通貨" ]
 tags: [ "仮想通貨", "草コイン", "cryptocurrency" ]

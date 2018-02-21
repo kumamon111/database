@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://busi-base.tk/crypto/dime/</loc>
+    <loc>http://busi-base.tk/technology/dime/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>http://busi-base.tk/crypto/sia/</loc>
+    <loc>http://busi-base.tk/technology/sia/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://busi-base.tk/crypto/twitch/</loc>
+    <loc>http://busi-base.tk/technology/twitch/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +44,11 @@
   
   <url>
     <loc>http://busi-base.tk/database/vc/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/technology/ml/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,6 +98,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/tags/ai/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/beautifulsoup/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -117,12 +128,6 @@
   
   <url>
     <loc>http://busi-base.tk/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://busi-base.tk/crypto/</loc>
-    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,6 +216,12 @@
   </url>
   
   <url>
+    <loc>http://busi-base.tk/technology/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://busi-base.tk/tags/vc/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -255,6 +266,18 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -309,6 +332,12 @@
   
   <url>
     <loc>http://busi-base.tk/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB/</loc>
+    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://busi-base.tk/tags/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
