@@ -154,6 +154,26 @@ Machine learning has the classification dataset which makes a computer learn wha
     </item>
     
     <item>
+      <title>今更だけどルンバってどうやって動いてるの。本当にすごいSLAM技術。</title>
+      <link>https://busi-base.tk/technology/slam/</link>
+      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/slam/</guid>
+      <description>ルンバはなぜ自動で障害物を回避できるのか ルンバには、SLAM(Simultaneous Localization and Mapping)という技術が導入されています。
+SLAMとは、カメラなどを用いて自己位置推定と周囲環境のマッピングを同時に行うこと  シンプルに言えば、カメラセンサーからのデータをもとに、「自分が今どんな姿勢でどこにいるのか」と「周囲の環境を把握すること」この２つを同時に行います。
+iRobot has been developing robots with wireless integration along with intelligent navigation capability based on SLAM.
+SLAM is a way of dynamically building a map while keeping track of your own position at the same time.  
+宇宙ロボットやドローンにも応用されている この技術は、自律型ロボットやドローンを動かす上では現在最も主要な技術です。
+理由の1つに、非GPS環境での優位性があげられます。ドローンやロボットが活躍する場といえば、人が入れないところというのが最も先に浮かぶものです。
+そういった場所で、電波が必ずしも通るとは限りません。宇宙では特に、GPSによる自己位置の特定に困難を伴います。
+SLAMはGPSを使わずに、カメラから得た情報によって自己の位置を特定し、かつ周囲環境のマッピングを行うため、どのような環境でも安全に飛行させることができます。
+SLAM is the major technology that is implemented in autonomous drones and robotics.
+
+でも具体的にどうやって行うの？ ここからは少し複雑です。ドローンへの実装に一番精通があるので、このあとはドローンを主題に話に進めます。
+ドローンでは、PTAM (parallel tracking and mapping)というSLAMライブラリを使用します。</description>
+    </item>
+    
+    <item>
       <title>就活コンサル事業</title>
       <link>https://busi-base.tk/job/newgrad/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
