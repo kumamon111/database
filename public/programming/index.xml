@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programming on Busi-base</title>
+    <title>Programming on Business base</title>
     <link>https://busi-base.tk/programming/</link>
-    <description>Recent content in Programming on Busi-base</description>
+    <description>Recent content in Programming on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitcoinの収益率を対数差分で出して見た。(Python)</title>
+      <link>https://busi-base.tk/programming/return/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/return/</guid>
+      <description>コード例 import quandl import matplotlib.pyplot as plt import pandas as pd import numpy as np # get the data from quandl mydata_01 = quandl.get(&#39;BCHARTS/BITSTAMPUSD&#39;, start_date=&amp;quot;2012-01-01&amp;quot;, end_date=&amp;quot;2017-02-23&amp;quot;) #print(mydata_01) # csv mydata_01.to_csv(&#39;データ保存先&#39;) # log returns #今回はこちらを使用 # log(クローズの価格 ÷ 1日前のクローズの価格) mydata_01[&#39;log_return&#39;] = np.log(mydata_01[&#39;Close&#39;] / mydata_01[&#39;Close&#39;].shift(1)) # simple returns # (クローズの価格 ÷ 1日前のクローズの価格) - 1 # mydata_01[&#39;simple_return&#39;] = (mydata_01[&#39;Close&#39;] / mydata_01[&#39;Close&#39;].shift(1)) - 1 mydata_01[&#39;simple_return&#39;] mydata_01[&#39;log_return&#39;].plot() # show matrix plt.show()  解説 対数(log)を使用したのは、分散を一定に近くするため。</description>
+    </item>
     
     <item>
       <title>Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</title>
@@ -27,6 +36,24 @@
       
       <guid>https://busi-base.tk/programming/scrap2/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>統計Rを使った分析（１）</title>
+      <link>https://busi-base.tk/programming/statistis1/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/statistis1/</guid>
+      <description>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。
+今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。
+スカラー平均
+mean  ベクトル平均
+ave  分散
+mean((x-ave(x)^2)  標準偏差
+√mean((x-ave(x)^2)  不偏分散
+var  不偏標準偏差
+sd  確率分布の乱数発生
+rnome(10) rnome(100) rnome(1000)  ()内は数</description>
     </item>
     
   </channel>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Busi-base</title>
+    <title>Tags on Business base</title>
     <link>https://busi-base.tk/tags/</link>
-    <description>Recent content in Tags on Busi-base</description>
+    <description>Recent content in Tags on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>AI</title>
       <link>https://busi-base.tk/tags/ai/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/ai/</guid>
       <description></description>
@@ -26,6 +26,15 @@
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/beautifulsoup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>https://busi-base.tk/tags/bitcoin/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/tags/bitcoin/</guid>
       <description></description>
     </item>
     
@@ -77,16 +86,25 @@
     <item>
       <title>Python</title>
       <link>https://busi-base.tk/tags/python/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>R</title>
+      <link>https://busi-base.tk/tags/r/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SLAM</title>
       <link>https://busi-base.tk/tags/slam/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/slam/</guid>
       <description></description>
@@ -158,16 +176,25 @@
     <item>
       <title>ディープラーニング</title>
       <link>https://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>トレンド</title>
+      <link>https://busi-base.tk/tags/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/tags/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ドローン</title>
       <link>https://busi-base.tk/tags/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</guid>
       <description></description>
@@ -221,7 +248,7 @@
     <item>
       <title>プログラミング</title>
       <link>https://busi-base.tk/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
       <description></description>
@@ -248,7 +275,7 @@
     <item>
       <title>マシンラーニング</title>
       <link>https://busi-base.tk/tags/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/</guid>
       <description></description>
@@ -413,6 +440,15 @@
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/tags/%E8%8D%89%E3%82%B3%E3%82%A4%E3%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>金融</title>
+      <link>https://busi-base.tk/tags/%E9%87%91%E8%9E%8D/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/tags/%E9%87%91%E8%9E%8D/</guid>
       <description></description>
     </item>
     

@@ -1,29 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Busi-base</title>
+    <title>Business base</title>
     <link>https://busi-base.tk/</link>
-    <description>Recent content on Busi-base</description>
+    <description>Recent content on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dimeコインとは？徹底解析</title>
-      <link>https://busi-base.tk/technology/dime/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <title>Bitcoinの収益率を対数差分で出して見た。(Python)</title>
+      <link>https://busi-base.tk/programming/return/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://busi-base.tk/technology/dime/</guid>
-      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
-技術詳細 Specifications:
- Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
-Block 1 = 1024
-Block 2 = 2048
-Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
-Block 1025 = 1024</description>
+      <guid>https://busi-base.tk/programming/return/</guid>
+      <description>コード例 import quandl import matplotlib.pyplot as plt import pandas as pd import numpy as np # get the data from quandl mydata_01 = quandl.get(&#39;BCHARTS/BITSTAMPUSD&#39;, start_date=&amp;quot;2012-01-01&amp;quot;, end_date=&amp;quot;2017-02-23&amp;quot;) #print(mydata_01) # csv mydata_01.to_csv(&#39;データ保存先&#39;) # log returns #今回はこちらを使用 # log(クローズの価格 ÷ 1日前のクローズの価格) mydata_01[&#39;log_return&#39;] = np.log(mydata_01[&#39;Close&#39;] / mydata_01[&#39;Close&#39;].shift(1)) # simple returns # (クローズの価格 ÷ 1日前のクローズの価格) - 1 # mydata_01[&#39;simple_return&#39;] = (mydata_01[&#39;Close&#39;] / mydata_01[&#39;Close&#39;].shift(1)) - 1 mydata_01[&#39;simple_return&#39;] mydata_01[&#39;log_return&#39;].plot() # show matrix plt.show()  解説 対数(log)を使用したのは、分散を一定に近くするため。</description>
+    </item>
+    
+    <item>
+      <title>マシンラーニングとディープラーニングの違い</title>
+      <link>https://busi-base.tk/technology/ml/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/ml/</guid>
+      <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
+Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences.
+
+Machine learning と Deep learning の違い マシンラーニングは、初めから分類されたデータセットをコンピューターに学習させるものです。例えば、犬と猫の識別を行いたい際に、犬と猫それぞれのイメージを用意し、その特徴を捉え、それに従って後々の判断につなげていきます。一方でディープラーニングは、初めからデータが分類されてはおらず、あらゆるデータからコンピューターが自分自身で分類し、識別していく形をとります。
+Machine learning has the classification dataset which makes a computer learn what is the object beforehands.</description>
+    </item>
+    
+    <item>
+      <title>今更だけどルンバってどうやって動いてるの。本当にすごいSLAM技術。</title>
+      <link>https://busi-base.tk/technology/slam/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/slam/</guid>
+      <description>ルンバはなぜ自動で障害物を回避できるのか ルンバには、SLAM(Simultaneous Localization and Mapping)という技術が導入されています。
+SLAMとは、カメラなどを用いて自己位置推定と周囲環境のマッピングを同時に行うこと  シンプルに言えば、カメラセンサーからのデータをもとに、「自分が今どんな姿勢でどこにいるのか」と「周囲の環境を把握すること」この２つを同時に行います。
+iRobot has been developing robots with wireless integration along with intelligent navigation capability based on SLAM.
+SLAM is a way of dynamically building a map while keeping track of your own position at the same time.  
+宇宙ロボットやドローンにも応用されている この技術は、自律型ロボットやドローンを動かす上では現在最も主要な技術です。
+理由の1つに、非GPS環境での優位性があげられます。ドローンやロボットが活躍する場といえば、人が入れないところというのが最も先に浮かぶものです。
+そういった場所で、電波が必ずしも通るとは限りません。宇宙では特に、GPSによる自己位置の特定に困難を伴います。
+SLAMはGPSを使わずに、カメラから得た情報によって自己の位置を特定し、かつ周囲環境のマッピングを行うため、どのような環境でも安全に飛行させることができます。
+SLAM is the major technology that is implemented in autonomous drones and robotics.
+
+でも具体的にどうやって行うの？ ここからは少し複雑です。ドローンへの実装に一番精通があるので、このあとはドローンを主題に話に進めます。
+ドローンでは、PTAM (parallel tracking and mapping)というSLAMライブラリを使用します。</description>
     </item>
     
     <item>
@@ -74,21 +101,6 @@ it is all way down. From here all way down.  ここからずっと向こうに�
     </item>
     
     <item>
-      <title>Siaコインとは？徹底解析</title>
-      <link>https://busi-base.tk/technology/sia/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/sia/</guid>
-      <description>概要 HP: https://sia.tech/get-siacoin/
-Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
-Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
-初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
-Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
-Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
-プライスチャート  Register HitBTC  Tweets by Twitch  Register HitBTC</description>
-    </item>
-    
-    <item>
       <title>twitchコインとは？徹底解析</title>
       <link>https://busi-base.tk/technology/twitch/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
@@ -132,45 +144,12 @@ Target time span: 20160 minutes</description>
     </item>
     
     <item>
-      <title>マシンラーニングとディープラーニングの違い</title>
-      <link>https://busi-base.tk/technology/ml/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/ml/</guid>
-      <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
-Understanding the latest advancements in artificial intelligence can seem overwhelming, but it really boils down to two concepts you’ve likely heard of: machine learning and deep learning. How these terms are thrown around can make them seem like interchangeable buzzwords, hence why it’s important to understand the differences.
-
-Machine learning と Deep learning の違い マシンラーニングは、初めから分類されたデータセットをコンピューターに学習させるものです。例えば、犬と猫の識別を行いたい際に、犬と猫それぞれのイメージを用意し、その特徴を捉え、それに従って後々の判断につなげていきます。一方でディープラーニングは、初めからデータが分類されてはおらず、あらゆるデータからコンピューターが自分自身で分類し、識別していく形をとります。
-Machine learning has the classification dataset which makes a computer learn what is the object beforehands.</description>
-    </item>
-    
-    <item>
       <title>人気の映画リスト</title>
       <link>https://busi-base.tk/database/movie/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/database/movie/</guid>
       <description>﻿タイトル HP 概要 公開日     羊の木 https://movie.walkerplus.com/mv61577/ 元受刑者たちを受入れた港町で起こる事件を描く、人気コミックが原作の人間ドラマ 2&amp;frasl;3(土)   スリープレス・ナイト https://movie.walkerplus.com/mv63847/ ラスベガスを舞台に警察・マフィア・警察内部調査官の対立を描くクライム・アクション 2&amp;frasl;3(土)   アバウト・レイ 16歳の決断 https://movie.walkerplus.com/mv63805/ トランスジェンダーの主人公とその家族の姿を描いたドラマ 2&amp;frasl;3(土)   blank13 https://movie.walkerplus.com/mv63253/ 余命3か月で見つかった13年前に失踪した父と家族の物語を描く齊藤工の初長編監督作 2&amp;frasl;3(土)   マーベル インヒューマンズ https://movie.walkerplus.com/mv64272/ マーベル・コミック原作のTVドラマ第1、2話。超人類の王族が繰り広げる冒険を描く 2&amp;frasl;2(金)   RAW～少女のめざめ～ https://movie.walkerplus.com/mv64054/ ベジタリアンの獣医一家に育った少女が、大学寮での生活を通じて変化していく様を描く 2&amp;frasl;2(金)   不能犯 https://movie.walkerplus.com/mv61803/ 証拠の出ない立件不可能な犯罪を行う謎の男と、警察との攻防を描いたサイコスリラー 2&amp;frasl;1(木)   スリー・ビルボード https://movie.walkerplus.com/mv63858/ 田舎町に警察を批判する3枚の看板が出現したことで巻き起こる騒動を描いたサスペンス 2&amp;frasl;1(木)   祈りの幕が下りる時 https://movie.walkerplus.com/mv63394/ TVドラマとして放送された東野圭吾原作「新参者」シリーズの劇場版完結編 1&amp;frasl;27(土)   ダークタワー https://movie.walkerplus.com/mv63655/ 世界の支柱“タワー”を巡りタワーを守る者と壊す者が戦いを繰り広げるアクション 1&amp;frasl;27(土)   宇宙戦艦ヤマト2202 愛の戦士たち 第四章「天命篇」 https://movie.</description>
-    </item>
-    
-    <item>
-      <title>今更だけどルンバってどうやって動いてるの。本当にすごいSLAM技術。</title>
-      <link>https://busi-base.tk/technology/slam/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/slam/</guid>
-      <description>ルンバはなぜ自動で障害物を回避できるのか ルンバには、SLAM(Simultaneous Localization and Mapping)という技術が導入されています。
-SLAMとは、カメラなどを用いて自己位置推定と周囲環境のマッピングを同時に行うこと  シンプルに言えば、カメラセンサーからのデータをもとに、「自分が今どんな姿勢でどこにいるのか」と「周囲の環境を把握すること」この２つを同時に行います。
-iRobot has been developing robots with wireless integration along with intelligent navigation capability based on SLAM.
-SLAM is a way of dynamically building a map while keeping track of your own position at the same time.  
-宇宙ロボットやドローンにも応用されている この技術は、自律型ロボットやドローンを動かす上では現在最も主要な技術です。
-理由の1つに、非GPS環境での優位性があげられます。ドローンやロボットが活躍する場といえば、人が入れないところというのが最も先に浮かぶものです。
-そういった場所で、電波が必ずしも通るとは限りません。宇宙では特に、GPSによる自己位置の特定に困難を伴います。
-SLAMはGPSを使わずに、カメラから得た情報によって自己の位置を特定し、かつ周囲環境のマッピングを行うため、どのような環境でも安全に飛行させることができます。
-SLAM is the major technology that is implemented in autonomous drones and robotics.
-
-でも具体的にどうやって行うの？ ここからは少し複雑です。ドローンへの実装に一番精通があるので、このあとはドローンを主題に話に進めます。
-ドローンでは、PTAM (parallel tracking and mapping)というSLAMライブラリを使用します。</description>
     </item>
     
     <item>
@@ -282,6 +261,24 @@ ES書いてグループワークやって何回も面接して&amp;hellip;結局
     </item>
     
     <item>
+      <title>統計Rを使った分析（１）</title>
+      <link>https://busi-base.tk/programming/statistis1/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/statistis1/</guid>
+      <description>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。
+今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。
+スカラー平均
+mean  ベクトル平均
+ave  分散
+mean((x-ave(x)^2)  標準偏差
+√mean((x-ave(x)^2)  不偏分散
+var  不偏標準偏差
+sd  確率分布の乱数発生
+rnome(10) rnome(100) rnome(1000)  ()内は数</description>
+    </item>
+    
+    <item>
       <title>新規事業提案のフレームワーク</title>
       <link>https://busi-base.tk/job/nbusiness/</link>
       <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
@@ -342,6 +339,36 @@ Current openings :
 2)Marketing (2017 Dec - 2018 May)
 3)Back Office (2018 Jan -2018 Jun) 
  登録資格  Required soft skills: be able to work under pressure and with tight timelines, if required work long working hours, take initiative, independent thinking, ability to assimilate and adapt quickly to a Japanese and international team.</description>
+    </item>
+    
+    <item>
+      <title>Dimeコインとは？徹底解析</title>
+      <link>https://busi-base.tk/technology/dime/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/dime/</guid>
+      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
+技術詳細 Specifications:
+ Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
+Block 1 = 1024
+Block 2 = 2048
+Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
+Block 1025 = 1024</description>
+    </item>
+    
+    <item>
+      <title>Siaコインとは？徹底解析</title>
+      <link>https://busi-base.tk/technology/sia/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/sia/</guid>
+      <description>概要 HP: https://sia.tech/get-siacoin/
+Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
+Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
+初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
+Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
+Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
+プライスチャート  Register HitBTC  Tweets by Twitch  Register HitBTC</description>
     </item>
     
     <item>

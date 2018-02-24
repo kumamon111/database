@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Busi-base</title>
+    <title>Categories on Business base</title>
     <link>https://busi-base.tk/categories/</link>
-    <description>Recent content in Categories on Busi-base</description>
+    <description>Recent content in Categories on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     
@@ -47,6 +47,15 @@
     </item>
     
     <item>
+      <title>Statistics</title>
+      <link>https://busi-base.tk/categories/statistics/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/categories/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Study</title>
       <link>https://busi-base.tk/categories/study/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
@@ -58,7 +67,7 @@
     <item>
       <title>テクノロジー</title>
       <link>https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</guid>
       <description></description>
@@ -67,7 +76,7 @@
     <item>
       <title>プログラミング</title>
       <link>https://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
       <description></description>

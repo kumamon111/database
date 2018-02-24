@@ -1,6 +1,6 @@
 ---
 title: 今更だけどルンバってどうやって動いてるの。本当にすごいSLAM技術。
-date: 2018-02-05
+date: 2018-02-20
 categories: [ "テクノロジー" ]
 tags: [ "SLAM", "ドローン", "AI" ]
 description: 家庭から宇宙にまで応用されるSLAM技術を徹底解説

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>テクノロジー on Busi-base</title>
+    <title>テクノロジー on Business base</title>
     <link>https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/</link>
-    <description>Recent content in テクノロジー on Busi-base</description>
+    <description>Recent content in テクノロジー on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>マシンラーニングとディープラーニングの違い</title>
       <link>https://busi-base.tk/technology/ml/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/technology/ml/</guid>
       <description>最近のAIがどんどん進化する中で、その全てを理解するのは非常に困難でしょう。しかし、これらをディープラーニングとマシンラーニングという2つの概念から説明し、その違いを理解することでAIの理解も深まるはずです。
@@ -27,7 +27,7 @@ Machine learning has the classification dataset which makes a computer learn wha
     <item>
       <title>今更だけどルンバってどうやって動いてるの。本当にすごいSLAM技術。</title>
       <link>https://busi-base.tk/technology/slam/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/technology/slam/</guid>
       <description>ルンバはなぜ自動で障害物を回避できるのか ルンバには、SLAM(Simultaneous Localization and Mapping)という技術が導入されています。
