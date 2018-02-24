@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>株価の基礎的なリターンリスクを算出(Python)</title>
+      <link>https://busi-base.tk/programming/var/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/var/</guid>
+      <description>コード例 import numpy as np import pandas as pd import pandas_datareader.data as web # define stock that you take ticker = [&amp;quot;FB&amp;quot;] # web.DataReader(取得したい銘柄, どこから取得するか, いつから始めるか) sec_data = web.DataReader(ticker, data_source=&amp;quot;morningstar&amp;quot;, start=&amp;quot;2016-1-1&amp;quot;)[&amp;quot;Close&amp;quot;] #下から５つ表示 print(sec_data.tail()) #収益率 sec_return = np.log(sec_data/sec_data.shift(1)) #標準偏差 sec_return_std = sec_return.std() #分散 sec_return_var = sec_return.std()*250**0.5 print(sec_return_std, sec_return_var) # 0.014795688350667528 0.23394037369064727  解説 標準偏差(不偏標準偏差 == np.std(a, ddof=1)) std() 分散 std() * 1年間のマーケット日数 ** 0.5 &amp;lsquo;**&amp;lsquo;は二乗</description>
+    </item>
+    
+    <item>
       <title>マシンラーニングとディープラーニングの違い</title>
       <link>https://busi-base.tk/technology/ml/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
