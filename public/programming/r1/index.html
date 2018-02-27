@@ -1,17 +1,11 @@
-
-
-
-    
-
-
-
-
 <!DOCTYPE HTML>
 
 <html>
     <head>
         
-            <title>Bitcoin - Business base</title>
+            
+                <title>統計Rを使った分析（１）</title>
+            
         
 
         <meta charset="utf-8" />
@@ -22,28 +16,33 @@
 
         
         
+            <meta name="description" content="意識高い系のための就活・キャリア情報ウェブサイト。今熱い仮想通貨から文系のためのプログラミング、新しい就活の形など意識高い大学生">
+        
 
 
-                 <meta name="keyword" content="">
+                 <meta name="keyword" content="[R 金融 トレンド]">
 
 <meta name="twitter:card" content="photo" />
 <meta name="twitter:site" content="@innovative_us" />
 <meta name="twitter:image" content="http://busi-base.tk/images/busilogo.png" />
-<meta name="twitter:description" content="Page(&#34;Bitcoin&#34;)">   
+<meta name="twitter:description" content="Page(&#34;統計Rを使った分析（１）&#34;)">   
 
         <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Bitcoin"/>
-<meta name="twitter:description" content="意識高い系のための就活・キャリア情報ウェブサイト"/>
+<meta name="twitter:title" content="統計Rを使った分析（１）"/>
+<meta name="twitter:description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。"/>
 <meta name="twitter:site" content="@https://twitter.com/innovative_usjp"/>
 
-        <meta property="og:title" content="Bitcoin" />
-<meta property="og:description" content="意識高い系のための就活・キャリア情報ウェブサイト" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://busi-base.tk/tags/bitcoin/" />
+        <meta property="og:title" content="統計Rを使った分析（１）" />
+<meta property="og:description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://busi-base.tk/programming/r1/" />
 
 
 
-<meta property="og:updated_time" content="2018-02-26T00:00:00&#43;00:00"/>
+<meta property="article:published_time" content="2017-11-30T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2017-11-30T00:00:00&#43;00:00"/>
+
 
 
 
@@ -55,9 +54,17 @@
 
 
         
-<meta itemprop="name" content="Bitcoin">
-<meta itemprop="description" content="意識高い系のための就活・キャリア情報ウェブサイト">
+<meta itemprop="name" content="統計Rを使った分析（１）">
+<meta itemprop="description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。">
 
+
+<meta itemprop="datePublished" content="2017-11-30T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-11-30T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="19">
+
+
+
+<meta itemprop="keywords" content="R,金融,トレンド," />
 
         
 
@@ -115,9 +122,10 @@ ga('send', 'pageview');
       <div id="wrapper">
 
     
+    
 <header id="header">
     
-      <h1><a href="/">tags</a></h1>
+      <h1><a href="/">programming</a></h1>
     
 
     <nav class="links">
@@ -163,6 +171,10 @@ ga('send', 'pageview');
     </nav>
     <nav class="main">
         <ul>
+            
+            <li id="share-nav" class="share-menu" style="display:none;">
+                <a class="fa-share-alt" href="#share-menu">Share</a>
+            </li>
             
             <li class="search">
                 <a class="fa-search" href="#search">Search</a>
@@ -266,18 +278,95 @@ ga('send', 'pageview');
         
 </section>
 
+    <section id="share-menu">
+    <section id="social-share-nav">
+        <ul class="links">
+            <header>
+                <h3>Share this post <i class="fa fa-smile-o"></i></h3>
+            </header>
+            
+
+
+<li>
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&text=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+    <i class="fa fa-twitter"></i>
+    <p>Twitter</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn google-plus">
+    <i class="fa fa-google-plus"></i>
+    <p>Google+</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn facebook">
+    <i class="fa fa-facebook"></i>
+    <p>Facebook</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn reddit">
+    <i class="fa fa-reddit-alien"></i>
+    <p>Reddit</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin"></i>
+      <p>LinkedIn</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn stumbleupon">
+    <i class="fa fa-stumbleupon"></i>
+    <p>StumbleUpon</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&description=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn pinterest">
+    <i class="fa fa-pinterest-p"></i>
+    <p>Pinterest</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+    <p>Email</p>
+  </a>
+</li>
+
+        </ul>
+    </section>
+</section>
+
     
     <div id="main">
         
         
-            <article class="post">
+        <article class="post">
   <header>
     <div class="title">
         
-            <h2><a href="/programming/statistics1/">今更ながら加重平均と単純平均の違いって？</a></h2>
+            <h1><a href="/programming/r1/">統計Rを使った分析（１）</a></h1>
+            
         
         
-            <p>プログラミング初学者・文系の方向けに知っておいた方がいいプログラミング知識を扱います。今回は、加重平均と単純平均について。Pythonでコードを動かしながら学んでいきます。</p>
+            <p>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。</p>
         
 
     </div>
@@ -285,8 +374,8 @@ ga('send', 'pageview');
         
 
         <time class="published"
-            datetime='2018-02-26'>
-            February 26, 2018</time>
+            datetime='2017-11-30'>
+            November 30, 2017</time>
         <span class="author"></span>
 
         <p class="sponsored">Content sponsored by</p>
@@ -305,14 +394,130 @@ ga('send', 'pageview');
     </div>
 </header>
 
+
+  
+    <section id="social-share">
+      <ul class="icons">
+        
+
+
+<li>
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&text=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+    <i class="fa fa-twitter"></i>
+    <p>Twitter</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn google-plus">
+    <i class="fa fa-google-plus"></i>
+    <p>Google+</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn facebook">
+    <i class="fa fa-facebook"></i>
+    <p>Facebook</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn reddit">
+    <i class="fa fa-reddit-alien"></i>
+    <p>Reddit</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin"></i>
+      <p>LinkedIn</p>
+    </a>
+</li>
+
+
+<li>
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn stumbleupon">
+    <i class="fa fa-stumbleupon"></i>
+    <p>StumbleUpon</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&description=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn pinterest">
+    <i class="fa fa-pinterest-p"></i>
+    <p>Pinterest</p>
+  </a>
+</li>
+
+
+<li>
+  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+    <p>Email</p>
+  </a>
+</li>
+
+      </ul>
+    </section>
   
 
   
+
+  <div id="content">
+    <p>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。</p>
+
+<p>今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。</p>
+
+<p>スカラー平均</p>
+
+<pre><code>mean
+</code></pre>
+
+<p>ベクトル平均</p>
+
+<pre><code>ave
+</code></pre>
+
+<p>分散</p>
+
+<pre><code>mean((x-ave(x)^2)
+</code></pre>
+
+<p>標準偏差</p>
+
+<pre><code>√mean((x-ave(x)^2)
+</code></pre>
+
+<p>不偏分散</p>
+
+<pre><code>var
+</code></pre>
+
+<p>不偏標準偏差</p>
+
+<pre><code>sd
+</code></pre>
+
+<p>確率分布の乱数発生</p>
+
+<pre><code>rnome(10)
+rnome(100)
+rnome(1000)
+</code></pre>
+
+<p>()内は数</p>
+
+  </div>
+
   <footer>
-    <ul class="actions">
-      <li><a href="/programming/statistics1/" class="button big">Continue Reading</a></li>
-    </ul>
-  <ul class="stats">
+    <ul class="stats">
     
         
 
@@ -333,167 +538,47 @@ ga('send', 'pageview');
 
     
     
-        <li><a href='/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0'>プログラミング</a></li>
+        <li><a href='/categories/statistics'>statistics</a></li>
     
 </ul>
 
   </footer>
+
 </article>
 
-        
-            <article class="post">
-  <header>
-    <div class="title">
-        
-            <h2><a href="/programming/return/">Bitcoinの収益率を対数差分で出して見た。(Python)</a></h2>
-        
-        
-            <p>プログラミング初学者・文系の方向けに知っておいた方がいいプログラミング知識を扱います。今回はBitcoinの2012年からの収益率を求め、それをグラフ化します。</p>
-        
-
-    </div>
-    <div class="meta">
-        
-
-        <time class="published"
-            datetime='2018-02-24'>
-            February 24, 2018</time>
-        <span class="author"></span>
-
-        <p class="sponsored">Content sponsored by</p>
-<script type="text/javascript">
-    google_ad_client = "ca-pub-4907783597381002";
-    google_ad_slot = "1177068737";
-    google_ad_width = 175;
-    google_ad_height = 100;
+    <article class="post">
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "busibase" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 </script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </article>
 
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
 
-       
-        
-    </div>
-</header>
-
-  
-
-  
-  <footer>
-    <ul class="actions">
-      <li><a href="/programming/return/" class="button big">Continue Reading</a></li>
-    </ul>
-  <ul class="stats">
-    
-        
-
-        
-        
-            <li>
-                
-                
-                    
-
-                    
-                        Category
-                    
-                
-            </li>
-        
-    
-
-    
-    
-        <li><a href='/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0'>プログラミング</a></li>
-    
-</ul>
-
-  </footer>
-</article>
-
-        
-            <article class="post">
-  <header>
-    <div class="title">
-        
-            <h2><a href="/programming/var/">株価の基礎的なリターンリスクを算出(Python)</a></h2>
-        
-        
-            <p>プログラミング初学者・文系の方向けに知っておいた方がいいプログラミング知識を扱います。今回は、データセットからFacebookの2年間分の株価データを抜き出し、年間リスクリターンの算出をしていきます。</p>
-        
-
-    </div>
-    <div class="meta">
-        
-
-        <time class="published"
-            datetime='2018-02-24'>
-            February 24, 2018</time>
-        <span class="author"></span>
-
-        <p class="sponsored">Content sponsored by</p>
-<script type="text/javascript">
-    google_ad_client = "ca-pub-4907783597381002";
-    google_ad_slot = "1177068737";
-    google_ad_width = 175;
-    google_ad_height = 100;
-</script>
-
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-
-       
-        
-    </div>
-</header>
-
-  
-
-  
-  <footer>
-    <ul class="actions">
-      <li><a href="/programming/var/" class="button big">Continue Reading</a></li>
-    </ul>
-  <ul class="stats">
-    
-        
-
-        
-        
-            <li>
-                
-                
-                    
-
-                    
-                        Category
-                    
-                
-            </li>
-        
-    
-
-    
-    
-        <li><a href='/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0'>プログラミング</a></li>
-    
-</ul>
-
-  </footer>
-</article>
-
-        
-
-        
 <ul class="actions pagination">
     
-        <li><a href="#" class="disabled button big previous">Previous Page</a></li>
-    
 
     
-        <li><a href="#" class="disabled button big next">Next Page</a></li>
+        <li><a href="/programming/scrap2/"
+                class="button big next">Pythonスクレイピング・クローリング(2) ~CSSセレクタで要素・テキストの抽出~</a></li>
     
 </ul>
+
 
     </div>
     
@@ -520,7 +605,7 @@ ga('send', 'pageview');
       <ul class="icons">
         
           <li>
-            <a href="https://busi-base.tk/tags/bitcoin/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fa fa-rss"></a>
+            <a href="" type="application/rss+xml" target="_blank" title="RSS" class="fa fa-rss"></a>
           </li>
         
         
@@ -681,7 +766,7 @@ ga('send', 'pageview');
       <ul class="icons">
         
           <li>
-            <a href="https://busi-base.tk/tags/bitcoin/index.xml" type="application/rss+xml" target="_blank" title="RSS" class="fa fa-rss"></a>
+            <a href="" type="application/rss+xml" target="_blank" title="RSS" class="fa fa-rss"></a>
           </li>
         
         

@@ -6,10 +6,27 @@
     <description>Recent content in プログラミング on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>今更ながら加重平均と単純平均の違いって？</title>
+      <link>https://busi-base.tk/programming/statistics1/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/statistics1/</guid>
+      <description>今更ながら加重平均と単純平均の違いって？  加重平均 (weighted average)  単純平均の算式に株式数・数量（単位換算の量）等でウエイトすることにより求められる平均価格
+an average resulting from the multiplication of each component by a factor reflecting its importance
+ 単純平均 (simple average)  対象となる銘柄を、それぞれ１株ずつ保有した場合の平均価格
+うーん&amp;hellip;
+これだけじゃよくわからないと思うので、以下の例をご覧ください。
+Now moving on to the example
+ソースコード import numpy as np import pandas as pd import pandas_datareader.data as web import matplotlib.pyplot as plt tickers = &amp;quot;BCHARTS/BITSTAMPUSD&amp;quot; cur_data = web.DataReader(tickers, &#39;quandl&#39;, &#39;2018-02-23&#39;, &#39;2018-02-26&#39;)[[&amp;quot;Close&amp;quot;, &amp;quot;VolumeCurrency&amp;quot;]]  
+quandle APIを使用して、4日間のビットコイン価格を取得します。
+Using quandle API, Let&amp;rsquo;s get the bitcoin data for 4 days I randomly select.</description>
+    </item>
     
     <item>
       <title>Bitcoinの収益率を対数差分で出して見た。(Python)</title>
