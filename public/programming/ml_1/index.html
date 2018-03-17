@@ -4,7 +4,7 @@
     <head>
         
             
-                <title>統計Rを使った分析（１）</title>
+                <title>Business base</title>
             
         
 
@@ -16,32 +16,57 @@
 
         
         
-            <meta name="description" content="意識高い系のための就活・キャリア情報ウェブサイト。今熱い仮想通貨から文系のためのプログラミング、新しい就活の形など意識高い大学生">
-        
 
 
-                 <meta name="keyword" content="[R 金融 トレンド]">
+                 <meta name="keyword" content="">
 
 <meta name="twitter:card" content="photo" />
 <meta name="twitter:site" content="@innovative_us" />
 <meta name="twitter:image" content="http://busi-base.tk/images/busilogo.png" />
-<meta name="twitter:description" content="Page(&#34;統計Rを使った分析（１）&#34;)">   
+<meta name="twitter:description" content="Page(&#34;&#34;)">   
 
         <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="統計Rを使った分析（１）"/>
-<meta name="twitter:description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。"/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="本日は機械学習第1回!
+その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
+「???」
+ですよね。まあ順に見ていきましょう。
+例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
+データを取りますよね。これがまず最初の行程。
+でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
+これを取り除くのが行程2。
+そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
+つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
+みたいな感じですかね！
+とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
+データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib."/>
 <meta name="twitter:site" content="@https://twitter.com/innovative_usjp"/>
 
-        <meta property="og:title" content="統計Rを使った分析（１）" />
-<meta property="og:description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。" />
+        <meta property="og:title" content="" />
+<meta property="og:description" content="本日は機械学習第1回!
+その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
+「???」
+ですよね。まあ順に見ていきましょう。
+例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
+データを取りますよね。これがまず最初の行程。
+でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
+これを取り除くのが行程2。
+そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
+つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
+みたいな感じですかね！
+とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
+データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://busi-base.tk/programming/r1/" />
+<meta property="og:url" content="https://busi-base.tk/programming/ml_1/" />
 
 
 
-<meta property="article:published_time" content="2017-11-30T00:00:00&#43;00:00"/>
 
-<meta property="article:modified_time" content="2017-11-30T00:00:00&#43;00:00"/>
+
 
 
 
@@ -54,17 +79,30 @@
 
 
         
-<meta itemprop="name" content="統計Rを使った分析（１）">
-<meta itemprop="description" content="今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。">
+<meta itemprop="name" content="">
+<meta itemprop="description" content="本日は機械学習第1回!
+その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
+「???」
+ですよね。まあ順に見ていきましょう。
+例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
+データを取りますよね。これがまず最初の行程。
+でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
+これを取り除くのが行程2。
+そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
+つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
+みたいな感じですかね！
+とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
+データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.">
 
 
-<meta itemprop="datePublished" content="2017-11-30T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2017-11-30T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="19">
+
+<meta itemprop="wordCount" content="198">
 
 
 
-<meta itemprop="keywords" content="R,金融,トレンド," />
+<meta itemprop="keywords" content="" />
 
         
 
@@ -288,7 +326,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&text=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
     </a>
@@ -296,7 +334,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn google-plus">
+  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn google-plus">
     <i class="fa fa-google-plus"></i>
     <p>Google+</p>
   </a>
@@ -304,7 +342,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn facebook">
+  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn facebook">
     <i class="fa fa-facebook"></i>
     <p>Facebook</p>
     </a>
@@ -312,7 +350,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn reddit">
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
   </a>
@@ -320,7 +358,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn linkedin">
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn linkedin">
       <i class="fa fa-linkedin"></i>
       <p>LinkedIn</p>
     </a>
@@ -328,7 +366,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn stumbleupon">
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
   </a>
@@ -336,7 +374,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&description=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn pinterest">
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=" target="_blank" class="share-btn pinterest">
     <i class="fa fa-pinterest-p"></i>
     <p>Pinterest</p>
   </a>
@@ -344,7 +382,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn email">
+  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn email">
     <i class="fa fa-envelope"></i>
     <p>Email</p>
   </a>
@@ -362,11 +400,9 @@ ga('send', 'pageview');
   <header>
     <div class="title">
         
-            <h1><a href="/programming/r1/">統計Rを使った分析（１）</a></h1>
+            <h1><a href="/programming/ml_1/"></a></h1>
             
         
-        
-            <p>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。</p>
         
 
     </div>
@@ -374,8 +410,8 @@ ga('send', 'pageview');
         
 
         <time class="published"
-            datetime='2017-11-30'>
-            November 30, 2017</time>
+            datetime='0001-01-01'>
+            January 1, 0001</time>
         <span class="author"></span>
 
         <p class="sponsored">Content sponsored by</p>
@@ -402,7 +438,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&text=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
     </a>
@@ -410,7 +446,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn google-plus">
+  <a href="//plus.google.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn google-plus">
     <i class="fa fa-google-plus"></i>
     <p>Google+</p>
   </a>
@@ -418,7 +454,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn facebook">
+  <a href="//www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn facebook">
     <i class="fa fa-facebook"></i>
     <p>Facebook</p>
     </a>
@@ -426,7 +462,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn reddit">
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
   </a>
@@ -434,7 +470,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn linkedin">
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn linkedin">
       <i class="fa fa-linkedin"></i>
       <p>LinkedIn</p>
     </a>
@@ -442,7 +478,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&title=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn stumbleupon">
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
   </a>
@@ -450,7 +486,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f&description=%e7%b5%b1%e8%a8%88R%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%9f%e5%88%86%e6%9e%90%ef%bc%88%ef%bc%91%ef%bc%89" target="_blank" class="share-btn pinterest">
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=" target="_blank" class="share-btn pinterest">
     <i class="fa fa-pinterest-p"></i>
     <p>Pinterest</p>
   </a>
@@ -458,7 +494,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fr1%2f" target="_blank" class="share-btn email">
+  <a href="mailto:?subject=Check out this post by &body=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f" target="_blank" class="share-btn email">
     <i class="fa fa-envelope"></i>
     <p>Email</p>
   </a>
@@ -471,74 +507,203 @@ ga('send', 'pageview');
   
 
   <div id="content">
-    <p>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。</p>
+    
 
-<p>今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。</p>
+<p>本日は機械学習第1回!</p>
 
-<p>スカラー平均</p>
+<h3 id="その1-前処理-preprocessing">その1 前処理 Preprocessing</h3>
 
-<pre><code>mean
+<p>機械学習において、データの前処理は重要です。</p>
+
+<p>そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。</p>
+
+<p>「???」</p>
+
+<p>ですよね。まあ順に見ていきましょう。</p>
+
+<p>例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？</p>
+
+<p>データを取りますよね。これがまず最初の行程。</p>
+
+<p>でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。</p>
+
+<p>これを取り除くのが行程2。</p>
+
+<p>そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。</p>
+
+<p>つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」</p>
+
+<p>みたいな感じですかね！</p>
+
+<p>とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！</p>
+
+<h3 id="データの読み込み">データの読み込み</h3>
+
+<p>ここからはコードで解説。こんな感じのデータ読み込んでいきます。</p>
+
+<table>
+<thead>
+<tr>
+<th>Country</th>
+<th>Age</th>
+<th>Salary</th>
+<th>Purchased</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>japan</td>
+<td>44</td>
+<td>29000</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>us</td>
+<td>50</td>
+<td>48000</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>uk</td>
+<td>40</td>
+<td>62000</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>Spain</td>
+<td>38</td>
+<td>91000</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>japan</td>
+<td>80</td>
+<td>nan</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>France</td>
+<td>35</td>
+<td>58000</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>uk</td>
+<td>nan</td>
+<td>81000</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>France</td>
+<td>27</td>
+<td>79000</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td>us</td>
+<td>50</td>
+<td>80000</td>
+<td>No</td>
+</tr>
+
+<tr>
+<td>mexico</td>
+<td>48</td>
+<td>67000</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+
+<pre><code># import modules
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# data import 
+
+dataset = pd.read_csv(&quot;Data.csv&quot;)
+x = dataset.iloc[:, :-1].values
+y = dataset.iloc[:, 3].values
 </code></pre>
 
-<p>ベクトル平均</p>
+<p>iloc関数ですが、データから指定した行・列を取得する関数です。</p>
 
-<pre><code>ave
+<pre><code>iloc[row, column]
 </code></pre>
 
-<p>分散</p>
+<p>ですのでこの場合、xは「最後から１つ目を除いた列を全て除いて取得」、yは「4列目だけ取得」となります。</p>
 
-<pre><code>mean((x-ave(x)^2)
+<p>注意して欲しいのですが、最初は0から数えるので、４列目を選択する場合は「3」とします。</p>
+
+<h3 id="missing-data">Missing data</h3>
+
+<p>データののなかに「nan」がありますね。データはこのままだと処理できないので、これを少し変えます。</p>
+
+<p>基本的に、この欠損値は、他のデータを平均したもので補います。</p>
+
+<pre><code>from sklearn.preprocessing import Imputer
+imputer = Imputer(missing_values = &quot;NaN&quot;, strategy = &quot;mean&quot;, axis = 0)
+imputer = imputer.fit(x[:, 1:3])
+x[:,1:3] = imputer.transform(x[:, 1:3])
 </code></pre>
 
-<p>標準偏差</p>
+<p>&ldquo;Imputer&rdquo;というモジュールを使い、欠損の部分に平均を当てはめます。</p>
 
-<pre><code>√mean((x-ave(x)^2)
+<pre><code>[['japan' 44.0 29000.0]
+['us' 50.0 48000.0]
+['uk' 40.0 62000.0]
+['Spain' 38.0 91000.0]
+['japan' 80.0 66111.11111111111]
+['France' 35.0 58000.0]
+['uk' 45.77777777777778 81000.0]
+['France' 27.0 79000.0]
+['us' 50.0 80000.0]
+['mexico' 48.0 67000.0]]
 </code></pre>
 
-<p>不偏分散</p>
+<p>欠損の部分に、平均値が入りました。</p>
 
-<pre><code>var
+<h3 id="文字列を数値に">文字列を数値に</h3>
+
+<p>基本的に、機械学習を行う際にはデータは全て数字として表します。japanとかfranceとか、ここでは文字として表されていますが、これらも数字で表さなければなりません。</p>
+
+<p>ここに関しては流れ作業でいいので、コードで覚えましょう。</p>
+
+<pre><code>from sklearn.preprocessing import LabelEncoder, OneHotEncoder
+labelencoder_x = LabelEncoder()
+x[:,0] = labelencoder_x.fit_transform(x[:, 0])
+
+### avoiding the feature of the number
+onehotencoder = OneHotEncoder(categorical_features = [0])
+x = onehotencoder.fit_transform(x[:,1:3]).toarray()
+
+labelencoder_y = LabelEncoder()
+y = labelencoder_y.fit_transform(y)
 </code></pre>
 
-<p>不偏標準偏差</p>
+<h3 id="テストデータとトレーニングデータを分ける">テストデータとトレーニングデータを分ける</h3>
 
-<pre><code>sd
-</code></pre>
+<p>次はデータの中でも練習問題と応用問題にわける作業を行います。</p>
 
-<p>確率分布の乱数発生</p>
-
-<pre><code>rnome(10)
-rnome(100)
-rnome(1000)
-</code></pre>
-
-<p>()内は数</p>
+<p>少し長くなってしまったので、続きはまた続編で！</p>
 
   </div>
 
   <footer>
     <ul class="stats">
     
-        
-
-        
-        
-            <li>
-                
-                
-                    
-
-                    
-                        Category
-                    
-                
-            </li>
-        
-    
 
     
-    
-        <li><a href='/categories/statistics'>statistics</a></li>
     
 </ul>
 
@@ -572,13 +737,10 @@ rnome(1000)
 
 <ul class="actions pagination">
     
-        <li><a href="/programming/ml_1/"
-                class="button big previous"></a></li>
-    
 
     
-        <li><a href="/programming/scrap2/"
-                class="button big next">Pythonスクレイピング・クローリング(2) ~CSSセレクタで要素・テキストの抽出~</a></li>
+        <li><a href="/programming/r1/"
+                class="button big next">統計Rを使った分析（１）</a></li>
     
 </ul>
 
