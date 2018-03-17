@@ -4,7 +4,7 @@
     <head>
         
             
-                <title>Business base</title>
+                <title>Pythonで機械学習！第一回</title>
             
         
 
@@ -16,57 +16,32 @@
 
         
         
+            <meta name="description" content="意識高い系のための就活・キャリア情報ウェブサイト。今熱い仮想通貨から文系のためのプログラミング、新しい就活の形など意識高い大学生">
+        
 
 
-                 <meta name="keyword" content="">
+                 <meta name="keyword" content="[マシンラーニング ディープラーニング AI]">
 
 <meta name="twitter:card" content="photo" />
 <meta name="twitter:site" content="@innovative_us" />
 <meta name="twitter:image" content="http://busi-base.tk/images/busilogo.png" />
-<meta name="twitter:description" content="Page(&#34;&#34;)">   
+<meta name="twitter:description" content="Page(&#34;Pythonで機械学習！第一回&#34;)">   
 
         <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
-そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
-「???」
-ですよね。まあ順に見ていきましょう。
-例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
-データを取りますよね。これがまず最初の行程。
-でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
-これを取り除くのが行程2。
-そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
-つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
-みたいな感じですかね！
-とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
-   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib."/>
+<meta name="twitter:title" content="Pythonで機械学習！第一回"/>
+<meta name="twitter:description" content="文系のためのプログラミング学習。今日は機械学習の第一回、前処理を行います。"/>
 <meta name="twitter:site" content="@https://twitter.com/innovative_usjp"/>
 
-        <meta property="og:title" content="" />
-<meta property="og:description" content="本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
-そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
-「???」
-ですよね。まあ順に見ていきましょう。
-例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
-データを取りますよね。これがまず最初の行程。
-でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
-これを取り除くのが行程2。
-そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
-つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
-みたいな感じですかね！
-とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
-   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib." />
+        <meta property="og:title" content="Pythonで機械学習！第一回" />
+<meta property="og:description" content="文系のためのプログラミング学習。今日は機械学習の第一回、前処理を行います。" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://busi-base.tk/programming/ml_1/" />
 
 
 
+<meta property="article:published_time" content="2018-02-23T00:00:00&#43;00:00"/>
 
-
+<meta property="article:modified_time" content="2018-02-23T00:00:00&#43;00:00"/>
 
 
 
@@ -79,30 +54,17 @@
 
 
         
-<meta itemprop="name" content="">
-<meta itemprop="description" content="本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
-そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
-「???」
-ですよね。まあ順に見ていきましょう。
-例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
-データを取りますよね。これがまず最初の行程。
-でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
-これを取り除くのが行程2。
-そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
-つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
-みたいな感じですかね！
-とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
-   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.">
+<meta itemprop="name" content="Pythonで機械学習！第一回">
+<meta itemprop="description" content="文系のためのプログラミング学習。今日は機械学習の第一回、前処理を行います。">
 
 
-
+<meta itemprop="datePublished" content="2018-02-23T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-02-23T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="198">
 
 
 
-<meta itemprop="keywords" content="" />
+<meta itemprop="keywords" content="マシンラーニング,ディープラーニング,AI," />
 
         
 
@@ -326,7 +288,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
     </a>
@@ -350,7 +312,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn reddit">
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
   </a>
@@ -358,7 +320,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn linkedin">
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn linkedin">
       <i class="fa fa-linkedin"></i>
       <p>LinkedIn</p>
     </a>
@@ -366,7 +328,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn stumbleupon">
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
   </a>
@@ -374,7 +336,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=" target="_blank" class="share-btn pinterest">
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn pinterest">
     <i class="fa fa-pinterest-p"></i>
     <p>Pinterest</p>
   </a>
@@ -400,9 +362,11 @@ ga('send', 'pageview');
   <header>
     <div class="title">
         
-            <h1><a href="/programming/ml_1/"></a></h1>
+            <h1><a href="/programming/ml_1/">Pythonで機械学習！第一回</a></h1>
             
         
+        
+            <p>文系のためのプログラミング学習。今日は機械学習の第一回、前処理を行います。</p>
         
 
     </div>
@@ -410,8 +374,8 @@ ga('send', 'pageview');
         
 
         <time class="published"
-            datetime='0001-01-01'>
-            January 1, 0001</time>
+            datetime='2018-02-23'>
+            February 23, 2018</time>
         <span class="author"></span>
 
         <p class="sponsored">Content sponsored by</p>
@@ -438,7 +402,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
+  <a href="//twitter.com/share?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&text=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e&via=https%3a%2f%2ftwitter.com%2finnovative_usjp" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
     </a>
@@ -462,7 +426,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn reddit">
+  <a href="//reddit.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
   </a>
@@ -470,7 +434,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn linkedin">
+  <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn linkedin">
       <i class="fa fa-linkedin"></i>
       <p>LinkedIn</p>
     </a>
@@ -478,7 +442,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=" target="_blank" class="share-btn stumbleupon">
+  <a href="//www.stumbleupon.com/submit?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&title=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
   </a>
@@ -486,7 +450,7 @@ ga('send', 'pageview');
 
 
 <li>
-  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=" target="_blank" class="share-btn pinterest">
+  <a href="//www.pinterest.com/pin/create/button/?url=https%3a%2f%2fbusi-base.tk%2fprogramming%2fml_1%2f&description=Python%e3%81%a7%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92%ef%bc%81%e7%ac%ac%e4%b8%80%e5%9b%9e" target="_blank" class="share-btn pinterest">
     <i class="fa fa-pinterest-p"></i>
     <p>Pinterest</p>
   </a>
@@ -702,8 +666,26 @@ y = labelencoder_y.fit_transform(y)
   <footer>
     <ul class="stats">
     
+        
+
+        
+        
+            <li>
+                
+                
+                    
+
+                    
+                        Category
+                    
+                
+            </li>
+        
+    
 
     
+    
+        <li><a href='/categories/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC'>テクノロジー</a></li>
     
 </ul>
 
@@ -737,10 +719,13 @@ y = labelencoder_y.fit_transform(y)
 
 <ul class="actions pagination">
     
+        <li><a href="/programming/scrap1/"
+                class="button big previous">Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</a></li>
+    
 
     
-        <li><a href="/programming/r1/"
-                class="button big next">統計Rを使った分析（１）</a></li>
+        <li><a href="/programming/var/"
+                class="button big next">株価の基礎的なリターンリスクを算出(Python)</a></li>
     
 </ul>
 

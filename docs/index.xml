@@ -47,6 +47,29 @@ Using quandle API, Let&amp;rsquo;s get the bitcoin data for 4 days I randomly se
     </item>
     
     <item>
+      <title>Pythonで機械学習！第一回</title>
+      <link>https://busi-base.tk/programming/ml_1/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/ml_1/</guid>
+      <description>本日は機械学習第1回!
+その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
+「???」
+ですよね。まあ順に見ていきましょう。
+例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
+データを取りますよね。これがまず最初の行程。
+でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
+これを取り除くのが行程2。
+そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
+つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
+みたいな感じですかね！
+とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
+データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.</description>
+    </item>
+    
+    <item>
       <title>マシンラーニングとディープラーニングの違い</title>
       <link>https://busi-base.tk/technology/ml/</link>
       <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
@@ -395,29 +418,6 @@ Siaは、2015年6月に開始されたブロックチェーンベースのクラ
 Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
 Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
 プライスチャート  Register HitBTC  Tweets by Twitch  Register HitBTC</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://busi-base.tk/programming/ml_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/ml_1/</guid>
-      <description>本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
-そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
-「???」
-ですよね。まあ順に見ていきましょう。
-例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
-データを取りますよね。これがまず最初の行程。
-でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
-これを取り除くのが行程2。
-そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
-つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
-みたいな感じですかね！
-とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
-   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.</description>
     </item>
     
     <item>
