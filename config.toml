@@ -96,7 +96,7 @@ description = "エンジニアとビジネスサイドをつなぐロンドン�
 
 
 [[menu.main]]
-  name = "database"
+  name = "startups"
   url = "/database/"
   identifier = "fa fa-list"
   weight = 5
