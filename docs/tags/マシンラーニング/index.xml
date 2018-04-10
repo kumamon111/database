@@ -6,7 +6,7 @@
     <description>Recent content in マシンラーニング on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/tags/%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,11 +14,11 @@
     <item>
       <title>Pythonで機械学習！第一回</title>
       <link>https://busi-base.tk/programming/ml_1/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://busi-base.tk/programming/ml_1/</guid>
       <description>本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+1. 前処理 Preprocessing 機械学習において、データの前処理は重要です。
 そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
 「???」
 ですよね。まあ順に見ていきましょう。
@@ -30,7 +30,8 @@
 つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
 みたいな感じですかね！
 とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+
+2. データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
    Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.</description>
     </item>
     

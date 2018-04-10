@@ -77,5 +77,8 @@ Trackingによるキーフレームの追加によって、特徴点を三角法
 <iframe width="80%" height="409" src="https://www.youtube.com/embed/NMFsEpVppZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 参照: http://www.morphoinc.com/technology/vslam
+</br>
 参照: https://kaigi.org/jsai/webprogram/2014/pdf/269.pdf
+
+<script type="text/javascript">amzn_assoc_ad_type ="responsive_search_widget"; amzn_assoc_tracking_id ="kumamon10a-22"; amzn_assoc_marketplace ="amazon"; amzn_assoc_region ="JP"; amzn_assoc_placement =""; amzn_assoc_search_type = "search_widget";amzn_assoc_width ="auto"; amzn_assoc_height ="auto"; amzn_assoc_default_search_category =""; amzn_assoc_default_search_key ="SLAM";amzn_assoc_theme ="light"; amzn_assoc_bg_color ="FFFFFF"; </script><script src="//z-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&Marketplace=JP"></script>
 

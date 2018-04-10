@@ -39,9 +39,9 @@
 
 
 
-<meta property="article:published_time" content="2018-02-23T00:00:00&#43;00:00"/>
+<meta property="article:published_time" content="2018-03-16T00:00:00&#43;00:00"/>
 
-<meta property="article:modified_time" content="2018-02-23T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2018-03-16T00:00:00&#43;00:00"/>
 
 
 
@@ -58,9 +58,9 @@
 <meta itemprop="description" content="文系のためのプログラミング学習。今日は機械学習の第一回、前処理を行います。">
 
 
-<meta itemprop="datePublished" content="2018-02-23T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2018-02-23T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="198">
+<meta itemprop="datePublished" content="2018-03-16T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-03-16T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="359">
 
 
 
@@ -150,8 +150,8 @@ ga('send', 'pageview');
                 </li>
             
                 <li>
-                    <a href="https://busi-job.tk">
-                            <i class="fa fa-edit">&nbsp;</i>job
+                    <a href="http://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/">
+                            <i class="fa fa-edit">&nbsp;</i>english
                     </a>
                 </li>
             
@@ -230,9 +230,9 @@ ga('send', 'pageview');
                     </li>
                 
                     <li>
-                        <a href="https://busi-job.tk">
+                        <a href="http://context.reverso.net/%E7%BF%BB%E8%A8%B3/%E8%8B%B1%E8%AA%9E-%E6%97%A5%E6%9C%AC%E8%AA%9E/">
                             <h3>
-                                <i class="fa fa-edit">&nbsp;</i>job
+                                <i class="fa fa-edit">&nbsp;</i>english
                             </h3>
                         </a>
                     </li>
@@ -374,8 +374,8 @@ ga('send', 'pageview');
         
 
         <time class="published"
-            datetime='2018-02-23'>
-            February 23, 2018</time>
+            datetime='2018-03-16'>
+            March 16, 2018</time>
         <span class="author"></span>
 
         <p class="sponsored">Content sponsored by</p>
@@ -475,7 +475,7 @@ ga('send', 'pageview');
 
 <p>本日は機械学習第1回!</p>
 
-<h3 id="その1-前処理-preprocessing">その1 前処理 Preprocessing</h3>
+<h3 id="1-前処理-preprocessing">1. 前処理 Preprocessing</h3>
 
 <p>機械学習において、データの前処理は重要です。</p>
 
@@ -501,7 +501,9 @@ ga('send', 'pageview');
 
 <p>とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！</p>
 
-<h3 id="データの読み込み">データの読み込み</h3>
+<p></br></p>
+
+<h3 id="2-データの読み込み">2. データの読み込み</h3>
 
 <p>ここからはコードで解説。こんな感じのデータ読み込んでいきます。</p>
 
@@ -609,7 +611,9 @@ y = dataset.iloc[:, 3].values
 
 <p>注意して欲しいのですが、最初は0から数えるので、４列目を選択する場合は「3」とします。</p>
 
-<h3 id="missing-data">Missing data</h3>
+<p></br></p>
+
+<h3 id="3-missing-data">3. Missing data</h3>
 
 <p>データののなかに「nan」がありますね。データはこのままだと処理できないので、これを少し変えます。</p>
 
@@ -637,7 +641,9 @@ x[:,1:3] = imputer.transform(x[:, 1:3])
 
 <p>欠損の部分に、平均値が入りました。</p>
 
-<h3 id="文字列を数値に">文字列を数値に</h3>
+<p></br></p>
+
+<h3 id="4-文字列を数値に">4. 文字列を数値に</h3>
 
 <p>基本的に、機械学習を行う際にはデータは全て数字として表します。japanとかfranceとか、ここでは文字として表されていますが、これらも数字で表さなければなりません。</p>
 
@@ -655,11 +661,67 @@ labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
 </code></pre>
 
-<h3 id="テストデータとトレーニングデータを分ける">テストデータとトレーニングデータを分ける</h3>
+<p>注意すべきは、一点です。</p>
+
+<p>x, y の処理の違いに気づいたでしょうか。</p>
+
+<p>xは、「LabelEncoder」「OneHotEncoder」</p>
+
+<p>yは、「LabelEncoder」のみを使っています。</p>
+
+<p>理由は簡単です。OneHotEncoderは、数字をダミー関数に変えます。</p>
+
+<p>どういうことでしょうか。</p>
+
+<p>今、Xを見ると</p>
+
+<pre><code> [2 44.0 29000.0]
+ [5 50.0 48000.0]
+ [4 40.0 62000.0]
+ [1 38.0 91000.0]
+ [2 80.0 66111.11111111111]
+ [0 35.0 58000.0]
+ [4 45.77777777777778 81000.0]
+ [0 27.0 79000.0]
+ [5 50.0 80000.0]
+ [3 48.0 67000.0]
+</code></pre>
+
+<p>この一番最初の列の[1,2,3,4,5,&hellip;]は、ダウンロードしたデータの国名を数字に変えたものです。</p>
+
+<p>ここでどんな問題が考えられるでしょうか。簡単です。</p>
+
+<p>コンピューターがこれを大小で考えてしまうのです。</p>
+
+<p>しかし、この数字はあくまで記号であって、数字としての意味をなすべきものではありません。</p>
+
+<p>だからこれをダミーとして扱うために「OneHotEncoder」を使い、このように数字を記号にします。</p>
+
+<pre><code>0   0   0   0   1   0   0   0   0
+0   0   0   0   0   0   0   1   0
+0   0   0   1   0   0   0   0   0
+0   0   1   0   0   0   0   0   0
+0   0   0   0   0   0   0   0   1
+0   1   0   0   0   0   0   0   0
+0   0   0   0   0   1   0   0   0
+1   0   0   0   0   0   0   0   0
+0   0   0   0   0   0   0   1   0
+0   0   0   0   0   0   1   0   0
+</code></pre>
+
+<p></br></p>
+
+<h3 id="5-テストデータとトレーニングデータを分ける">5. テストデータとトレーニングデータを分ける</h3>
 
 <p>次はデータの中でも練習問題と応用問題にわける作業を行います。</p>
 
 <p>少し長くなってしまったので、続きはまた続編で！</p>
+
+<p><br/></p>
+
+<script type="text/javascript">amzn_assoc_ad_type ="responsive_search_widget"; amzn_assoc_tracking_id ="kumamon10a-22"; amzn_assoc_marketplace ="amazon"; amzn_assoc_region ="JP"; amzn_assoc_placement =""; amzn_assoc_search_type = "search_widget";amzn_assoc_width ="auto"; amzn_assoc_height ="auto"; amzn_assoc_default_search_category =""; amzn_assoc_default_search_key ="機械学習";amzn_assoc_theme ="light"; amzn_assoc_bg_color ="FFFFFF"; </script><script src="//z-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&Marketplace=JP"></script>
+
+<p><br/></p>
 
   </div>
 
@@ -719,13 +781,10 @@ y = labelencoder_y.fit_transform(y)
 
 <ul class="actions pagination">
     
-        <li><a href="/programming/scrap1/"
-                class="button big previous">Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</a></li>
+        <li><a href="/programming/statistics1/"
+                class="button big previous">今更ながら加重平均と単純平均の違いって？</a></li>
     
 
-    
-        <li><a href="/programming/var/"
-                class="button big next">株価の基礎的なリターンリスクを算出(Python)</a></li>
     
 </ul>
 
@@ -745,7 +804,7 @@ y = labelencoder_y.fit_transform(y)
     
       <header>
         <h2>Business Base</h2>
-        <p>大学生のためのキャリア情報サイト</p>
+        <p>エンジニアとビジネスサイド二刀流</p>
       </header>
     
 
@@ -892,21 +951,19 @@ y = labelencoder_y.fit_transform(y)
     </div>
   </section>
 
-<a href="https://coincheck.com/?c=tsysEEEWmUI" target="_blank"><img src="https://coincheck.com/images/affiliates/05_cc_banner_250x250.png" alt="ビットコイン取引高日本一の仮想通貨取引所 coincheck bitcoin"></a>
+  <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=musicunlimited&banner=1N4FRQAP1QNFYHSFBK02&f=ifr&linkID=e09ac279aabaad5144658c5644846953&t=kumamon10a-22&tracking_id=kumamon10a-22" width="80%" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+  <iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?o=9&p=12&l=ur1&category=amazonstudent&banner=09028NTWEEQWX1H30B82&f=ifr&linkID=0e6f9f849fbc7d90fa43bde1343cf471&t=kumamon10a-22&tracking_id=kumamon10a-22" width="80%" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+  <script type="text/javascript">amzn_assoc_ad_type ="responsive_search_widget"; amzn_assoc_tracking_id ="kumamon10a-22"; amzn_assoc_marketplace ="amazon"; amzn_assoc_region ="JP"; amzn_assoc_placement =""; amzn_assoc_search_type = "search_widget";amzn_assoc_width ="auto"; amzn_assoc_height ="auto"; amzn_assoc_default_search_category =""; amzn_assoc_default_search_key ="機械学習";amzn_assoc_theme ="light"; amzn_assoc_bg_color ="FFFFFF"; </script><script src="//z-fe.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&Marketplace=JP"></script>
 
   
   
     <section id="mini-bio">
       <h3>About</h1>
-      <p>  意識高い系のための意識高い系による意識高い情報サイト。今日も意識高く効率的に生きていこう。
-  <p>他サイト</p>
-  <a href="http://busi-scraping.tk">http://busi-scraping.tk</a>
-  <p>リスト作成サービス</p><a href="http://busi-job.tk">http://busi-job.tk</a><p>ハイクラスポジションデータベース</p>
-  <a href="https://line.me/R/ti/p/%40rno5728s"><img height="36" border="0" alt="友だち追加" src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png"></a></br>
-  
-  
+      <p>  エンジニアとビジネスサイドをつなぐロンドン橋。ビジネスサイドが置いて行かれないようにエンジニアリングを噛み砕くサイト。ちょっとスタートアップ。
   </p>
-      <a href="http://busi-hunt.tk" class="button">Learn More</a>
+      <a href="https://twitter.com/intent/tweet?screen_name=innovative_usjp&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @innovative_usjp</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a class="twitter-timeline" href="https://twitter.com/innovative_usjp?ref_src=twsrc%5Etfw">Tweets by innovative_usjp</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      <a href="" class="button">Learn More</a>
     </section>
   
 

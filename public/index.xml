@@ -6,10 +6,34 @@
     <description>Recent content on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pythonで機械学習！第一回</title>
+      <link>https://busi-base.tk/programming/ml_1/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/ml_1/</guid>
+      <description>本日は機械学習第1回!
+1. 前処理 Preprocessing 機械学習において、データの前処理は重要です。
+そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
+「???」
+ですよね。まあ順に見ていきましょう。
+例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
+データを取りますよね。これがまず最初の行程。
+でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
+これを取り除くのが行程2。
+そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
+つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
+みたいな感じですかね！
+とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
+
+2. データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
+   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.</description>
+    </item>
     
     <item>
       <title>今更ながら加重平均と単純平均の違いって？</title>
@@ -44,29 +68,6 @@ Using quandle API, Let&amp;rsquo;s get the bitcoin data for 4 days I randomly se
       
       <guid>https://busi-base.tk/programming/var/</guid>
       <description>コード例 import numpy as np import pandas as pd import pandas_datareader.data as web # define stock that you take ticker = [&amp;quot;FB&amp;quot;] # web.DataReader(取得したい銘柄, どこから取得するか, いつから始めるか) sec_data = web.DataReader(ticker, data_source=&amp;quot;morningstar&amp;quot;, start=&amp;quot;2016-1-1&amp;quot;)[&amp;quot;Close&amp;quot;] #下から５つ表示 print(sec_data.tail()) #収益率 sec_return = np.log(sec_data/sec_data.shift(1)) #標準偏差 sec_return_std = sec_return.std() #分散 sec_return_var = sec_return.std()*250**0.5 print(sec_return_std, sec_return_var) # 0.014795688350667528 0.23394037369064727  解説 標準偏差(不偏標準偏差 == np.std(a, ddof=1)) std() 分散 std() * 1年間のマーケット日数 ** 0.5 &amp;lsquo;**&amp;lsquo;は二乗</description>
-    </item>
-    
-    <item>
-      <title>Pythonで機械学習！第一回</title>
-      <link>https://busi-base.tk/programming/ml_1/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/ml_1/</guid>
-      <description>本日は機械学習第1回!
-その1 前処理 Preprocessing 機械学習において、データの前処理は重要です。
-そもそも前処理って何？っていう人も多いとは思いますが、料理で言う所の「焼き芋を蒸すまでのプロセス」です。
-「???」
-ですよね。まあ順に見ていきましょう。
-例えば、「チョコレートの新商品を売りたい」っていうマーケターがいたとします。まず何をしますか？
-データを取りますよね。これがまず最初の行程。
-でも集めてきたデータだってそんなに万能なわけじゃない。欠損してる値とか外れ値とかもある。
-これを取り除くのが行程2。
-そして最後にデータの全てをコンピューターが読み込める形にする。これが行程3。
-つまり、「美味しいさつまいもの選定 → 野菜ですからたまーに腐ってるとこもあるのでそこを切る → さつまいもは大きいですから小さい鍋の大きさに材料を切って入れる」
-みたいな感じですかね！
-とまあ例に困りましたが、大丈夫です。具体的にナロウダウンしたいと思います！
-データの読み込み ここからはコードで解説。こんな感じのデータ読み込んでいきます。
-   Country Age Salary Purchased     japan 44 29000 No   us 50 48000 Yes   uk 40 62000 No   Spain 38 91000 No   japan 80 nan Yes   France 35 58000 Yes   uk nan 81000 No   France 27 79000 Yes   us 50 80000 No   mexico 48 67000 Yes    # import modules import numpy as np import pandas as pd import matplotlib.</description>
     </item>
     
     <item>
@@ -324,7 +325,8 @@ mean((x-ave(x)^2)  標準偏差
 √mean((x-ave(x)^2)  不偏分散
 var  不偏標準偏差
 sd  確率分布の乱数発生
-rnome(10) rnome(100) rnome(1000)  ()内は数</description>
+rnome(10) rnome(100) rnome(1000)  ()内は数
+amzn_assoc_ad_type =&#34;responsive_search_widget&#34;; amzn_assoc_tracking_id =&#34;kumamon10a-22&#34;; amzn_assoc_marketplace =&#34;amazon&#34;; amzn_assoc_region =&#34;JP&#34;; amzn_assoc_placement =&#34;&#34;; amzn_assoc_search_type = &#34;search_widget&#34;;amzn_assoc_width =&#34;auto&#34;; amzn_assoc_height =&#34;auto&#34;; amzn_assoc_default_search_category =&#34;&#34;; amzn_assoc_default_search_key =&#34;統計R&#34;;amzn_assoc_theme =&#34;light&#34;; amzn_assoc_bg_color =&#34;FFFFFF&#34;;  </description>
     </item>
     
     <item>
