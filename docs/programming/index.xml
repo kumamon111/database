@@ -71,29 +71,11 @@ Using quandle API, Let&amp;rsquo;s get the bitcoin data for 4 days I randomly se
     </item>
     
     <item>
-      <title>Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</title>
-      <link>https://busi-base.tk/programming/scrap1/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/scrap1/</guid>
-      <description> amzn_assoc_ad_type =&#34;responsive_search_widget&#34;; amzn_assoc_tracking_id =&#34;kumamon10a-22&#34;; amzn_assoc_marketplace =&#34;amazon&#34;; amzn_assoc_region =&#34;JP&#34;; amzn_assoc_placement =&#34;&#34;; amzn_assoc_search_type = &#34;search_widget&#34;;amzn_assoc_width =&#34;auto&#34;; amzn_assoc_height =&#34;auto&#34;; amzn_assoc_default_search_category =&#34;&#34;; amzn_assoc_default_search_key =&#34;スクレイピング&#34;;amzn_assoc_theme =&#34;light&#34;; amzn_assoc_bg_color =&#34;FFFFFF&#34;;  </description>
-    </item>
-    
-    <item>
-      <title>Pythonスクレイピング・クローリング(2) ~CSSセレクタで要素・テキストの抽出~</title>
-      <link>https://busi-base.tk/programming/scrap2/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/scrap2/</guid>
-      <description>amzn_assoc_ad_type =&amp;ldquo;responsive_search_widget&amp;rdquo;; amzn_assoc_tracking_id =&amp;ldquo;kumamon10a-22&amp;rdquo;; amzn_assoc_marketplace =&amp;ldquo;amazon&amp;rdquo;; amzn_assoc_region =&amp;ldquo;JP&amp;rdquo;; amzn_assoc_placement =&amp;ldquo;&amp;rdquo;; amzn_assoc_search_type = &amp;ldquo;search_widget&amp;rdquo;;amzn_assoc_width =&amp;ldquo;auto&amp;rdquo;; amzn_assoc_height =&amp;ldquo;auto&amp;rdquo;; amzn_assoc_default_search_category =&amp;ldquo;&amp;rdquo;; amzn_assoc_default_search_key =&amp;ldquo;スクレイピング&amp;rdquo;;amzn_assoc_theme =&amp;ldquo;light&amp;rdquo;; amzn_assoc_bg_color =&amp;ldquo;FFFFFF&amp;rdquo;;</description>
-    </item>
-    
-    <item>
       <title>統計Rを使った分析（１）</title>
-      <link>https://busi-base.tk/programming/r1/</link>
+      <link>https://busi-base.tk/programming/r_1/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://busi-base.tk/programming/r1/</guid>
+      <guid>https://busi-base.tk/programming/r_1/</guid>
       <description>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。
 今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。
 スカラー平均

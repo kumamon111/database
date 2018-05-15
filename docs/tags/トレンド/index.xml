@@ -13,10 +13,10 @@
     
     <item>
       <title>統計Rを使った分析（１）</title>
-      <link>https://busi-base.tk/programming/r1/</link>
+      <link>https://busi-base.tk/programming/r_1/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://busi-base.tk/programming/r1/</guid>
+      <guid>https://busi-base.tk/programming/r_1/</guid>
       <description>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。
 今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。
 スカラー平均

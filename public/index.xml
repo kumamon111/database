@@ -119,78 +119,6 @@ SLAM is the major technology that is implemented in autonomous drones and roboti
     </item>
     
     <item>
-      <title>NY第2弾 〜ゴッホを探せ〜</title>
-      <link>https://busi-base.tk/degawa/ny201702-3/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/degawa/ny201702-3/</guid>
-      <description>出川イングリッシュのおさらい  password: degawaen
-「ゴッホ」 出川：gohho  正解：Van Gogh
-「肖像画」 出川：face  正解：portrait
-「本当にありがとう」 出川：very like very like  正解：I appreciate.
-ネイティブが使っていた重要表現 I don&amp;rsquo;t think any of his portraits are here in New York.  ニューヨークに彼の肖像画はないと思うわ。
-Many paintings by him are here, at MoMA and in the Met so you should go in and check.  彼の絵はここにたくさんあるから、MoMAそれからメトロポリタン美術館は行ってチェックしてみて。</description>
-    </item>
-    
-    <item>
-      <title>NY第2弾 〜空母を探せ〜</title>
-      <link>https://busi-base.tk/degawa/ny201702-2/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/degawa/ny201702-2/</guid>
-      <description>出川イングリッシュのおさらい  password: degawaen
-「空母」 出川：sky mama  正解：aircraft career
-「どこにあるの？」 出川：where you are?  正解：where is it?
-「私も旅行で来てます」 出川：my も tourist  正解：I am tourist.
-「どうやって行くの？」 出川：my も tourist  正解：I am tourist.
-ネイティブが使っていた重要表現 The boats take you to the statue of liberty.  ボートを使って自由の女神まで行けるよ。
-it is all way down. From here all way down.  ここからずっと向こうに行くんだ。</description>
-    </item>
-    
-    <item>
-      <title>Pythonスクレイピング・クローリング(1) ~HTMLの読み込み~</title>
-      <link>https://busi-base.tk/programming/scrap1/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/scrap1/</guid>
-      <description> amzn_assoc_ad_type =&#34;responsive_search_widget&#34;; amzn_assoc_tracking_id =&#34;kumamon10a-22&#34;; amzn_assoc_marketplace =&#34;amazon&#34;; amzn_assoc_region =&#34;JP&#34;; amzn_assoc_placement =&#34;&#34;; amzn_assoc_search_type = &#34;search_widget&#34;;amzn_assoc_width =&#34;auto&#34;; amzn_assoc_height =&#34;auto&#34;; amzn_assoc_default_search_category =&#34;&#34;; amzn_assoc_default_search_key =&#34;スクレイピング&#34;;amzn_assoc_theme =&#34;light&#34;; amzn_assoc_bg_color =&#34;FFFFFF&#34;;  </description>
-    </item>
-    
-    <item>
-      <title>Pythonスクレイピング・クローリング(2) ~CSSセレクタで要素・テキストの抽出~</title>
-      <link>https://busi-base.tk/programming/scrap2/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/programming/scrap2/</guid>
-      <description>amzn_assoc_ad_type =&amp;ldquo;responsive_search_widget&amp;rdquo;; amzn_assoc_tracking_id =&amp;ldquo;kumamon10a-22&amp;rdquo;; amzn_assoc_marketplace =&amp;ldquo;amazon&amp;rdquo;; amzn_assoc_region =&amp;ldquo;JP&amp;rdquo;; amzn_assoc_placement =&amp;ldquo;&amp;rdquo;; amzn_assoc_search_type = &amp;ldquo;search_widget&amp;rdquo;;amzn_assoc_width =&amp;ldquo;auto&amp;rdquo;; amzn_assoc_height =&amp;ldquo;auto&amp;rdquo;; amzn_assoc_default_search_category =&amp;ldquo;&amp;rdquo;; amzn_assoc_default_search_key =&amp;ldquo;スクレイピング&amp;rdquo;;amzn_assoc_theme =&amp;ldquo;light&amp;rdquo;; amzn_assoc_bg_color =&amp;ldquo;FFFFFF&amp;rdquo;;</description>
-    </item>
-    
-    <item>
-      <title>twitchコインとは？徹底解析</title>
-      <link>https://busi-base.tk/technology/twitch/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/twitch/</guid>
-      <description>詳細 種類: ゲーム動画共有サイトプラットフォーム Website: https://www.twitch.tv/
-Twitch（ツイッチ）は、Amazon.com が提供するライブストリーミング配信プラットフォームである。
-2011年6月に総合的なライブストリーミング配信サイト Justin.tv から、コンピュータゲームに特化したプラットフォームとして派生して立ち上げられた。運営はサイト名と同名の組織が行っていたが、2014年8月、AmazonがTwitchを買収したことを正式に発表。それに関連して、Justin.tv の運営企業は Twitch に特化するため Twitch Interactive に社名を変更、2014年8月には Justin.tv は閉鎖された。また音楽に関連したストリーミングも行われている。2015年の Twitch による公表では、一月あたり150万人以上の配信者と1億人以上の視聴者が存在する。2016年8月17日にゲームコミュニティを運営しているCurse, Inc.を買収した。
-技術的詳細 Algorithm: Scrypt
-Type: PoW
-Coin name: Twitch
-Coin abbreviation: TWC
-Address: letter T
-RPC port: 25692
-P2P port: 25691
-Block reward: 45 coins
-Total coin supply: 21,000,000 coins
-Premine percent: 10%
-Premine amount: 2,100,000 coins
-Coinbase maturity: 10 blocks
-Target spacing: 10 minutes
-Target time span: 20160 minutes</description>
-    </item>
-    
-    <item>
       <title>ブロックチェーン企業一覧</title>
       <link>https://busi-base.tk/database/blockchain/</link>
       <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
@@ -206,41 +134,6 @@ Target time span: 20160 minutes</description>
       
       <guid>https://busi-base.tk/database/vc/</guid>
       <description>会社名 HP     アーキタイプベンチャーズ株式会社 http://archetype.co.jp/   株式会社 iSGSインベストメントワークス http://isg-iw.com/home/   株式会社アコード・ベンチャーズ http://accordventures.co.jp   アント・キャピタル・パートナーズ株式会社 http://www.antcapital.jp/   池田泉州キャピタル株式会社 http://www.ikegin-c.jp/   伊藤忠テクノロジーベンチャーズ株式会社 http://www.techv.co.jp/   いよぎんキャピタル株式会社 http://www.iyobank.co.jp/about_iyo/kigyoudata/iyprga01/group/iyprgu07.html   インキュベイトファンド http://incubatefund.com/   インフィニティ・ベンチャーズ http://www.infinityventures.com/   株式会社WiL http://wilab.com/   ウエルインベストメント株式会社 http://www.vweruinvest.com/about_profile_ja.html   Eight Roads Capital Advisors (Hong Kong) Limited Japan Branch https://eightroads.com/en   エス・アイ・ピー株式会社 http://sip-vc.com/   SBIインベストメント株式会社 http://www.</description>
-    </item>
-    
-    <item>
-      <title>就活コンサル事業</title>
-      <link>https://busi-base.tk/job/newgrad/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/newgrad/</guid>
-      <description>ハイクラス新卒ポジションの就職サポート Business Baseでは、数名のプロヘッドハンターと協力し、意識高い系の皆さんの就職活動をバックアップします。
-ここでご紹介するものはハイクラスのポジションに限定されています。
-・ 外資ITコンサル
-・ 外資系ファンド
-・ 外資系投資銀行
-・ 日系ファンド　等
-登録前に審査を行いますので、ご興味のある方は下記のフォームからご応募お願いします。
-
-お問い合わせフォーム *メールアドレス*レジュメ添付
-Powered by FormMailer.</description>
-    </item>
-    
-    <item>
-      <title>業務の99%が英語のインターン一覧</title>
-      <link>https://busi-base.tk/job/eintern/</link>
-      <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/eintern/</guid>
-      <description>「英語が活かせるインターン」で英語を使うことは滅多にない!? 「英語が活かせるインターン」  「……。」   実はそんな英語使ってません。 あっても翻訳とかその程度です。 だって日本にある企業ですもん。 みんな日本語しゃべれますから&amp;hellip;  
-「じゃあそういうところってないの？」  安心してください、下に載ってますよ   今回はいろんなコネクションを使って集めた情報から厳選して、本当に英語しか使わないそんなインターンを紹介します。 絶対知らないと思います。     
- 留学生・英語でのインターンを行いたい学生必見
- Xenon ventures  アメリカの連続起業家・ジョナサンのもとのベンチャーキャピタル。メンバーはほとんど海外で、勤務体系が非常にフレキシブルだ。ぶっちゃけめっちゃおすすめ！
-https://careerbaito.com/job/12316 [職種] マーケティング  
-PSYGIG  IoT関連のソフトウェア企業。シリコンバレーで立ち上げ、現在は日本に拠点を置く。
-http://psygig.com/ [職種] エンジニア　 
-Cafe Wifi 創業者はハーバード出身。ボードメンバーは海外の二人で、エンジニア。ちなみにパブリッシュはしてないが、エンジニアの募集をかけるかも。
-hello@remoteworkinc.com [職種] 要相談</description>
     </item>
     
     <item>
@@ -268,60 +161,11 @@ B9ラボアカデミー（英国） https://academy.</description>
     </item>
     
     <item>
-      <title>外資系ファンド新卒募集！</title>
-      <link>https://busi-base.tk/job/finance/</link>
-      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/finance/</guid>
-      <description>Business Baseでは、日本最大級のエグゼクティブサーチ企業であるウェストイーストコンサルの協力のもと、
-意識の高いあなたにハイクラスの新卒ポジションをご紹介しています。
-以下のポジションにご興味のある方は、下のフォームからレジュメを添付の上、ご応募ください。
-会社名 米系投資ファンド　foreign investment fund  求める人材  新卒(ファイナンス専攻が好ましい)、または24歳以下でビジネス英語のできる者 金融業界に興味のある者 日本語が話せる  position Junior position  base + bonus. Base 〜 6 million yen / 1year + bonus  start data 04/2018~  レジュメを添付の上、こちらまでご送付ください。 *レジュメ添付
-
-最新のポジション情報を受け取りたい方はこちらから登録をお願いします。</description>
-    </item>
-    
-    <item>
-      <title>新しい就活の方法”ハイレベル企業への最短ジョブハンティング”</title>
-      <link>https://busi-base.tk/job/jhunting/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/jhunting/</guid>
-      <description>意識の高いみなさん。みなさん就活頑張ってますか？
-就活ってめんどくさいですよね。
-ES書いてグループワークやって何回も面接して&amp;hellip;結局受かったと思ったら仕事がつまらなすぎて転職して。
-なんでこんな就活方式なんでしょうか。
-日本は一般に大学3年生またはM1で集団就活を行いますよね。
-じつは外国ではまったく違う方法で就活を行なっています。
-
-日本とは違う海外の就活方法 -USAではほとんどの学生が長期のインターンシップ経由- アメリカ企業は基本的に通年採用であるため、就活の時期は人によってまちまちです。基本的には企業へ直接連絡を取りインターンシップのジョブをゲットします。注目したいのはインターンシップなのにジョブである点です。日本のインターンシップとは違い、アメリカではポジションにつきながら6ヶ月以上の実践経験をこなします。また、これはジョブなので有給です。ちなみにFacebookとかだと月収が約80万にもなるそうです(こちらを参照)。インターン以外でも、ヘッドハンターに目をつけてもらい、そこから国内トップの投資銀行に就職したりするケースも少なくはありません。
-
-どうしてこんなにも違うのか  スキルと経験を好む  海外では基本的には、大学の専攻と関連した職種に就くのが一般的です。日本のように「文学部」の学生が銀行に就職したり、「エンジニア」が経理になるなんてことはまずありません。
- 職種ベース  上とも関連しますが、基本的に海外の学生は「どんな職種に就きたいか」について話します。日本人が「どこの企業で働きたいか」というのとは全く異なります。
- 入社してからすぐに実践的な仕事を任せられる  海外ではポジションやそれぞれのタスクもあらかじめ与えられていますので、そこに仕事ができない人が就けばたちまちオペレーションが回らなくなるため、新卒だろうが即戦力を採用します。
-
-集団就活だけじゃない! 上の例でもあるように、何も集団就活じゃなくていいんです。そこで今から提案したいのは、自分に合うかつハイレベル企業への最短ジョブハンティングです。
-
-ヘッドハンターを使った新しい就職活動の方法 ヘッドハンターって聞いたことありますか？シニアポジションの経験・スキルあるハイクラス人材を、企業から依頼を受け紹介する職業のことです。エグゼクティブサーチがその一例ですが、基本的にターゲットは30-50歳のマネージャークラスから上だと考えて良いでしょう。しかし、どうしてターゲットの違うヘッドハンターを通してジョブハンティングできるのでしょうか？それには、理由は２つあります。
- 企業が若手の価値を高く評価し、教育投資を惜しまなくなった
- ハイクラスポジションの人材不足
-  そこでヘッドハンターも現在、大学生・院生とのコネクション形成に力を入れており、それゆえヘッドハンター経由でのハイクラス就活が可能になっているわけです。
-
-ヘッドハンターとの連絡手段  インターンでのイベント営業  現在お付き合いのあるヘッドハンターのほとんどはイベントでの営業でお会いしました。イベントとは企業ブースを設け、製品の紹介などを行いカスタマーとのコミュニケーションを加速させるフェアのようなものです。ex.Japan IT Week
- Wantedly / LinkedInの活用  オファー: Wantedlyなど履歴書が掲載できるところでは、優秀なレジュメを乗せると企業やヘッドハンターからの連絡があったりします。
-コンタクト: 自分で行きたい企業に直接アプローチするのもありですが、経験上ほとんどの場合で相手にしてもらえなかったり、ポジションが空いてないことが多いです。ヘッドハンターはそのような情報も全て保持しており、かつWantedlyやLinkedInを彼らは逐次チェックしているため、返信率は90%をこえます。効率は高いです。
-
-相談乗ります！ Business Baseでは、数名のプロヘッドハンターと協力し、意識高い系の皆さんの就職活動をバックアップします。
-ハイクラスの新卒ポジションにご興味ある方は、こちらからご登録ください。
-現在募集中のポジションはこちら</description>
-    </item>
-    
-    <item>
       <title>統計Rを使った分析（１）</title>
-      <link>https://busi-base.tk/programming/r1/</link>
+      <link>https://busi-base.tk/programming/r_1/</link>
       <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://busi-base.tk/programming/r1/</guid>
+      <guid>https://busi-base.tk/programming/r_1/</guid>
       <description>今後ビックデータの発展によってますます期待が高まる未来予測。その中で最も不確実性の高い（私が知る中では）為替・株式相場の分析を行っていきたいと思います。この件に関しましては全くのビギナーでありますので、学習したことをつらつら綴るような記事にはなると思いますが、同じような志を持つ学生とともに作り上げ、将来につなげていければと思います。
 今回はまず、今後の統計にあたって必要なコマンドを紹介していきます。
 スカラー平均
@@ -336,99 +180,6 @@ amzn_assoc_ad_type =&#34;responsive_search_widget&#34;; amzn_assoc_tracking_id =
     </item>
     
     <item>
-      <title>新規事業提案のフレームワーク</title>
-      <link>https://busi-base.tk/job/nbusiness/</link>
-      <pubDate>Sat, 23 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/nbusiness/</guid>
-      <description>インターンや就活の時期になってまいりましたが、そこで必ず出くわすのが”新規事業提案”のグループワーク。しかし、参加者のバックグラウンドは様々で、ビジネス系でないことが多いため、最初にどこから手をつけるべきか困惑した人は少なくもないのではないでしょうか。この記事では、そうした提案に使えるフレームワークを順に従って紹介していきます。   
-1 まず何から手をつけるべきか おそらくテーマは様々あると思います。  「今より売上を〜万円上げろ」 「新規サービス企画」 「プロモーション施策」etc&amp;hellip;  しかし、どんな新規事業にも克服すべき課題があるはずです。まずはそれを明確にしていきましょう。 
-
-2 課題抽出の為の現状分析（3C・SWOT分析） 課題を探るため、まずは現状分析から始めます。これを助けてくれるのが&amp;rdquo;3C&amp;rdquo;というフレームワークです。
-3C分析の基盤となる3Cのフレームワーク 3C分析では、3Cと呼ばれるフレームワークがあります。この3つのCとそれぞれのCの相関を明らかにすることで、3C分析を進めていきます。3Cフレームワークの、それぞれのCは市場におけるプレーヤーを意味し、それぞれ、顧客：Customer）、競合（Competitor）、自社（Company）を指しています。このそれぞれの頭文字をとって3Cと呼んでいます。それぞれの3Cの要素について以下にまとめました。
-   (adsbygoogle = window.adsbygoogle || []).push({});     3C      市場・顧客 市場や顧客のニーズの変化を知る   競合 競合が市場や顧客のニーズの変化にどのように対応しているかを知る   自社 自社が市場や顧客にニーズの変化に合わせ、競合の対応を鑑みながら、自社が成功する要因を見いだす    参照: カイロスホームページより
- 
-⬜︎ ケースサンプル では実際のケースを見ていきましょう。日産自動車を取り上げて見たいと思います。
-自社  ・海外自動車メーカーとの提携により、グローバル自動車メーカーとして事業基盤を固めつつある。
-・トップの方針が明確である。
-・グローバル５極に生産拠点がある。
-・ＥＶ（電気自動車）の技術力に自信
-・絶大なプロモーション力
- 競合  ・ハイブリッドカーではトヨタ、ホンダが強い</description>
-    </item>
-    
-    <item>
-      <title>独占入手あり 「高時給な外銀インターンまとめ」</title>
-      <link>https://busi-base.tk/job/aintern/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/aintern/</guid>
-      <description>激レアの外資金融インターンシップ情報を公開 外資金融に興味ある方に朗報です。基本的に外資はリクルートのために大学生・院生に対して1-2年程度のフルタイムジョブをかします。この間、結果を収めた学生は自動的に内定が決まり、さらにインターンが勤務経験として認められるため、もし新卒で別の会社に行く場合は中途採用扱いとなり、通常の新卒クラスの待遇をはるかに超えます。しかしこのキャリアパスを得るには、二つの難関があります。   
-1 インターンが非公開またはHPのみでの公開 そもそも何千とある外資金融のHPをわざわざ訪れるなんてこと普段しないですよね。また非公開の場合、問い合わせをすることになるのですが、確率は非常に低く、返信もそんなに多くありません。
-2 見つけたとしても入社のハードルが高い  外資の金融、それこそお化けみたいなキャリアパスを踏んできた奴がゴロゴロいますから、当然ハードルは高いものです。基本的に、学歴・経歴・英語が選考要素ですが、ただポテンシャルをしっかり見てくれる会社もあります。   
-  
-︎︎情報を見逃さないために&amp;hellip; キーワードは「外資　長期インターン　金融」とかでだいぶ絞れます。最近はインターンサイトでも外資系の長期インターンを扱うようにはなってきましたが、基本的にターゲットとなる外資系金融機関は公にパブリッシュしないことが多いので、インターンサイトの検索は省くようにしておく必要があるでしょう。
-
- Google alert  グーグルでグーグルアラートを使って、ネット上に情報が出た瞬間、自分に通知がいくようにします。https://www.google.com/alerts?hl=ja
- IFTTT  IFTTTとはこのブログの中でも紹介していますが（こちら）google alertやtwitterとも連動できるソフトウェアです。google alertやtwitterで設定したキーワードを自動的にグーグルのエクセルに落とし込みます。
-
-
-連絡手段 非公開の場合、基本的に企業に問い合わせることが必要になりますが、外資金融はリクルートを人材会社に任せている場合も多くあるため、HPに連絡先が書いていないこともあります。また、基本的に問い合わせからくる連絡は投資家からの問い合わせ窓口にもなっているので、おそらく返信が来る確率は10%もないでしょう。
- 
-linkedinからコンタクトしてみよう (https://www.linkedin.com) linkedinとは、世界最大級のビジネス用SNSで、日本では有名ではないですが、 海外では知らない方が珍しく、外資系に勤める日本人は100%登録しています。 基本的に、海外の学生は日本のように大規模な就活イベントがないので、このlinkedinから人事に直接アプローチし、内定にこぎつけます。 linkedinのいいところは、社会人が学生に対し非常にオープンだということです。 ちなみにFacebookとLinkedinで返信率はどちらが高いかを検証したところ、linkedinは約60%・Facebookは約30%でした。 興味深かったのは、同一人物に両方のSNSからメッセージすると、linkedinからのみ返信が来たことでした。(もちろん名前は違う名前で送信しましたよ笑）。 おそらくlinkedinはBusiness要素が強いため仕事の一環として扱っており、それゆえ企業の看板としておろそかな対応にはできないのでしょう。 
-   (adsbygoogle = window.adsbygoogle || []).push({});   
-ひとまず有名どころだけ公開 以下にとりあえず5社ほど掲載しておきました。
-興味のある方はぜひ、メールまたは先ほど紹介したlinkedinからメッセージしてみてください。
-1 Western Asset http://www.westernasset.co.jp/ja/index.cfm
-期間：3 month 給与：N/A 難易度：☆☆</description>
-    </item>
-    
-    <item>
-      <title>世界高級自動車会社のインターン</title>
-      <link>https://busi-base.tk/job/bmw/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/bmw/</guid>
-      <description>企業名 BMW 
-職務内容  BMW Group Japan is providing several options for your internship experience. The areas of the programme are in Marketing, Sales planning, finance, Engineering etc. Job description
-Current openings :
-1)Engineering ( 2017 Oct - 2018 March ) ASAP
-2)Marketing (2017 Dec - 2018 May)
-3)Back Office (2018 Jan -2018 Jun) 
- 登録資格  Required soft skills: be able to work under pressure and with tight timelines, if required work long working hours, take initiative, independent thinking, ability to assimilate and adapt quickly to a Japanese and international team.</description>
-    </item>
-    
-    <item>
-      <title>Dimeコインとは？徹底解析</title>
-      <link>https://busi-base.tk/technology/dime/</link>
-      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/dime/</guid>
-      <description>概要 HP: http://dimecoin.org, http://www.dimecoin.es/
-技術詳細 Specifications:
- Based on Quark CPU mining 64 sec Block 65536 sec (~18hrs &amp;amp; 1024 blocks) difficulty change (max. 10% up/50% down) 80 confirms 1024 coins per block (halving every 512000 blocks ~ 375 days ) Total ~460 billion coins  Block reward:
-Block 1 = 1024
-Block 2 = 2048
-Block 3 = 3072 &amp;hellip; Block 1024 = 1048576
-Block 1025 = 1024</description>
-    </item>
-    
-    <item>
-      <title>Siaコインとは？徹底解析</title>
-      <link>https://busi-base.tk/technology/sia/</link>
-      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/technology/sia/</guid>
-      <description>概要 HP: https://sia.tech/get-siacoin/
-Siacoinは、Siaプラットフォームで使用される暗号通貨です。これは、Sia暗号化ブロックチェーンネットワークで使用されるトークンです。
-Siaは、2015年6月に開始されたブロックチェーンベースのクラウドストレージスペースです。これは、ストレージスペースを提供するための最も大規模なインターネット投資の一歩を踏み出すためのユニークな暗号化方式です。 DropboxやGoogleドライブなど、ブロックチェーン技術に基づいていないものと競合しています。
-初期コイン・オファリング（ICO）を使用して資金を作り出す代わりに、暗号化の開始は起源ブロック・マイニングによって開始され、125万ドルに達しました。資金は、主にフェンブシ・キャピタルやプロシーオン・ベンチャーズのような大きな投資家からのものでした。
-Siacoinは、クラウドストレージスペースの世界でブロックチェーンテクノロジを導入しています。これは、SCコインが分散したクラウドストレージスペースを提供し、ユーザーがSiacoinを支払う必要があることを意味します。また、Dropboxのような通常のクラウドストレージとは異なり、Siaのストレージは暗号化される可能性があります。
-Siaクラウドストレージスペースに課金される料金は非常に低く、したがってインターネット接続がある限り、誰にでも手頃な価格です。
-プライスチャート  Register HitBTC  Tweets by Twitch  Register HitBTC</description>
-    </item>
-    
-    <item>
       <title>お問い合わせ</title>
       <link>https://busi-base.tk/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -438,18 +189,6 @@ Siaクラウドストレージスペースに課金される料金は非常に�
 お問い合わせ内容
   Powered by FormMailer.
  </description>
-    </item>
-    
-    <item>
-      <title>エグゼグティブサーチを行う外コン一覧</title>
-      <link>https://busi-base.tk/job/exective/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://busi-base.tk/job/exective/</guid>
-      <description>エグゼクティブサーチとは 役員などの経営幹部または特定の専門的なスキルを持った人材を、外部からスカウトする業務を指す。ヘッドハンティングとも。欧米諸国と比較すると、日本では2000年代までは、経営幹部の外部からの招聘はあまり盛んとは言えなかったが、2010年代に入ると、 サントリーにローソンから新浪剛史が、 ベネッセに日本マクドナルドから原田泳幸が、 資生堂に日本コカ・コーラから魚谷雅彦が、LIXILにゼネラル・エレクトリックから藤森義明が、社長としてスカウトされるケースが増えたことで、その背後にあるエグゼクティブサーチに対しても注目が集まっている。
-
- 
-   会社名     コーン・フェリー   http://www.haygroup.com/jp/careers/index.aspx?id=4827   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   エゴンゼンダー   http://www.egonzehnder.com/jp/   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   スペンサースチュアート   https://candidateregistration.spencerstuart.com/   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   ハイドリック・アンド・ストラグルズ   http://www.heidrick.co.jp/page/58/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1   &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;   ラッセル・レイノルズ   http://www.russellreynolds.com/</description>
     </item>
     
   </channel>
