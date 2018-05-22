@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://busi-base.tk/technology/drone/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://busi-base.tk/database/payme/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -77,7 +82,7 @@
   
   <url>
     <loc>https://busi-base.tk/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,7 +147,7 @@
   
   <url>
     <loc>https://busi-base.tk/technology/</loc>
-    <lastmod>2018-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -188,7 +193,19 @@
   
   <url>
     <loc>https://busi-base.tk/tags/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</loc>
-    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/categories/%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,6 +230,12 @@
   <url>
     <loc>https://busi-base.tk/tags/%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%94%E3%82%BF%E3%83%AB/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</loc>
+    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

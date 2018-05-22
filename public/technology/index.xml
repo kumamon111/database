@@ -6,10 +6,25 @@
     <description>Recent content in Technology on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/technology/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>フライトコントローラーとは、最新の動向は？</title>
+      <link>https://busi-base.tk/technology/drone/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/drone/</guid>
+      <description>フライトコントローラーとは ドローンが安定した飛行を行うために、不可欠な制御システムのこと。各種のセンサー(IMU)から得られる情報を瞬時に解析し、機体の飛行制御を行う。センサーからの情報を得て計算を行いモーターなどを制御するハードウェア回路と、そのハードウェアをコントロールするソフトウェアによって構成されている。
+フライトコントローラーの構成  センサ  ジャイロセンサー
+加速度センサー
+コンパス etc&amp;hellip;
+ マイクロコンピューター
+ GNSS
+  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。</description>
+    </item>
     
     <item>
       <title>マシンラーニングとディープラーニングの違い</title>

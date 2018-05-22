@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>マイコン on Business base</title>
+    <link>https://busi-base.tk/tags/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/</link>
+    <description>Recent content in マイコン on Business base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://busi-base.tk/tags/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>フライトコントローラーとは、最新の動向は？</title>
+      <link>https://busi-base.tk/technology/drone/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/technology/drone/</guid>
+      <description>フライトコントローラーとは ドローンが安定した飛行を行うために、不可欠な制御システムのこと。各種のセンサー(IMU)から得られる情報を瞬時に解析し、機体の飛行制御を行う。センサーからの情報を得て計算を行いモーターなどを制御するハードウェア回路と、そのハードウェアをコントロールするソフトウェアによって構成されている。
+フライトコントローラーの構成  センサ  ジャイロセンサー
+加速度センサー
+コンパス etc&amp;hellip;
+ マイクロコンピューター
+ GNSS
+  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。</description>
+    </item>
+    
+  </channel>
+</rss>
