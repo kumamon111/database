@@ -6,10 +6,21 @@
     <description>Recent content in Programming on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/programming/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>twitterアンフォローを一瞬で</title>
+      <link>https://busi-base.tk/programming/twitters/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/twitters/</guid>
+      <description>twitter unfollow code javascript:(function(){var $followElem=$(&amp;lsquo;.following .js-follow-btn&amp;rsquo;);var followElemCount=$followElem.length;var currentNum=0;var manager=function(){if(currentNum&amp;lt;followElemCount){performer($followElem.eq(currentNum));currentNum+=1;}else{alert(&amp;lsquo;完了！&amp;rsquo;);}};var performer=function($elem){var rand=(Math.floor(Math.random()*1000))+100;setTimeout(function(){$elem.trigger(&amp;lsquo;click&amp;rsquo;);manager();},rand);};manager();})();
+このコードをコンソールに入力するだけ。
+参照元は、こちら</description>
+    </item>
     
     <item>
       <title>Pythonで機械学習！第一回</title>

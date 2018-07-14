@@ -6,10 +6,21 @@
     <description>Recent content on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>twitterアンフォローを一瞬で</title>
+      <link>https://busi-base.tk/programming/twitters/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/twitters/</guid>
+      <description>twitter unfollow code javascript:(function(){var $followElem=$(&amp;lsquo;.following .js-follow-btn&amp;rsquo;);var followElemCount=$followElem.length;var currentNum=0;var manager=function(){if(currentNum&amp;lt;followElemCount){performer($followElem.eq(currentNum));currentNum+=1;}else{alert(&amp;lsquo;完了！&amp;rsquo;);}};var performer=function($elem){var rand=(Math.floor(Math.random()*1000))+100;setTimeout(function(){$elem.trigger(&amp;lsquo;click&amp;rsquo;);manager();},rand);};manager();})();
+このコードをコンソールに入力するだけ。
+参照元は、こちら</description>
+    </item>
     
     <item>
       <title>フライトコントローラーとは、最新の動向は？</title>
@@ -18,12 +29,12 @@
       
       <guid>https://busi-base.tk/technology/drone/</guid>
       <description>フライトコントローラーとは ドローンが安定した飛行を行うために、不可欠な制御システムのこと。各種のセンサー(IMU)から得られる情報を瞬時に解析し、機体の飛行制御を行う。センサーからの情報を得て計算を行いモーターなどを制御するハードウェア回路と、そのハードウェアをコントロールするソフトウェアによって構成されている。
-フライトコントローラーの構成  センサ  ジャイロセンサー
-加速度センサー
-コンパス etc&amp;hellip;
+フライトコントローラーの構成  センサ
  マイクロコンピューター
  GNSS
-  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。</description>
+  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。
+プロコン DJI&amp;hellip; データが取れない。
+Pixhawk&amp;hellip; データは取れるが、データをみるツールがない。</description>
     </item>
     
     <item>
