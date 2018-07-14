@@ -14,20 +14,9 @@ description: ドローンの脳であるフライトコントローラーを徹�
 
 - センサ
 
-ジャイロセンサー
-
-加速度センサー
-
-コンパス etc...
-
 - マイクロコンピューター
 
-
-
 - GNSS
-
-
-
 
 
 ### フライトコントローラーの種類
@@ -36,3 +25,10 @@ description: ドローンの脳であるフライトコントローラーを徹�
 
 
 <img class="wp-image-3005 size-full td-animation-stack-type0-2" src="http://dronemedia.jp/wp-content/uploads/flight-controller.jpg" alt="flight-controller">
+
+
+### プロコン
+
+DJI... データが取れない。
+
+Pixhawk... データは取れるが、データをみるツールがない。
