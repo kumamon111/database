@@ -2,7 +2,7 @@
 title: twitterアンフォローを一瞬で
 date: 2018-07-14
 categories: [ "プログラミング" ]
-tags: [ "プログラミング", "javascript", "twitter" ]
+tags: [ "プログラミング", "javascript", "twitter", "アンフォロー", "一瞬" ]
 description: twitterのアンフォローを一瞬で行う方法！
 ---
 

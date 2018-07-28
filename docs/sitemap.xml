@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://busi-base.tk/programming/course/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/database/leanstartup/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/programming/twitters/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://busi-base.tk/technology/drone/</loc>
     <lastmod>2018-05-11T00:00:00+00:00</lastmod>
   </url>
@@ -82,7 +97,13 @@
   
   <url>
     <loc>https://busi-base.tk/</loc>
-    <lastmod>2018-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/c&#43;&#43;/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,19 +120,31 @@
   
   <url>
     <loc>https://busi-base.tk/database/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/javascript/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/leanstartup/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://busi-base.tk/programming/</loc>
-    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://busi-base.tk/tags/python/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,6 +157,18 @@
   <url>
     <loc>https://busi-base.tk/tags/slam/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/startup/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/categories/startup/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,6 +197,12 @@
   </url>
   
   <url>
+    <loc>https://busi-base.tk/tags/twitter/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://busi-base.tk/tags/vc/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -162,8 +213,14 @@
   </url>
   
   <url>
+    <loc>https://busi-base.tk/tags/%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://busi-base.tk/tags/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
-    <lastmod>2018-04-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -217,13 +274,13 @@
   
   <url>
     <loc>https://busi-base.tk/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://busi-base.tk/categories/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
-    <lastmod>2018-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -254,6 +311,18 @@
   <url>
     <loc>https://busi-base.tk/categories/%E3%83%AA%E3%82%B9%E3%83%88/</loc>
     <lastmod>2018-02-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97/</loc>
+    <lastmod>2018-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://busi-base.tk/tags/%E4%B8%80%E7%9E%AC/</loc>
+    <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,62 @@
     <description>Recent content on Business base</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://busi-base.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>エンジニアリングを学ぶためのオンラインコース5選（無料サイトも）</title>
+      <link>https://busi-base.tk/programming/course/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/course/</guid>
+      <description> プログラミングってどこで学べばいいの？ テクノロジーは、刻一刻と進化します。学んだ知識は、習得した時にはもうOld-fashionedなテクノロジーに変わってしまうかもしれません。
+ここでは、そんなプログラミング学習に最適な学習サイトを紹介します。
+1. Udacity(English/Japanese subtitle) Self-drivingを中心に取り扱う。
+ビジョン系を中心に充実。
+実践問題も混ぜながら行うため、理解度を逐次チェックできるところがポイント。
+ 2. Udemy(English/Japanese subtitle) 初心者向けの学習サイト。
+扱う分野は幅広い。
+デザイン◎
+ 3. Open course by MiT(English) オープンコースとしては最先端。
+無料。
+資料つき。
+ </description>
+    </item>
+    
+    <item>
+      <title>リーンスタートアップについて</title>
+      <link>https://busi-base.tk/database/leanstartup/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/database/leanstartup/</guid>
+      <description>1. Overview リーンスタートアップとは、スタートアップにおける１つの科学的アプローチで、PMF(Product Market Fit)を達成するために多く用いられています。以下の図で示すように、「カスタマーフィードバック⇄プロダクト開発」を高速で繰り返します。
+http://theleanstartup.com/principles
+
+2. Merit アジャイル的にPDCAを高速に回すので、開発が進みやすく、変化にも素早く対応できます。夏休みに入る前に夏休み２ヶ月分の計画を立てるのではなく、一週間ごとに計画を立て、プログレスがあればアーリーアダプターにインタビューに行きます。それを基に、また次の1週間の計画を立て&amp;hellip;この繰り返しです。その場その場でやりたいことができるので、フラストレーションもたまることは少ないです。（計画倒れする人特におすすめ）
+3. Demerit 言うは易しですが、実践にするとそううまくいきません。
+誰に聞けばいいの サービスをローンチしていてある程度ユーザーがすでにいる場合は、その中からコアなカスタマー（アーリーアダプター）を選定するのが一般的ですが、ニッチな領域であるため初期のカスタマーにリーチしにくい場合など、アーリーアダプターを見つけるのに一苦労する場合も少なくありません。
+間違った選定 アーリーアダプターがいても、例えばその人の好み・ニーズが偏っているなどの場合、100％頷いてしまうとその後の開発に大きな支障が出ます。
+4. Tool リーンスタートアップでは、ビジネスモデルの整理のためあるツールを使います。
+https://bmtoolbox.net/tools/lean-canvas/
+大きく２つのセグメント（プロダクト・マーケット）に分かれており、自社のビジネスを一枚に可視化します。オンライン・オフラインのリサーチ、また自社理解を進めていく中で一番真ん中「独自価値提案（UVP）」を絞っていくのです。
+5. もっと知りたい人 Book 顧客とのインタビューで、各フェーズごとのミーティングアジェンダ・テンプレート等が紹介されていたり、リーンスタートアップとしての極意がぎっしり詰まった本です。この本が一番濃厚でわかりやすいです。
+Article/Online THE LEAN STARTUP METHODOLOGY: http://theleanstartup.com/principles
+Ash Maurya(author) Youtube：https://www.youtube.com/channel/UCimRGeoiwUPmIddym-HdaCg</description>
+    </item>
+    
+    <item>
+      <title>twitterアンフォローを一瞬で</title>
+      <link>https://busi-base.tk/programming/twitters/</link>
+      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://busi-base.tk/programming/twitters/</guid>
+      <description>twitter unfollow code javascript:(function(){var $followElem=$(&amp;lsquo;.following .js-follow-btn&amp;rsquo;);var followElemCount=$followElem.length;var currentNum=0;var manager=function(){if(currentNum&amp;lt;followElemCount){performer($followElem.eq(currentNum));currentNum+=1;}else{alert(&amp;lsquo;完了！&amp;rsquo;);}};var performer=function($elem){var rand=(Math.floor(Math.random()*1000))+100;setTimeout(function(){$elem.trigger(&amp;lsquo;click&amp;rsquo;);manager();},rand);};manager();})();
+このコードをコンソールに入力するだけ。
+参照元は、こちら</description>
+    </item>
     
     <item>
       <title>フライトコントローラーとは、最新の動向は？</title>
@@ -18,12 +70,12 @@
       
       <guid>https://busi-base.tk/technology/drone/</guid>
       <description>フライトコントローラーとは ドローンが安定した飛行を行うために、不可欠な制御システムのこと。各種のセンサー(IMU)から得られる情報を瞬時に解析し、機体の飛行制御を行う。センサーからの情報を得て計算を行いモーターなどを制御するハードウェア回路と、そのハードウェアをコントロールするソフトウェアによって構成されている。
-フライトコントローラーの構成  センサ  ジャイロセンサー
-加速度センサー
-コンパス etc&amp;hellip;
+フライトコントローラーの構成  センサ
  マイクロコンピューター
  GNSS
-  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。</description>
+  フライトコントローラーの種類 現時点で圧倒的勢いを誇るDJI、もしくはPixhawkなどのFCを開発するオープンソース志向のDroneCode。
+プロコン DJI&amp;hellip; データが取れない。
+Pixhawk&amp;hellip; データは取れるが、データをみるツールがない。</description>
     </item>
     
     <item>
